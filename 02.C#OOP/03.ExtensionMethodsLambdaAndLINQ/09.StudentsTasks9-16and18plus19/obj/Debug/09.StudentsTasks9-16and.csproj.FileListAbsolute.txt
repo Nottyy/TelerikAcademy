@@ -1,0 +1,10 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\bin\Debug\09.StudentsTasks9-16and18plus19.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\bin\Debug\09.StudentsTasks9-16and18plus19.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\bin\Debug\09.StudentsTasks9-16and18plus19.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\obj\Debug\09.StudentsTasks9-16and18plus19.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\obj\Debug\09.StudentsTasks9-16and18plus19.pdb
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\bin\Debug\09.StudentsTasks9-16and18plus19.exe.config
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\obj\Debug\09.StudentsTasks9-16and18plus19.exe
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\obj\Debug\09.StudentsTasks9-16and18plus19.pdb
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\bin\Debug\09.StudentsTasks9-16and18plus19.exe
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\09.StudentsTasks9-16and18plus19\bin\Debug\09.StudentsTasks9-16and18plus19.pdb

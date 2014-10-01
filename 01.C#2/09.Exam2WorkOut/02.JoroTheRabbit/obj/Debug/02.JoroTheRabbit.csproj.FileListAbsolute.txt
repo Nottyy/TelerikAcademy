@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\02.JoroTheRabbit\bin\Debug\02.JoroTheRabbit.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\02.JoroTheRabbit\bin\Debug\02.JoroTheRabbit.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.JoroTheRabbit\bin\Debug\02.JoroTheRabbit.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\02.JoroTheRabbit\obj\Debug\02.JoroTheRabbit.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\02.JoroTheRabbit\obj\Debug\02.JoroTheRabbit.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.JoroTheRabbit\obj\Debug\02.JoroTheRabbit.pdb

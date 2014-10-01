@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ConsumingRemoteData\02.TwitterAPI\bin\02.TwitterAPI.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ConsumingRemoteData\02.TwitterAPI\bin\02.TwitterAPI.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\ConsumingRemoteData\02.TwitterAPI\bin\02.TwitterAPI.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ConsumingRemoteData\02.TwitterAPI\obj\Debug\02.TwitterAPI.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\ConsumingRemoteData\02.TwitterAPI\obj\Debug\02.TwitterAPI.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\ConsumingRemoteData\02.TwitterAPI\obj\Debug\02.TwitterAPI.pdb

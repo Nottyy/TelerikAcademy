@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\01.GetNumberOfRowsInCategoriesTable\bin\Debug\01.GetNumberOfRowsInCategoriesTable.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\01.GetNumberOfRowsInCategoriesTable\bin\Debug\01.GetNumberOfRowsInCategoriesTable.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\01.GetNumberOfRowsInCategoriesTable\bin\Debug\01.GetNumberOfRowsInCategoriesTable.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\01.GetNumberOfRowsInCategoriesTable\obj\Debug\01.GetNumberOfRowsInCategoriesTable.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\01.GetNumberOfRowsInCategoriesTable\obj\Debug\01.GetNumberOfRowsInCategoriesTable.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\01.GetNumberOfRowsInCategoriesTable\obj\Debug\01.GetNumberOfRowsInCategoriesTable.pdb

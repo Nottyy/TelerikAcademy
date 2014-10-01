@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\11.PermutationWithRepetitionOfGivenMultiSet\bin\Debug\11.PermutationWithRepetitionOfGivenMultiSet.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\11.PermutationWithRepetitionOfGivenMultiSet\bin\Debug\11.PermutationWithRepetitionOfGivenMultiSet.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\11.PermutationWithRepetitionOfGivenMultiSet\bin\Debug\11.PermutationWithRepetitionOfGivenMultiSet.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\11.PermutationWithRepetitionOfGivenMultiSet\obj\Debug\11.PermutationWithRepetitionOfGivenMultiSet.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\11.PermutationWithRepetitionOfGivenMultiSet\obj\Debug\11.PermutationWithRepetitionOfGivenMultiSet.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\11.PermutationWithRepetitionOfGivenMultiSet\obj\Debug\11.PermutationWithRepetitionOfGivenMultiSet.csprojResolveAssemblyReference.cache

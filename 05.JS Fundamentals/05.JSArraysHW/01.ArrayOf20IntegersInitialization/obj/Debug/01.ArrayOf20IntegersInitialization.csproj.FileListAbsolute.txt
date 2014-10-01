@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\01.ArrayOf20IntegersInitialization\bin\01.ArrayOf20IntegersInitialization.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\01.ArrayOf20IntegersInitialization\bin\01.ArrayOf20IntegersInitialization.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\01.ArrayOf20IntegersInitialization\bin\01.ArrayOf20IntegersInitialization.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\01.ArrayOf20IntegersInitialization\obj\Debug\01.ArrayOf20IntegersInitialization.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\01.ArrayOf20IntegersInitialization\obj\Debug\01.ArrayOf20IntegersInitialization.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\01.ArrayOf20IntegersInitialization\obj\Debug\01.ArrayOf20IntegersInitialization.pdb

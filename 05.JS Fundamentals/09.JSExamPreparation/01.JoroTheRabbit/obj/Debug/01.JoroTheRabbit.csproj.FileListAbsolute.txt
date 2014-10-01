@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\01.JoroTheRabbit\bin\01.JoroTheRabbit.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\01.JoroTheRabbit\bin\01.JoroTheRabbit.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\01.JoroTheRabbit\bin\01.JoroTheRabbit.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\01.JoroTheRabbit\obj\Debug\01.JoroTheRabbit.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\01.JoroTheRabbit\obj\Debug\01.JoroTheRabbit.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\01.JoroTheRabbit\obj\Debug\01.JoroTheRabbit.pdb

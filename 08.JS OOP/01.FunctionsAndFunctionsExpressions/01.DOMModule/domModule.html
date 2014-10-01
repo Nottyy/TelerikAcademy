@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dom Module</title>
+    <script src="domModule.js"></script>
+</head>
+<body>
+    <div id="wrapper"></div>
+    <script>
+        var div = document.createElement('div');
+        div.style.border = '1px solid black';
+        //div.style.display = 'inline-block';
+
+        //var ul = document.createElement('ul');
+        //var li = document.createElement('li');
+        //li.classList.add('first-li');
+        //li.innerText = 'Gosho';
+
+        //ul.appendChild(li);
+        //div.appendChild(ul);
+
+        var list = '<ul><li>ListItem1</li><li>ListItem2</li><li class="third-li" style="color:blue">ListItem3</li><li>ListItem4</li></ul>';
+        div.innerHTML += list;
+
+        domModule.appendChild('#wrapper', div);
+        domModule.removeChild("ul", "li:first-child");
+        domModule.addHandler('#wrapper ul li', 'click', function () {
+            alert('Clicked');
+        });
+
+        for (var i = 0; i < 100; i++) {
+            domModule.appendToBuffer('#wrapper', div.cloneNode(true));
+        }
+    </script>
+</body>
+</html>

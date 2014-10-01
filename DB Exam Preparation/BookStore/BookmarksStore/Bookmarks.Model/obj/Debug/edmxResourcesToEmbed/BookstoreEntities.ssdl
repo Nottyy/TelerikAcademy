@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookmarkingStore.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Bookmarks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="URL" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Notes" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookmarsTags">
+    <Key>
+      <PropertyRef Name="TagId" />
+      <PropertyRef Name="BookmarkId" />
+    </Key>
+    <Property Name="TagId" Type="int" Nullable="false" />
+    <Property Name="BookmarkId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tags">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TagName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="10" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Bookmarks_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Bookmarks" Type="Self.Bookmarks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Bookmarks">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BookmarsTags_Bookmarks">
+    <End Role="Bookmarks" Type="Self.Bookmarks" Multiplicity="1" />
+    <End Role="BookmarsTags" Type="Self.BookmarsTags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bookmarks">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BookmarsTags">
+        <PropertyRef Name="BookmarkId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BookmarsTags_Tags">
+    <End Role="Tags" Type="Self.Tags" Multiplicity="1" />
+    <End Role="BookmarsTags" Type="Self.BookmarsTags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tags">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BookmarsTags">
+        <PropertyRef Name="TagId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BookmarkingStoreStoreContainer">
+    <EntitySet Name="Bookmarks" EntityType="Self.Bookmarks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BookmarsTags" EntityType="Self.BookmarsTags" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tags" EntityType="Self.Tags" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Bookmarks_Users" Association="Self.FK_Bookmarks_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Bookmarks" EntitySet="Bookmarks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BookmarsTags_Bookmarks" Association="Self.FK_BookmarsTags_Bookmarks">
+      <End Role="Bookmarks" EntitySet="Bookmarks" />
+      <End Role="BookmarsTags" EntitySet="BookmarsTags" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BookmarsTags_Tags" Association="Self.FK_BookmarsTags_Tags">
+      <End Role="Tags" EntitySet="Tags" />
+      <End Role="BookmarsTags" EntitySet="BookmarsTags" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

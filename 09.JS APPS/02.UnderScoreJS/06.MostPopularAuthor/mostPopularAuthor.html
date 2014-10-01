@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>MostPopularAuthor</title>
+    <script src="Scripts/underscore-min.js"></script>
+    <script src="book.js"></script>
+</head>
+<body>
+    <script>
+        var books = [
+            new Book("Sancho", "Svobodata i salama"),
+            new Book("Sancho", "Pride and Prejudice"),
+            new Book("Gaco Bacov", "Jik Tak"),
+            new Book("Elin Pelin", "Emil ot Lioneberia"),
+            new Book("Viktor Hugo", "Les Miserables"),
+            new Book("Viktor Hugo", "Mes Fils"),
+            new Book("Viktor Hugo", "Le Rhin"),
+        ];
+
+        var mostPopularAuthors = _.countBy(books, function (book) {
+            return book.author;
+        });
+        var mostPopularAuthor = _.max(mostPopularAuthors, function (author) {
+            return author;
+        });
+
+        for (var author in mostPopularAuthors) {
+            if(mostPopularAuthors[author] == mostPopularAuthor){
+                console.log("The most popular author is '" + author + "' with " + mostPopularAuthor + " books!");
+            }
+        }
+    </script>
+</body>
+</html>

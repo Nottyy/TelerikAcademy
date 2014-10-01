@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\SVG\02.StartScreen\bin\02.StartScreen.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\SVG\02.StartScreen\bin\02.StartScreen.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\SVG\02.StartScreen\bin\02.StartScreen.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\SVG\02.StartScreen\obj\Debug\02.StartScreen.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\SVG\02.StartScreen\obj\Debug\02.StartScreen.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\SVG\02.StartScreen\obj\Debug\02.StartScreen.pdb

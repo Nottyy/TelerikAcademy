@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\05.Sudoku\bin\Debug\05.Sudoku.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\05.Sudoku\bin\Debug\05.Sudoku.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\05.Sudoku\bin\Debug\05.Sudoku.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\05.Sudoku\obj\Debug\05.Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\05.Sudoku\obj\Debug\05.Sudoku.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\05.Sudoku\obj\Debug\05.Sudoku.pdb

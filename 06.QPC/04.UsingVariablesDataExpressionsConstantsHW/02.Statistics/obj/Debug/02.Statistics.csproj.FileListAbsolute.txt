@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingVariablesDataExpressionsConstantsHW\02.Statistics\bin\Debug\02.Statistics.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingVariablesDataExpressionsConstantsHW\02.Statistics\bin\Debug\02.Statistics.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingVariablesDataExpressionsConstantsHW\02.Statistics\bin\Debug\02.Statistics.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingVariablesDataExpressionsConstantsHW\02.Statistics\obj\Debug\02.Statistics.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingVariablesDataExpressionsConstantsHW\02.Statistics\obj\Debug\02.Statistics.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingVariablesDataExpressionsConstantsHW\02.Statistics\obj\Debug\02.Statistics.pdb

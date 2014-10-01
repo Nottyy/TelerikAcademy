@@ -1,0 +1,8 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\bin\Debug\05.HashSetImplementation.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\bin\Debug\05.HashSetImplementation.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\bin\Debug\05.HashSetImplementation.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\bin\Debug\04.HashTableImplementation.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\bin\Debug\04.HashTableImplementation.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\obj\Debug\05.HashSetImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\obj\Debug\05.HashSetImplementation.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\05.HashSetImplementation\obj\Debug\05.HashSetImplementation.pdb

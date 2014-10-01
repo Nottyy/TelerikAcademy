@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\03.Sequences\bin\03.Sequences.dll.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\03.Sequences\bin\03.Sequences.dll
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\03.Sequences\bin\03.Sequences.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\03.Sequences\obj\Debug\03.Sequences.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\03.Sequences\obj\Debug\03.Sequences.dll
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\03.Sequences\obj\Debug\03.Sequences.pdb

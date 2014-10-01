@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\02.RemoveAllElementsWithAGivenValue\bin\02.RemoveAllElementsWithAGivenValue.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\02.RemoveAllElementsWithAGivenValue\bin\02.RemoveAllElementsWithAGivenValue.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\02.RemoveAllElementsWithAGivenValue\bin\02.RemoveAllElementsWithAGivenValue.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\02.RemoveAllElementsWithAGivenValue\obj\Debug\02.RemoveAllElementsWithAGivenValue.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\02.RemoveAllElementsWithAGivenValue\obj\Debug\02.RemoveAllElementsWithAGivenValue.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\02.RemoveAllElementsWithAGivenValue\obj\Debug\02.RemoveAllElementsWithAGivenValue.pdb

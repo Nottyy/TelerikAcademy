@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\TextFilesHW\04.CompareTwoTextFilesLineByLine\bin\Debug\04.CompareTwoTextFilesLineByLine.exe.config
+E:\My Space\TelerikCourse\TextFilesHW\04.CompareTwoTextFilesLineByLine\bin\Debug\04.CompareTwoTextFilesLineByLine.exe
+E:\My Space\TelerikCourse\TextFilesHW\04.CompareTwoTextFilesLineByLine\bin\Debug\04.CompareTwoTextFilesLineByLine.pdb
+E:\My Space\TelerikCourse\TextFilesHW\04.CompareTwoTextFilesLineByLine\obj\Debug\04.CompareTwoTextFilesLineByLine.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\TextFilesHW\04.CompareTwoTextFilesLineByLine\obj\Debug\04.CompareTwoTextFilesLineByLine.exe
+E:\My Space\TelerikCourse\TextFilesHW\04.CompareTwoTextFilesLineByLine\obj\Debug\04.CompareTwoTextFilesLineByLine.pdb

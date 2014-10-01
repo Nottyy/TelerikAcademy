@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\04.QuerySelectorShim\bin\04.QuerySelectorShim.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\04.QuerySelectorShim\bin\04.QuerySelectorShim.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\04.QuerySelectorShim\bin\04.QuerySelectorShim.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\04.QuerySelectorShim\obj\Debug\04.QuerySelectorShim.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\04.QuerySelectorShim\obj\Debug\04.QuerySelectorShim.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\04.QuerySelectorShim\obj\Debug\04.QuerySelectorShim.pdb

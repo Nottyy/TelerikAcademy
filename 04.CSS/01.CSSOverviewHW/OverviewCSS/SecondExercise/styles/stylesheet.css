@@ -1,0 +1,60 @@
+﻿table {
+    border-collapse: collapse;
+    border: 1px solid #b5b5b5;
+    font-family: Arial;
+    font-size: 1em;
+}
+
+thead {
+    color: #fff;
+    background-color: #31b910;
+}
+
+th {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #b5b5b5;
+}
+
+td {
+    padding: 7px;
+    border: 1px solid #b5b5b5;
+}
+
+.firstCol {
+    width: 14em;
+}
+
+.secondCol {
+    width: 10em;
+}
+
+.thirdCol {
+    width: 12em;
+}
+
+.fourthCol {
+    width: 8em;
+}
+
+table tr:nth-child(2n) {
+    background-color: #efefef;
+}
+
+td.country {
+    background-repeat: no-repeat;
+    background-position: 3px center;
+    padding-left: 33px;
+}
+
+    td.country.germany {
+        background-image: url("http://stkirov.files.wordpress.com/2012/12/germany.png");
+    }
+
+    td.country.mexico {
+        background-image: url("http://stkirov.files.wordpress.com/2012/12/mexico.png");
+    }
+
+    td.country.uk {
+        background-image: url("http://stkirov.files.wordpress.com/2012/12/uk.png");
+    }

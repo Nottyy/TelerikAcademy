@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\3.Animals\bin\Debug\3.Animals.exe.config
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\3.Animals\bin\Debug\3.Animals.exe
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\3.Animals\bin\Debug\3.Animals.pdb
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\3.Animals\obj\Debug\3.Animals.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\3.Animals\obj\Debug\3.Animals.exe
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\3.Animals\obj\Debug\3.Animals.pdb

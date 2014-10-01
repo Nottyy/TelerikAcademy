@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\05.ExtractAllSongsWithXmlReader\bin\Debug\05.ExtractAllSongsWithXmlReader.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\05.ExtractAllSongsWithXmlReader\bin\Debug\05.ExtractAllSongsWithXmlReader.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\05.ExtractAllSongsWithXmlReader\bin\Debug\05.ExtractAllSongsWithXmlReader.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\05.ExtractAllSongsWithXmlReader\obj\Debug\05.ExtractAllSongsWithXmlReader.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\05.ExtractAllSongsWithXmlReader\obj\Debug\05.ExtractAllSongsWithXmlReader.pdb

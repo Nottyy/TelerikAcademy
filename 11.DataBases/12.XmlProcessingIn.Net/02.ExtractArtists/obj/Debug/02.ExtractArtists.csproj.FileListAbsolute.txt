@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\02.ExtractArtists\bin\Debug\02.ExtractArtists.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\02.ExtractArtists\bin\Debug\02.ExtractArtists.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\02.ExtractArtists\bin\Debug\02.ExtractArtists.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\02.ExtractArtists\obj\Debug\02.ExtractArtists.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\02.ExtractArtists\obj\Debug\02.ExtractArtists.pdb

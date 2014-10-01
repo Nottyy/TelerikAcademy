@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.pdb

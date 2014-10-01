@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\01.DOMModule\bin\01.DOMModule.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\01.DOMModule\bin\01.DOMModule.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\01.DOMModule\bin\01.DOMModule.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\01.DOMModule\obj\Debug\01.DOMModule.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\01.DOMModule\obj\Debug\01.DOMModule.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\01.DOMModule\obj\Debug\01.DOMModule.pdb

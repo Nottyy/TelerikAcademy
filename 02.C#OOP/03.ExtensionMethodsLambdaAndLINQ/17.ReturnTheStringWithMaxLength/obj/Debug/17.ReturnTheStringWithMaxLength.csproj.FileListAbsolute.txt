@@ -1,0 +1,8 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\bin\Debug\17.ReturnTheStringWithMaxLength.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\bin\Debug\17.ReturnTheStringWithMaxLength.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\bin\Debug\17.ReturnTheStringWithMaxLength.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\obj\Debug\17.ReturnTheStringWithMaxLength.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\obj\Debug\17.ReturnTheStringWithMaxLength.pdb
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\bin\Debug\17.ReturnTheStringWithMaxLength.exe.config
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\obj\Debug\17.ReturnTheStringWithMaxLength.exe
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\17.ReturnTheStringWithMaxLength\obj\Debug\17.ReturnTheStringWithMaxLength.pdb

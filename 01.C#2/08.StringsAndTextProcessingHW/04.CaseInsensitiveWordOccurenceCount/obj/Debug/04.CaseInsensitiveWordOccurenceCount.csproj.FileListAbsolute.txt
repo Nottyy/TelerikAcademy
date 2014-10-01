@@ -1,0 +1,1 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\04.CaseInsensitiveWordOccurenceCount\bin\Debug\04.CaseInsensitiveWordOccurenceCount.exe.config

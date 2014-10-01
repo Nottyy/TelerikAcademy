@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\1.School\bin\Debug\1.School.exe.config
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\1.School\bin\Debug\1.School.exe
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\1.School\bin\Debug\1.School.pdb
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\1.School\obj\Debug\1.School.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\1.School\obj\Debug\1.School.exe
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\1.School\obj\Debug\1.School.pdb

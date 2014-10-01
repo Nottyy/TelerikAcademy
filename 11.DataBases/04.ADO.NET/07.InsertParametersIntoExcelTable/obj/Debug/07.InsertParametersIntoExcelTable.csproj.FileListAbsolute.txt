@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\07.InsertParametersIntoExcelTable\bin\Debug\07.InsertParametersIntoExcelTable.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\07.InsertParametersIntoExcelTable\bin\Debug\07.InsertParametersIntoExcelTable.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\07.InsertParametersIntoExcelTable\bin\Debug\07.InsertParametersIntoExcelTable.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\07.InsertParametersIntoExcelTable\obj\Debug\07.InsertParametersIntoExcelTable.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\07.InsertParametersIntoExcelTable\obj\Debug\07.InsertParametersIntoExcelTable.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\07.InsertParametersIntoExcelTable\obj\Debug\07.InsertParametersIntoExcelTable.csprojResolveAssemblyReference.cache

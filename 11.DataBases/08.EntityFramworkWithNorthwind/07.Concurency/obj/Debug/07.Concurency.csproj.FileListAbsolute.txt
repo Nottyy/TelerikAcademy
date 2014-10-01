@@ -1,0 +1,12 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\07.Concurency.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\07.Concurency.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\07.Concurency.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\NorthwindModel.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\NorthwindModel.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\obj\Debug\07.Concurency.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\obj\Debug\07.Concurency.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\07.Concurency\obj\Debug\07.Concurency.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\ExerciseSixBTVNews\bin\ExerciseSixBTVNews.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\ExerciseSixBTVNews\bin\ExerciseSixBTVNews.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\ExerciseSixBTVNews\bin\ExerciseSixBTVNews.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\ExerciseSixBTVNews\obj\Debug\ExerciseSixBTVNews.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\ExerciseSixBTVNews\obj\Debug\ExerciseSixBTVNews.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\ExerciseSixBTVNews\obj\Debug\ExerciseSixBTVNews.pdb

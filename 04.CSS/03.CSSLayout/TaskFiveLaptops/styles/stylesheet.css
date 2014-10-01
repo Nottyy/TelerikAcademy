@@ -1,0 +1,94 @@
+﻿body, section, article, div, input, fieldset, legend {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 530px;
+    height: 360px;
+    font-family: Georgia,sans-serif;
+    font-size: 11px;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+    body section header {
+        height: 26px;
+        border-bottom: 2px solid black;
+        overflow: hidden;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+header ul {
+    list-style-type: none;
+    margin: -2px 50px 0 50px;
+    position: relative;
+}
+
+    header ul > li {
+        float: left;
+        margin-left: 5px;
+        color: #20a7f5;
+        text-decoration: underline;
+        font-size: 17px;
+        font-family: sans-serif;
+        font-weight: bold;
+    }
+
+img {
+    float: left;
+    width: 80px;
+    height: 59px;
+}
+
+fieldset {
+    display: inline-block;
+    width: 159px;
+    height: 100px;
+    margin: 0 1px 0 3px;
+    overflow: hidden;
+}
+
+
+legend {
+    text-align: center;
+}
+
+.middle-article {
+    margin: 5px 5px 5px -2px;
+    position: relative;
+}
+
+.left-section {
+    border: 2px solid #808080;
+    width: 340px;
+    height: 324px;
+}
+
+.right-section {
+    position: absolute;
+    right: 0px;
+    top: 55px;
+    font-size: 17px;
+}
+
+.input-range {
+    display: block;
+    margin: 8px 8px 15px 8px;
+}
+
+.char-pos {
+    line-height: 24px;
+    overflow:auto;
+    margin-top: 18px;
+}
+
+span {
+    position:relative;
+    top: -20px;
+    left: 10px;
+}

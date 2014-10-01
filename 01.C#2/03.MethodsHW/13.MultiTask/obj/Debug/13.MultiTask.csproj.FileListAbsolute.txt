@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\MethodsHW\13.MultiTask\bin\Debug\13.MultiTask.exe.config
+E:\My Space\TelerikCourse\MethodsHW\13.MultiTask\bin\Debug\13.MultiTask.exe
+E:\My Space\TelerikCourse\MethodsHW\13.MultiTask\bin\Debug\13.MultiTask.pdb
+E:\My Space\TelerikCourse\MethodsHW\13.MultiTask\obj\Debug\13.MultiTask.exe
+E:\My Space\TelerikCourse\MethodsHW\13.MultiTask\obj\Debug\13.MultiTask.pdb
+E:\My Space\TelerikCourse\MethodsHW\13.MultiTask\obj\Debug\13.MultiTask.csprojResolveAssemblyReference.cache

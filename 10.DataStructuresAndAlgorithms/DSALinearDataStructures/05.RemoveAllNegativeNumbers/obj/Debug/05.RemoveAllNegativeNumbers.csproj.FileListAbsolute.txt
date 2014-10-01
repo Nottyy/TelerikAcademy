@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\05.RemoveAllNegativeNumbers\bin\Debug\05.RemoveAllNegativeNumbers.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\05.RemoveAllNegativeNumbers\bin\Debug\05.RemoveAllNegativeNumbers.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\05.RemoveAllNegativeNumbers\bin\Debug\05.RemoveAllNegativeNumbers.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\05.RemoveAllNegativeNumbers\obj\Debug\05.RemoveAllNegativeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\05.RemoveAllNegativeNumbers\obj\Debug\05.RemoveAllNegativeNumbers.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\05.RemoveAllNegativeNumbers\obj\Debug\05.RemoveAllNegativeNumbers.pdb

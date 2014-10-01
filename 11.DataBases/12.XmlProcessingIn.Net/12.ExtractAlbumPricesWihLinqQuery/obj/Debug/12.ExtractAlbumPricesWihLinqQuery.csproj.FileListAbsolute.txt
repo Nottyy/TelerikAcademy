@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\12.ExtractAlbumPricesWihLinqQuery\bin\Debug\12.ExtractAlbumPricesWihLinqQuery.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\12.ExtractAlbumPricesWihLinqQuery\bin\Debug\12.ExtractAlbumPricesWihLinqQuery.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\12.ExtractAlbumPricesWihLinqQuery\bin\Debug\12.ExtractAlbumPricesWihLinqQuery.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\12.ExtractAlbumPricesWihLinqQuery\obj\Debug\12.ExtractAlbumPricesWihLinqQuery.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\12.ExtractAlbumPricesWihLinqQuery\obj\Debug\12.ExtractAlbumPricesWihLinqQuery.pdb

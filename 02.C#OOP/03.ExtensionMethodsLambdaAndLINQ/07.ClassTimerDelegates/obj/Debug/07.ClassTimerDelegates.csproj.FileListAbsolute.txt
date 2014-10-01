@@ -1,0 +1,5 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\07.ClassTimerDelegates\bin\Debug\07.ClassTimerDelegates.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\07.ClassTimerDelegates\bin\Debug\07.ClassTimerDelegates.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\07.ClassTimerDelegates\bin\Debug\07.ClassTimerDelegates.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\07.ClassTimerDelegates\obj\Debug\07.ClassTimerDelegates.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\07.ClassTimerDelegates\obj\Debug\07.ClassTimerDelegates.pdb

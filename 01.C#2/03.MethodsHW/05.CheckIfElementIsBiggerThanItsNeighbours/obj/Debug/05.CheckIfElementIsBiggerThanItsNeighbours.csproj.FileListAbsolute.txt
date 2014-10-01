@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\MethodsHW\05.CheckIfElementIsBiggerThanItsNeighbours\bin\Debug\05.CheckIfElementIsBiggerThanItsNeighbours.exe.config
+E:\My Space\TelerikCourse\MethodsHW\05.CheckIfElementIsBiggerThanItsNeighbours\obj\Debug\05.CheckIfElementIsBiggerThanItsNeighbours.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\MethodsHW\05.CheckIfElementIsBiggerThanItsNeighbours\bin\Debug\05.CheckIfElementIsBiggerThanItsNeighbours.exe
+E:\My Space\TelerikCourse\MethodsHW\05.CheckIfElementIsBiggerThanItsNeighbours\bin\Debug\05.CheckIfElementIsBiggerThanItsNeighbours.pdb
+E:\My Space\TelerikCourse\MethodsHW\05.CheckIfElementIsBiggerThanItsNeighbours\obj\Debug\05.CheckIfElementIsBiggerThanItsNeighbours.exe
+E:\My Space\TelerikCourse\MethodsHW\05.CheckIfElementIsBiggerThanItsNeighbours\obj\Debug\05.CheckIfElementIsBiggerThanItsNeighbours.pdb

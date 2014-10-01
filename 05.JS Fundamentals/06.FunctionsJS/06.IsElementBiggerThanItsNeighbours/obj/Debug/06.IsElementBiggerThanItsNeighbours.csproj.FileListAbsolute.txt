@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\06.IsElementBiggerThanItsNeighbours\bin\06.IsElementBiggerThanItsNeighbours.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\06.IsElementBiggerThanItsNeighbours\bin\06.IsElementBiggerThanItsNeighbours.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\06.IsElementBiggerThanItsNeighbours\bin\06.IsElementBiggerThanItsNeighbours.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\06.IsElementBiggerThanItsNeighbours\obj\Debug\06.IsElementBiggerThanItsNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\06.IsElementBiggerThanItsNeighbours\obj\Debug\06.IsElementBiggerThanItsNeighbours.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\06.IsElementBiggerThanItsNeighbours\obj\Debug\06.IsElementBiggerThanItsNeighbours.pdb

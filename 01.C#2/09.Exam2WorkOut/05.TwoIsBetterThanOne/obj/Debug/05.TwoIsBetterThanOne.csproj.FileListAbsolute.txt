@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.pdb

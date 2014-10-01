@@ -1,0 +1,5 @@
+E:\My Space\TelerikCourse\TextFilesHW\02.ConcatenateTwoTextFiles\bin\Debug\02.ConcatenateTwoTextFiles.exe.config
+E:\My Space\TelerikCourse\TextFilesHW\02.ConcatenateTwoTextFiles\bin\Debug\02.ConcatenateTwoTextFiles.exe
+E:\My Space\TelerikCourse\TextFilesHW\02.ConcatenateTwoTextFiles\bin\Debug\02.ConcatenateTwoTextFiles.pdb
+E:\My Space\TelerikCourse\TextFilesHW\02.ConcatenateTwoTextFiles\obj\Debug\02.ConcatenateTwoTextFiles.exe
+E:\My Space\TelerikCourse\TextFilesHW\02.ConcatenateTwoTextFiles\obj\Debug\02.ConcatenateTwoTextFiles.pdb

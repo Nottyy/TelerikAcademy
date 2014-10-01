@@ -1,0 +1,56 @@
+﻿body {
+    background-color: #595959;
+    font-family: Arial;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#theading {
+    text-align:left;
+    font-size:1.3em;
+}
+
+a {
+    color: #f3f6ac;
+    text-decoration: none;
+}
+
+thead {
+    width: 100%;
+    font-size: 20px;
+    color: #acb1aa;
+}
+
+#circle /*The circle in the first row*/ {
+    position: relative;
+    top: 13px;
+    border-radius: 1em;
+    width: 0.9em;
+    height: 0.9em;
+    background-color: #71b47a;
+}
+
+span.alert {
+    color: red;
+}
+
+td {
+    padding: 0.5em;
+    width: 8em;
+    color: #ccc;
+}
+
+    td.info, td.details {
+        font-size: 1.1em;
+    }
+
+    td.info {
+        font-style: italic;
+        color: #fff;
+    }
+
+    td.status {
+        color: orange;
+    }

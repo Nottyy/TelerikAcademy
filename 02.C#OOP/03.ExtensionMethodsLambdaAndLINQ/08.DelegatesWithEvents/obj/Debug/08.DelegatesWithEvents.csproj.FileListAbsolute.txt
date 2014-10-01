@@ -1,0 +1,11 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\bin\Debug\08.DelegatesWithEvents.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\bin\Debug\08.DelegatesWithEvents.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\bin\Debug\08.DelegatesWithEvents.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\obj\Debug\08.DelegatesWithEvents.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\obj\Debug\08.DelegatesWithEvents.pdb
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\bin\Debug\08.DelegatesWithEvents.exe.config
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\obj\Debug\08.DelegatesWithEvents.exe
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\obj\Debug\08.DelegatesWithEvents.pdb
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\bin\Debug\08.DelegatesWithEvents.exe
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\bin\Debug\08.DelegatesWithEvents.pdb
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\08.DelegatesWithEvents\obj\Debug\08.DelegatesWithEvents.csprojResolveAssemblyReference.cache

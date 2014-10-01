@@ -1,0 +1,9 @@
+E:\My Space\TelerikCourse\NumeralSystemsHW\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+E:\My Space\TelerikCourse\NumeralSystemsHW\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+E:\My Space\TelerikCourse\NumeralSystemsHW\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb
+E:\My Space\TelerikCourse\NumeralSystemsHW\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Homeworks\04.NumeralSystemsHW\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+E:\My Space\TelerikCourse\Homeworks\04.NumeralSystemsHW\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+E:\My Space\TelerikCourse\Homeworks\04.NumeralSystemsHW\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb

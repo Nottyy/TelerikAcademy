@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\03.ConsoleObject\bin\03.ConsoleObject.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\03.ConsoleObject\bin\03.ConsoleObject.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\03.ConsoleObject\bin\03.ConsoleObject.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\03.ConsoleObject\obj\Debug\03.ConsoleObject.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\03.ConsoleObject\obj\Debug\03.ConsoleObject.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\03.ConsoleObject\obj\Debug\03.ConsoleObject.pdb

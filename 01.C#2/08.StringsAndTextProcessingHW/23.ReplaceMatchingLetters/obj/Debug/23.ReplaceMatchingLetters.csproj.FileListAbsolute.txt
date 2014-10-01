@@ -1,0 +1,5 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\23.ReplaceMatchingLetters\bin\Debug\23.ReplaceMatchingLetters.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\23.ReplaceMatchingLetters\bin\Debug\23.ReplaceMatchingLetters.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\23.ReplaceMatchingLetters\bin\Debug\23.ReplaceMatchingLetters.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\23.ReplaceMatchingLetters\obj\Debug\23.ReplaceMatchingLetters.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\23.ReplaceMatchingLetters\obj\Debug\23.ReplaceMatchingLetters.pdb

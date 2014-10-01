@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\01.CalculationOfIntegersWithList\bin\Debug\01.CalculationOfIntegersWithList.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\01.CalculationOfIntegersWithList\bin\Debug\01.CalculationOfIntegersWithList.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\01.CalculationOfIntegersWithList\bin\Debug\01.CalculationOfIntegersWithList.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\01.CalculationOfIntegersWithList\obj\Debug\01.CalculationOfIntegersWithList.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\01.CalculationOfIntegersWithList\obj\Debug\01.CalculationOfIntegersWithList.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\01.CalculationOfIntegersWithList\obj\Debug\01.CalculationOfIntegersWithList.pdb

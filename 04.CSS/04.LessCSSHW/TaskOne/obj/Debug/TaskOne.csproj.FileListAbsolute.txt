@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\LessCSSHW\TaskOne\bin\TaskOne.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\LessCSSHW\TaskOne\bin\TaskOne.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\LessCSSHW\TaskOne\bin\TaskOne.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\LessCSSHW\TaskOne\obj\Debug\TaskOne.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\LessCSSHW\TaskOne\obj\Debug\TaskOne.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\LessCSSHW\TaskOne\obj\Debug\TaskOne.pdb

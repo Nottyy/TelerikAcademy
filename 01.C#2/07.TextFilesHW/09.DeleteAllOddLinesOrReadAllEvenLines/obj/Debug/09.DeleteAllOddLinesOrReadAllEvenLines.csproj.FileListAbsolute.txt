@@ -1,0 +1,1 @@
+E:\My Space\TelerikCourse\TextFilesHW\09.DeleteAllOddLinesOrReadAllEvenLines\bin\Debug\09.DeleteAllOddLinesOrReadAllEvenLines.exe.config

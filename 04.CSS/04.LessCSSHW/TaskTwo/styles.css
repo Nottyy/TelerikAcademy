@@ -1,0 +1,29 @@
+﻿body {
+  width: 900px;
+  margin: 0 auto;
+}
+body ul {
+  position: relative;
+}
+body ul li {
+  list-style: none;
+  display: inline-block;
+}
+body ul li div img {
+  width: 133px;
+  height: 100px;
+}
+body .picture .preview {
+  display: none;
+}
+body .picture:hover .preview {
+  display: block;
+  position: absolute;
+  top: 140px;
+  left: 0;
+  width: 600px;
+  height: 475px;
+  border: 1px solid black;
+  margin-left: 40px;
+}
+/*# sourceMappingURL=styles.css.map */

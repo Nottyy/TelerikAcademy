@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\13.Divisors\bin\Debug\13.Divisors.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\13.Divisors\bin\Debug\13.Divisors.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\13.Divisors\bin\Debug\13.Divisors.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\13.Divisors\obj\Debug\13.Divisors.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\13.Divisors\obj\Debug\13.Divisors.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\13.Divisors\obj\Debug\13.Divisors.pdb

@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\05.OrderStudents\bin\Debug\05.OrderStudents.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\05.OrderStudents\bin\Debug\05.OrderStudents.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\05.OrderStudents\bin\Debug\05.OrderStudents.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\05.OrderStudents\obj\Debug\05.OrderStudents.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\05.OrderStudents\obj\Debug\05.OrderStudents.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\05.OrderStudents\obj\Debug\05.OrderStudents.csprojResolveAssemblyReference.cache

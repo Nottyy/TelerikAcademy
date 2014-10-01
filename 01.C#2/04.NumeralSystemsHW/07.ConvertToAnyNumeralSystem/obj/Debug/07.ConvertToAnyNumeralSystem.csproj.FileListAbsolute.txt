@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\NumeralSystemsHW\07.ConvertToAnyNumeralSystem\bin\Debug\07.ConvertToAnyNumeralSystem.exe.config
+E:\My Space\TelerikCourse\NumeralSystemsHW\07.ConvertToAnyNumeralSystem\obj\Debug\07.ConvertToAnyNumeralSystem.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\NumeralSystemsHW\07.ConvertToAnyNumeralSystem\bin\Debug\07.ConvertToAnyNumeralSystem.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\07.ConvertToAnyNumeralSystem\bin\Debug\07.ConvertToAnyNumeralSystem.pdb
+E:\My Space\TelerikCourse\NumeralSystemsHW\07.ConvertToAnyNumeralSystem\obj\Debug\07.ConvertToAnyNumeralSystem.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\07.ConvertToAnyNumeralSystem\obj\Debug\07.ConvertToAnyNumeralSystem.pdb

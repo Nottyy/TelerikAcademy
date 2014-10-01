@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\04.ChangeTextInAlRegions\bin\04.ChangeTextInAlRegions.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\04.ChangeTextInAlRegions\bin\04.ChangeTextInAlRegions.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\04.ChangeTextInAlRegions\bin\04.ChangeTextInAlRegions.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\04.ChangeTextInAlRegions\obj\Debug\04.ChangeTextInAlRegions.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\04.ChangeTextInAlRegions\obj\Debug\04.ChangeTextInAlRegions.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\04.ChangeTextInAlRegions\obj\Debug\04.ChangeTextInAlRegions.pdb

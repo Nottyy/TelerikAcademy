@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\02.FindSign\bin\02.FindSign.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\02.FindSign\bin\02.FindSign.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\02.FindSign\bin\02.FindSign.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\02.FindSign\obj\Debug\02.FindSign.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\02.FindSign\obj\Debug\02.FindSign.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\02.FindSign\obj\Debug\02.FindSign.pdb

@@ -1,0 +1,11 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\bin\Debug\TextFormattingCSharp.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\obj\Debug\TextFormattingCSharp.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\bin\Debug\TextFormattingCSharp.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\bin\Debug\TextFormattingCSharp.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\bin\Debug\PowerCollections.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\bin\Debug\PowerCollections.xml
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\obj\Debug\TextFormattingCSharp.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\TextFormattingCSharp\TextFormattingCSharp\obj\Debug\TextFormattingCSharp.pdb
+C:\Users\Toshiba\Desktop\TextFormattingCSharp\TextFormattingCSharp\bin\Debug\TextFormattingCSharp.exe.config
+C:\Users\Toshiba\Desktop\TextFormattingCSharp\TextFormattingCSharp\obj\Debug\TextFormattingCSharp.exe
+C:\Users\Toshiba\Desktop\TextFormattingCSharp\TextFormattingCSharp\obj\Debug\TextFormattingCSharp.pdb

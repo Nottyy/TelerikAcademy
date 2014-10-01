@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\01.PrintingAllCombinationsFrom1ToN\bin\Debug\01.PrintingAllCombinationsFrom1ToN.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\01.PrintingAllCombinationsFrom1ToN\bin\Debug\01.PrintingAllCombinationsFrom1ToN.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\01.PrintingAllCombinationsFrom1ToN\bin\Debug\01.PrintingAllCombinationsFrom1ToN.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\01.PrintingAllCombinationsFrom1ToN\obj\Debug\01.PrintingAllCombinationsFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\01.PrintingAllCombinationsFrom1ToN\obj\Debug\01.PrintingAllCombinationsFrom1ToN.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\01.PrintingAllCombinationsFrom1ToN\obj\Debug\01.PrintingAllCombinationsFrom1ToN.pdb

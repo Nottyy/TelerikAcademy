@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\02.DivisibleBy7and5WithoutRemainder\bin\02.DivisibleBy7and5WithoutRemainder.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\02.DivisibleBy7and5WithoutRemainder\bin\02.DivisibleBy7and5WithoutRemainder.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\02.DivisibleBy7and5WithoutRemainder\bin\02.DivisibleBy7and5WithoutRemainder.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\02.DivisibleBy7and5WithoutRemainder\obj\Debug\02.DivisibleBy7and5WithoutRemainder.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\02.DivisibleBy7and5WithoutRemainder\obj\Debug\02.DivisibleBy7and5WithoutRemainder.pdb

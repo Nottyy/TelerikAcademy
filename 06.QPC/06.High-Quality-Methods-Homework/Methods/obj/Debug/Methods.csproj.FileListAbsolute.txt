@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Desktop\High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+C:\Users\Toshiba\Desktop\High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+C:\Users\Toshiba\Desktop\High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+C:\Users\Toshiba\Desktop\High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb

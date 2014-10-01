@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\14.TransformToHtml\bin\Debug\14.TransformToHtml.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\14.TransformToHtml\bin\Debug\14.TransformToHtml.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\14.TransformToHtml\bin\Debug\14.TransformToHtml.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\14.TransformToHtml\obj\Debug\14.TransformToHtml.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\14.TransformToHtml\obj\Debug\14.TransformToHtml.pdb

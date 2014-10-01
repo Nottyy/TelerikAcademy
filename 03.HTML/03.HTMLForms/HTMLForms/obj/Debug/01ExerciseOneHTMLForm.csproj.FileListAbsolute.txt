@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\HTMLForms\HTMLForms\bin\HTMLForms.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\HTMLForms\HTMLForms\bin\HTMLForms.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\HTMLForms\HTMLForms\obj\Debug\01ExerciseOneHTMLForm.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\HTMLForms\HTMLForms\obj\Debug\HTMLForms.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\HTMLForms\HTMLForms\obj\Debug\HTMLForms.pdb

@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\03.DeepCopyOfAnObject\bin\03.DeepCopyOfAnObject.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\03.DeepCopyOfAnObject\bin\03.DeepCopyOfAnObject.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\03.DeepCopyOfAnObject\bin\03.DeepCopyOfAnObject.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\03.DeepCopyOfAnObject\obj\Debug\03.DeepCopyOfAnObject.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\03.DeepCopyOfAnObject\obj\Debug\03.DeepCopyOfAnObject.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\03.DeepCopyOfAnObject\obj\Debug\03.DeepCopyOfAnObject.pdb

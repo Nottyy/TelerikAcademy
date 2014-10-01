@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\08.TrapezoidAreCalculation\bin\08.TrapezoidAreCalculation.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\08.TrapezoidAreCalculation\bin\08.TrapezoidAreCalculation.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\08.TrapezoidAreCalculation\bin\08.TrapezoidAreCalculation.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\08.TrapezoidAreCalculation\obj\Debug\08.TrapezoidAreCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\08.TrapezoidAreCalculation\obj\Debug\08.TrapezoidAreCalculation.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\08.TrapezoidAreCalculation\obj\Debug\08.TrapezoidAreCalculation.pdb

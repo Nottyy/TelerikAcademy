@@ -1,0 +1,4 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlBasics\XmlStudents.Model\bin\Debug\XmlStudents.Model.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlBasics\XmlStudents.Model\bin\Debug\XmlStudents.Model.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlBasics\XmlStudents.Model\obj\Debug\XmlStudents.Model.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlBasics\XmlStudents.Model\obj\Debug\XmlStudents.Model.pdb

@@ -1,0 +1,9 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\bin\Debug\01.SubstringForStringBuilder.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\bin\Debug\01.SubstringForStringBuilder.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\bin\Debug\01.SubstringForStringBuilder.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\obj\Debug\01.SubstringForStringBuilder.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\obj\Debug\01.SubstringForStringBuilder.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\obj\Debug\01.SubstringForStringBuilder.pdb
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\bin\Debug\01.SubstringForStringBuilder.exe.config
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\obj\Debug\01.SubstringForStringBuilder.exe
+E:\My Space\TelerikCourse\Homeworks\OOP\03.ExtensionMethodsLambdaAndLINQ\01.SubstringForStringBuilder\obj\Debug\01.SubstringForStringBuilder.pdb

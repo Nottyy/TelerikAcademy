@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\11.ExtractAlbumPrices\bin\Debug\11.ExtractAlbumPrices.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\11.ExtractAlbumPrices\bin\Debug\11.ExtractAlbumPrices.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\11.ExtractAlbumPrices\bin\Debug\11.ExtractAlbumPrices.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\11.ExtractAlbumPrices\obj\Debug\11.ExtractAlbumPrices.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\11.ExtractAlbumPrices\obj\Debug\11.ExtractAlbumPrices.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\11.ExtractAlbumPrices\obj\Debug\11.ExtractAlbumPrices.pdb

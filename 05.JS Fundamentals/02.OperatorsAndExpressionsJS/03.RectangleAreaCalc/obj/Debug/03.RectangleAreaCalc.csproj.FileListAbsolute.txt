@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\03.RectangleAreaCalc\bin\03.RectangleAreaCalc.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\03.RectangleAreaCalc\bin\03.RectangleAreaCalc.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\03.RectangleAreaCalc\bin\03.RectangleAreaCalc.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\03.RectangleAreaCalc\obj\Debug\03.RectangleAreaCalc.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\03.RectangleAreaCalc\obj\Debug\03.RectangleAreaCalc.pdb

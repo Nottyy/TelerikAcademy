@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>01.Sample Form</title>
+    <meta charset="utf-8" />
+    <link href="styles/index.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form>
+        <table>
+            <tfoot>
+                <tr>
+                    <td class="foot" colspan="2">
+                        <input type="submit" name="submit" value="Submit" />
+                        <input type="reset" name="clear" value="Clear This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <td class="label">
+                        <label for="lastName">Last Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="lastName" value="Nakov">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="firstName">First Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="firstName" value="Svetlin">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="textArea">Address</label>
+                    </td>
+                    <td>
+                        <textarea id="textArea" class="largeInput">
+                            17 Hristo Botev Str. floor 3, apt. 12
+                        </textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="city">City</label>
+                    </td>
+                    <td>
+                        <input type="text" id="city" name="city" value="Kaspichan">
+                        <label for="state">State</label>
+                        <input type="text" id="state" name="state" class="input"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="zipPostalCode">/Zip/Postal Code</label>
+                    </td>
+                    <td>
+                        <input type="text" id="zipPostalCode" name="zipPostalCode" value="9325" class="input">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="country">Country</label>
+                    </td>
+                    <td>
+                        <select name="country">
+                            <option value="BG">Bulgaria</option>
+                            <option value="GER">Germany</option>
+                            <option value="BRA">Brazil</option>
+                            <option value="ITA">Italy</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="phone">Phone(Country code, area code, number)</label>
+                    </td>
+                    <td>
+                        (+
+                        <input type="text" id="phone" value="359" class="input" /> )
+                        <input type="text" value="88" class="input" />
+                        <input type="text" value="8334343"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="email">E-mail</label>
+                    </td>
+                    <td>
+                        <input type="email" name="email" id="email" value="nakov@kaspichan.org" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        Birth Date
+                    </td>
+                    <td>
+                        <label for="month">Month</label>
+                        <input type="text" id="month" value="06" class="smallInput"/>
+                        <label for="day">Day</label>
+                        <input type="text" id="day" value="14" class="smallInput" />
+                        <label for="year">Year(4 digit)</label>
+                        <input type="text" id="year" value="1980" class="input" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="gender">Gender</label>
+                    </td>
+                    <td>
+                        <select name="gender" id="gender">
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        Starting Date
+                    </td>
+                    <td>
+                        <input type="radio" id="choice1" name="start" />
+                        <label for="choice1">Spring 2006</label>
+                        <input type="radio" id="choice2" name="start" />
+                        <label for="choice2">Summer 2006</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="comments">Comments/Questions</label>
+                    </td>
+                    <td>
+                        <textarea id="comments" class="largeInput">
+                            Please send me more information about the lodging
+                        </textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+

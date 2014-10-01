@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Grid with Products</title>
+    <meta charset="utf-8" />
+    <link href="styles/index.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form>
+        <table>
+            <colgroup>
+                <col class="col1" />
+                <col class="col2" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th colspan="6">
+                        <p>
+                            Drag a column header and drop it here to group by that column
+                        </p>
+                    </th>
+                </tr>
+                <tr>
+                    <th>ProductID</th>
+                    <th>Product Name</th>
+                    <th>Unit Price</th>
+                    <th>Quantity per Unit</th>
+                    <th>Units in Stock</th>
+                    <th>Discontinued</th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="text" class="th1" />
+                    </th>
+                    <th>
+                        <input type="text" />
+                    </th>
+                    <th>
+                        <input type="text" class="priceAndStock" />
+                        <input type="button" value="&#1769;" />
+                    </th>
+                    <th>
+                        <input type="text" class="unit"/>
+                    </th>
+                    <th>
+                        <input type="text" class="priceAndStock"/>
+                        <input type="button" value="&#1769;" />
+                    </th>
+                    <th>
+                        <input type="checkbox" />
+                        <input type="button" value="&#1769;" />
+                    </th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <td colspan="6">
+                        <input type="button" value="|&#9668;" />
+                        <input type="button" value="&#9668;" />
+                        <a href="#">1</a>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#">4</a>
+                        <a href="#">5</a>
+                        <a href="#">6</a>
+                        <a href="#">7</a>
+                        <a href="#">8</a>
+                        <a href="#">9</a>
+                        <a href="#">10</a> ...
+                        <input type="button" value="&#9658;" />
+                        <input type="button" value="&#9658;|" />
+                        Page Size:
+                        <select name="pageSize">
+                            <option value="10">10</option>
+                            <option value="15">15</option>
+                            <option value="15">20</option>
+                            <option value="15">25</option>
+                            <option value="15">30</option>
+                        </select>
+                        <p class="pfoot" id="bottom-right-cell">335104 items in 33511 pages</p>
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Chai</td>
+                    <td>$18.00</td>
+                    <td>10 boxes x 20 bags</td>
+                    <td>39</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled/> 
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Chang</td>
+                    <td>$19.00</td>
+                    <td>24 - 12 oz bottles</td>
+                    <td>17</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Aniseed Syrup</td>
+                    <td>$10.00</td>
+                    <td>12-550 ml bottles</td>
+                    <td>13</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Chef Anton's Cajun Seasoning</td>
+                    <td>$22.00</td>
+                    <td>48-6 oz jars</td>
+                    <td>53</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Chef Anton's Gumbo Mix</td>
+                    <td>$21.35</td>
+                    <td>36 boxes</td>
+                    <td>120</td>
+                    <td>
+                        <input type="checkbox" checked="checked" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Grandma's Boysenberry Spread</td>
+                    <td>$25.00</td>
+                    <td>12-8 oz jars</td>
+                    <td>15</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Chef Anton's Gumbo Mix</td>
+                    <td>$21.35</td>
+                    <td>36 boxes</td>
+                    <td>120</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Grandma's Boysenberry Spread</td>
+                    <td>$25.00</td>
+                    <td>12-8 oz jars</td>
+                    <td>15</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Chai</td>
+                    <td>$18.00</td>
+                    <td>10 boxes x 20 bags</td>
+                    <td>39</td>
+                    <td>
+                        <input type="checkbox" checked="checked" class="checkbox" disabled />
+                    </td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Chef Anton's Gumbo Mix</td>
+                    <td>$21.35</td>
+                    <td>36 boxes</td>
+                    <td>120</td>
+                    <td>
+                        <input type="checkbox" class="checkbox" disabled />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

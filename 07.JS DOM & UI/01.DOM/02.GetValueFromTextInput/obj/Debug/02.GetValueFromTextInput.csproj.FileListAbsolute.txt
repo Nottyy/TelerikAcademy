@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\02.GetValueFromTextInput\bin\02.GetValueFromTextInput.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\02.GetValueFromTextInput\bin\02.GetValueFromTextInput.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\02.GetValueFromTextInput\bin\02.GetValueFromTextInput.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\02.GetValueFromTextInput\obj\Debug\02.GetValueFromTextInput.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\02.GetValueFromTextInput\obj\Debug\02.GetValueFromTextInput.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\02.GetValueFromTextInput\obj\Debug\02.GetValueFromTextInput.pdb

@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\05ThreeInOne\bin\Debug\05ThreeInOne.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\05ThreeInOne\bin\Debug\05ThreeInOne.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\05ThreeInOne\bin\Debug\05ThreeInOne.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\05ThreeInOne\obj\Debug\05ThreeInOne.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\05ThreeInOne\obj\Debug\05ThreeInOne.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\05ThreeInOne\obj\Debug\05ThreeInOne.pdb

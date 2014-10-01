@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\01.GetLastDigitAsString\bin\01.GetLastDigitAsString.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\01.GetLastDigitAsString\bin\01.GetLastDigitAsString.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\01.GetLastDigitAsString\bin\01.GetLastDigitAsString.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\01.GetLastDigitAsString\obj\Debug\01.GetLastDigitAsString.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\01.GetLastDigitAsString\obj\Debug\01.GetLastDigitAsString.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\01.GetLastDigitAsString\obj\Debug\01.GetLastDigitAsString.pdb

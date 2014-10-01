@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\20.GeneratingAllVariationsOfKelementsFromTheSet1toN\bin\Debug\20.GeneratingAllVariationsOfKelementsFromTheSet1toN.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\20.GeneratingAllVariationsOfKelementsFromTheSet1toN\bin\Debug\20.GeneratingAllVariationsOfKelementsFromTheSet1toN.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\20.GeneratingAllVariationsOfKelementsFromTheSet1toN\bin\Debug\20.GeneratingAllVariationsOfKelementsFromTheSet1toN.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\20.GeneratingAllVariationsOfKelementsFromTheSet1toN\obj\Debug\20.GeneratingAllVariationsOfKelementsFromTheSet1toN.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\20.GeneratingAllVariationsOfKelementsFromTheSet1toN\obj\Debug\20.GeneratingAllVariationsOfKelementsFromTheSet1toN.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\20.GeneratingAllVariationsOfKelementsFromTheSet1toN\obj\Debug\20.GeneratingAllVariationsOfKelementsFromTheSet1toN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FirstExerciseParagraphStyling\bin\FirstExerciseParagraphStyling.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FirstExerciseParagraphStyling\bin\FirstExerciseParagraphStyling.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FirstExerciseParagraphStyling\bin\FirstExerciseParagraphStyling.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FirstExerciseParagraphStyling\obj\Debug\01.FirstExerciseParagraphStyling.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FirstExerciseParagraphStyling\obj\Debug\FirstExerciseParagraphStyling.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FirstExerciseParagraphStyling\obj\Debug\FirstExerciseParagraphStyling.pdb

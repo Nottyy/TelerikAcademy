@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\07.ExtractDataFromTextFile\bin\Debug\07.ExtractDataFromTextFile.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\07.ExtractDataFromTextFile\bin\Debug\07.ExtractDataFromTextFile.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\07.ExtractDataFromTextFile\bin\Debug\07.ExtractDataFromTextFile.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\07.ExtractDataFromTextFile\obj\Debug\07.ExtractDataFromTextFile.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\07.ExtractDataFromTextFile\obj\Debug\07.ExtractDataFromTextFile.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\07.ExtractDataFromTextFile\obj\Debug\07.ExtractDataFromTextFile.pdb

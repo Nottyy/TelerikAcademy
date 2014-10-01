@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskThreeManagement\bin\TaskThreeManagement.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskThreeManagement\bin\TaskThreeManagement.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskThreeManagement\bin\TaskThreeManagement.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskThreeManagement\obj\Debug\TaskThreeManagement.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskThreeManagement\obj\Debug\TaskThreeManagement.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskThreeManagement\obj\Debug\TaskThreeManagement.pdb

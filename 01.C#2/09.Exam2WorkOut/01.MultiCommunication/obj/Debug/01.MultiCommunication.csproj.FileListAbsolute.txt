@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\01.MultiCommunication\bin\Debug\01.MultiCommunication.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\01.MultiCommunication\bin\Debug\01.MultiCommunication.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\01.MultiCommunication\bin\Debug\01.MultiCommunication.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\01.MultiCommunication\obj\Debug\01.MultiCommunication.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\01.MultiCommunication\obj\Debug\01.MultiCommunication.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\01.MultiCommunication\obj\Debug\01.MultiCommunication.pdb

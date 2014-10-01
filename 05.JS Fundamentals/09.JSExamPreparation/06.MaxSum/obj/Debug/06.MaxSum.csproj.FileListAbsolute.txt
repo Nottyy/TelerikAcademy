@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\06.MaxSum\bin\06.MaxSum.dll.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\06.MaxSum\bin\06.MaxSum.dll
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\06.MaxSum\bin\06.MaxSum.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\06.MaxSum\obj\Debug\06.MaxSum.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\06.MaxSum\obj\Debug\06.MaxSum.dll
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\06.MaxSum\obj\Debug\06.MaxSum.pdb

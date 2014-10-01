@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\SecondExercise\bin\SecondExercise.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\SecondExercise\bin\SecondExercise.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\SecondExercise\bin\SecondExercise.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\SecondExercise\obj\Debug\SecondExercise.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\SecondExercise\obj\Debug\SecondExercise.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\SecondExercise\obj\Debug\02.SecondExercise.csprojResolveAssemblyReference.cache

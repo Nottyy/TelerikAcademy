@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\02.MovingShapes\bin\02.MovingShapes.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\02.MovingShapes\bin\02.MovingShapes.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\02.MovingShapes\bin\02.MovingShapes.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\02.MovingShapes\obj\Debug\02.MovingShapes.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\02.MovingShapes\obj\Debug\02.MovingShapes.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsAndFunctionsExpressions\02.MovingShapes\obj\Debug\02.MovingShapes.pdb

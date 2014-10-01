@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\MethodsHW\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
+E:\My Space\TelerikCourse\MethodsHW\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
+E:\My Space\TelerikCourse\MethodsHW\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb
+E:\My Space\TelerikCourse\MethodsHW\07.ReverseDigits\obj\Debug\07.ReverseDigits.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\MethodsHW\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
+E:\My Space\TelerikCourse\MethodsHW\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb

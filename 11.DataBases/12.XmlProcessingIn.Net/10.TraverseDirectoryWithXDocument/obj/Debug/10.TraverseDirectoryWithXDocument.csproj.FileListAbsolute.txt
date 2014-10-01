@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\10.TraverseDirectoryWithXDocument\bin\Debug\10.TraverseDirectoryWithXDocument.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\10.TraverseDirectoryWithXDocument\bin\Debug\10.TraverseDirectoryWithXDocument.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\10.TraverseDirectoryWithXDocument\bin\Debug\10.TraverseDirectoryWithXDocument.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\10.TraverseDirectoryWithXDocument\obj\Debug\10.TraverseDirectoryWithXDocument.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\10.TraverseDirectoryWithXDocument\obj\Debug\10.TraverseDirectoryWithXDocument.pdb

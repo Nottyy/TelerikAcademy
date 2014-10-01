@@ -1,0 +1,56 @@
+﻿/* Направил съм менюто с absolute и relative position за да го упражня. Ако се иска да се постигне ефекта от задачата 
+    просто се махат absolute position-ите на nav ul ul и на nav ul ul ul  и се зануляват падингите.
+    */
+
+body {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+nav ul ul {
+    display: none;
+}
+
+nav ul li:hover > ul {
+    display: block;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+    position: relative;
+}
+
+    nav ul:after {
+        content: "";
+        clear: both;
+        display: block;
+    }
+
+    nav ul li:hover > a {
+        text-decoration: underline;
+    }
+
+    nav ul ul {
+        position: absolute;
+        left: 55px;
+    }
+
+        nav ul ul li {
+            position: relative;
+        }
+
+        nav ul ul li a{
+            color: #989797;
+        }
+
+        nav ul ul ul {
+            position: ;
+            left: 103%;
+            
+        }

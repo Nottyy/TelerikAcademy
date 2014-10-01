@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\07.URLAddressParser\bin\07.URLAddressParser.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\07.URLAddressParser\bin\07.URLAddressParser.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\07.URLAddressParser\bin\07.URLAddressParser.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\07.URLAddressParser\obj\Debug\07.URLAddressParser.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\07.URLAddressParser\obj\Debug\07.URLAddressParser.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\07.URLAddressParser\obj\Debug\07.URLAddressParser.pdb

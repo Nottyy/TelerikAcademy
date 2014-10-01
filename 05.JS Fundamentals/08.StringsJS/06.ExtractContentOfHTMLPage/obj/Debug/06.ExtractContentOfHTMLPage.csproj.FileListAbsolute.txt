@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\06.ExtractContentOfHTMLPage\bin\06.ExtractContentOfHTMLPage.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\06.ExtractContentOfHTMLPage\bin\06.ExtractContentOfHTMLPage.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\06.ExtractContentOfHTMLPage\bin\06.ExtractContentOfHTMLPage.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\06.ExtractContentOfHTMLPage\obj\Debug\06.ExtractContentOfHTMLPage.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\06.ExtractContentOfHTMLPage\obj\Debug\06.ExtractContentOfHTMLPage.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\06.ExtractContentOfHTMLPage\obj\Debug\06.ExtractContentOfHTMLPage.pdb

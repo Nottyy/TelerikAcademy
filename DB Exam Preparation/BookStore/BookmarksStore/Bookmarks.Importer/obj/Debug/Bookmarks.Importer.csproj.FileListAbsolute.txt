@@ -1,0 +1,12 @@
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\Bookmarks.Importer.exe.config
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\Bookmarks.Importer.exe
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\Bookmarks.Importer.pdb
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\Bookmarks.Model.dll
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\Bookmarks.Model.pdb
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\obj\Debug\Bookmarks.Importer.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\obj\Debug\Bookmarks.Importer.exe
+C:\Users\Toshiba\Desktop\DB Exam Preparation\BookStore\BookmarksStore\Bookmarks.Importer\obj\Debug\Bookmarks.Importer.pdb

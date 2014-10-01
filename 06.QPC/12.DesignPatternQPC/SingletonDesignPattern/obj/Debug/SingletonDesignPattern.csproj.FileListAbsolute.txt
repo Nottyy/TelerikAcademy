@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb

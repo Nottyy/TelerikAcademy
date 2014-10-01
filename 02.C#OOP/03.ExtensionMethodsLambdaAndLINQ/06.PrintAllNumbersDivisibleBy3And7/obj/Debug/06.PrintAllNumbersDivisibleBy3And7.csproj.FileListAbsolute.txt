@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\06.PrintAllNumbersDivisibleBy3And7\bin\Debug\06.PrintAllNumbersDivisibleBy3And7.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\06.PrintAllNumbersDivisibleBy3And7\bin\Debug\06.PrintAllNumbersDivisibleBy3And7.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\06.PrintAllNumbersDivisibleBy3And7\bin\Debug\06.PrintAllNumbersDivisibleBy3And7.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\06.PrintAllNumbersDivisibleBy3And7\obj\Debug\06.PrintAllNumbersDivisibleBy3And7.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\06.PrintAllNumbersDivisibleBy3And7\obj\Debug\06.PrintAllNumbersDivisibleBy3And7.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\06.PrintAllNumbersDivisibleBy3And7\obj\Debug\06.PrintAllNumbersDivisibleBy3And7.csprojResolveAssemblyReference.cache

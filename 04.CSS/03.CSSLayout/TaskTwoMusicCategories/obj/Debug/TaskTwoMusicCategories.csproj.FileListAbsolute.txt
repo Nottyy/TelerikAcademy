@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskTwoMusicCategories\bin\TaskTwoMusicCategories.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskTwoMusicCategories\bin\TaskTwoMusicCategories.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskTwoMusicCategories\bin\TaskTwoMusicCategories.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskTwoMusicCategories\obj\Debug\TaskTwoMusicCategories.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskTwoMusicCategories\obj\Debug\TaskTwoMusicCategories.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskTwoMusicCategories\obj\Debug\TaskTwoMusicCategories.pdb

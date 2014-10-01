@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\04.Stars3D\bin\Debug\04.Stars3D.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\04.Stars3D\bin\Debug\04.Stars3D.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\04.Stars3D\bin\Debug\04.Stars3D.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\04.Stars3D\obj\Debug\04.Stars3D.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\04.Stars3D\obj\Debug\04.Stars3D.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\04.Stars3D\obj\Debug\04.Stars3D.pdb

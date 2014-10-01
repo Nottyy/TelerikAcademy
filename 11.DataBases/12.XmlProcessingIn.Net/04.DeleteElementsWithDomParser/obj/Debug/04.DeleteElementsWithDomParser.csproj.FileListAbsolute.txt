@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\04.DeleteElementsWithDomParser\bin\Debug\04.DeleteElementsWithDomParser.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\04.DeleteElementsWithDomParser\bin\Debug\04.DeleteElementsWithDomParser.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\04.DeleteElementsWithDomParser\bin\Debug\04.DeleteElementsWithDomParser.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\04.DeleteElementsWithDomParser\obj\Debug\04.DeleteElementsWithDomParser.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\04.DeleteElementsWithDomParser\obj\Debug\04.DeleteElementsWithDomParser.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\04.DeleteElementsWithDomParser\obj\Debug\04.DeleteElementsWithDomParser.pdb

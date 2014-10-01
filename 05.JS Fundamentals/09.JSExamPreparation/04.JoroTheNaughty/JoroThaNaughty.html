@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Solve(input) {
+            var startPosition = input[1].split(' ').map(Number);
+            var rowsColsJumps = input[0].split(' ').map(Number);
+            var rows = rowsColsJumps[0];
+            var cols = rowsColsJumps[1];
+            var allJumps = rowsColsJumps[2];
+            var field = fieldParser(rows, cols);
+            var jumpsField = jumpsParse(allJumps, input);
+            
+            var currentRow = startPosition[0];
+            var currentCol = startPosition[1];
+            var sumOfNumbers = field[currentRow][currentCol];
+            var numberOfJumps = 1;
+            
+            var isCaught = false;
+            var counterCurrentJumpsField = 0;
+
+            while (field[currentRow][currentCol] !== 'X' && currentRow >= 0
+                                                    && currentRow < rows && currentCol >= 0 && currentCol < cols) {
+                field[currentRow][currentCol] = 'X';
+                numberOfJumps += 1;
+                var nextJumpRow = jumpsField[counterCurrentJumpsField][0];
+                var nextJumpCol = jumpsField[counterCurrentJumpsField][1];
+
+                if (currentRow + nextJumpRow < 0 || currentRow + nextJumpRow >= rows ||
+                    currentCol + nextJumpCol < 0 || currentCol + nextJumpCol >= cols) {
+                    break;
+                }
+                var nextJump = field[currentRow + nextJumpRow][currentCol + nextJumpCol];
+
+                if (nextJump === 'X') {
+                    isCaught = true;
+                    break;
+                }
+                
+                sumOfNumbers += nextJump;
+
+                currentRow += nextJumpRow;
+                currentCol += nextJumpCol;
+
+                counterCurrentJumpsField += 1;
+
+                if (counterCurrentJumpsField === allJumps) {
+                    counterCurrentJumpsField = 0;
+                }
+            }
+
+            if (!isCaught) {
+                return 'escaped ' + sumOfNumbers;
+            }
+            else {
+                return 'caught ' + numberOfJumps;
+            }
+            
+            function jumpsParse(allJumps, input) {
+                var jumpsField = [];
+
+                for (var i = 0; i < allJumps; i++) {
+                    jumpsField[i] = input[i + 2].split(' ').map(Number);
+                }
+
+                return jumpsField;
+            }
+
+            function fieldParser(rows, cols) {
+                var field = [];
+                var counter = 0;
+
+                for (var i = 0; i < rows; i++) {
+                    field[i] = [];
+
+                    for (var j = 0; j < cols; j += 1) {
+                        field[i][j] = counter += 1;
+                    }
+                }
+
+                return field;
+            }
+        }
+
+        
+
+        (function HandleSolveIO() {
+            var args = [];
+
+            args[0] = '500 500 1';
+            args[1] = '0 0';
+            args[2] = '1 1';
+            //args[3] = '-2 2';
+            //args[4] = '3 -1';
+
+            console.log(Solve(args));
+        })();
+    </script>
+</body>
+</html>

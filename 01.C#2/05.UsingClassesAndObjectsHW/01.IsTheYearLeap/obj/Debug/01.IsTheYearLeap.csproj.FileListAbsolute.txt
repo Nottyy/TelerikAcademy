@@ -1,0 +1,9 @@
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\01.IsTheYearLeap\bin\Debug\01.IsTheYearLeap.exe.config
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\01.IsTheYearLeap\bin\Debug\01.IsTheYearLeap.exe
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\01.IsTheYearLeap\bin\Debug\01.IsTheYearLeap.pdb
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\01.IsTheYearLeap\obj\Debug\01.IsTheYearLeap.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\01.IsTheYearLeap\obj\Debug\01.IsTheYearLeap.exe
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\01.IsTheYearLeap\obj\Debug\01.IsTheYearLeap.pdb
+E:\My Space\TelerikCourse\Homeworks\05.UsingClassesAndObjectsHW\01.IsTheYearLeap\bin\Debug\01.IsTheYearLeap.exe.config
+E:\My Space\TelerikCourse\Homeworks\05.UsingClassesAndObjectsHW\01.IsTheYearLeap\obj\Debug\01.IsTheYearLeap.exe
+E:\My Space\TelerikCourse\Homeworks\05.UsingClassesAndObjectsHW\01.IsTheYearLeap\obj\Debug\01.IsTheYearLeap.pdb

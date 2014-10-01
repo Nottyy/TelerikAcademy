@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\03.RefactorJavascript\bin\03.RefactorJavascript.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\03.RefactorJavascript\bin\03.RefactorJavascript.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\03.RefactorJavascript\bin\03.RefactorJavascript.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\03.RefactorJavascript\obj\Debug\03.RefactorJavascript.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\03.RefactorJavascript\obj\Debug\03.RefactorJavascript.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\03.RefactorJavascript\obj\Debug\03.RefactorJavascript.pdb

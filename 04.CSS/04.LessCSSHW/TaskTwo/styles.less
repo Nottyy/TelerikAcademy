@@ -1,0 +1,33 @@
+﻿body {
+    width: 900px;
+    margin: 0 auto;
+
+    ul {
+        position: relative;
+
+        li {
+            list-style: none;
+            display: inline-block;
+
+            div img {
+                width: 133px;
+                height: 100px;
+            }
+        }
+    }
+
+    .picture .preview {
+        display: none;
+    }
+
+    .picture:hover .preview {
+        display: block;
+        position: absolute;
+        top: 140px;
+        left: 0;
+        width: 600px;
+        height: 475px;
+        border: 1px solid black;
+        margin-left: 40px;
+    }
+}

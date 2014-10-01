@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\09AcademyTasks\bin\Debug\09AcademyTasks.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\09AcademyTasks\bin\Debug\09AcademyTasks.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\09AcademyTasks\bin\Debug\09AcademyTasks.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\09AcademyTasks\obj\Debug\09AcademyTasks.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\09AcademyTasks\obj\Debug\09AcademyTasks.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\09AcademyTasks\obj\Debug\09AcademyTasks.pdb

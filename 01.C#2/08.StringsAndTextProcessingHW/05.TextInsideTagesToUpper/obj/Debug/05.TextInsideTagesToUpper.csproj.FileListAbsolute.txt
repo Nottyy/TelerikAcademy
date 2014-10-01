@@ -1,0 +1,5 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\05.TextInsideTagesToUpper\bin\Debug\05.TextInsideTagesToUpper.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\05.TextInsideTagesToUpper\bin\Debug\05.TextInsideTagesToUpper.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\05.TextInsideTagesToUpper\bin\Debug\05.TextInsideTagesToUpper.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\05.TextInsideTagesToUpper\obj\Debug\05.TextInsideTagesToUpper.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\05.TextInsideTagesToUpper\obj\Debug\05.TextInsideTagesToUpper.pdb

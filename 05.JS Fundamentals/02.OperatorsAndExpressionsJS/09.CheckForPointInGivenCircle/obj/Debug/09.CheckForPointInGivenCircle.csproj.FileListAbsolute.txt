@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\09.CheckForPointInGivenCircle\bin\09.CheckForPointInGivenCircle.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\09.CheckForPointInGivenCircle\bin\09.CheckForPointInGivenCircle.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\09.CheckForPointInGivenCircle\bin\09.CheckForPointInGivenCircle.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\09.CheckForPointInGivenCircle\obj\Debug\09.CheckForPointInGivenCircle.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\09.CheckForPointInGivenCircle\obj\Debug\09.CheckForPointInGivenCircle.pdb

@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ExtractContentOfHTMLPage</title>
+</head>
+<body>
+    <h3>
+        Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags:
+    </h3>
+
+    <script>
+        var htmlPage = '<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html>';
+        console.log('Current html page: \n    ' + htmlPage);
+        extractContent(htmlPage);
+
+        function extractContent(htmlPage) {
+            var rightBracketPosition = htmlPage.indexOf('>');
+            var finalContent = '';
+            while (rightBracketPosition > -1 && rightBracketPosition !== htmlPage.length - 1) {
+                if (htmlPage[rightBracketPosition + 1] !== '<') {
+                    var currentContent = htmlPage.substring(rightBracketPosition + 1, htmlPage.indexOf('<', rightBracketPosition + 1));
+                    finalContent += currentContent + ' ';
+                }
+
+                rightBracketPosition = htmlPage.indexOf('>', rightBracketPosition + 1);
+            }
+
+            console.log('Page with extracted content: \n    ' + finalContent);
+        }
+     </script>
+</body>
+</html>

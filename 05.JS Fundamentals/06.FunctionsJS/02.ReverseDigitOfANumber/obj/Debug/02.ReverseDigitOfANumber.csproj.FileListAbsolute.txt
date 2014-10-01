@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\02.ReverseDigitOfANumber\bin\02.ReverseDigitOfANumber.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\02.ReverseDigitOfANumber\bin\02.ReverseDigitOfANumber.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\02.ReverseDigitOfANumber\bin\02.ReverseDigitOfANumber.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\02.ReverseDigitOfANumber\obj\Debug\02.ReverseDigitOfANumber.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\02.ReverseDigitOfANumber\obj\Debug\02.ReverseDigitOfANumber.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\FunctionsJS\02.ReverseDigitOfANumber\obj\Debug\02.ReverseDigitOfANumber.pdb

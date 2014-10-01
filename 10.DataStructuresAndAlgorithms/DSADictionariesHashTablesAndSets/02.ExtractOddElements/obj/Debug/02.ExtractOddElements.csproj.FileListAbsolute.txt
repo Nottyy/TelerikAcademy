@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\02.ExtractOddElements\bin\Debug\02.ExtractOddElements.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\02.ExtractOddElements\bin\Debug\02.ExtractOddElements.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\02.ExtractOddElements\bin\Debug\02.ExtractOddElements.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\02.ExtractOddElements\obj\Debug\02.ExtractOddElements.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\02.ExtractOddElements\obj\Debug\02.ExtractOddElements.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\02.ExtractOddElements\obj\Debug\02.ExtractOddElements.csprojResolveAssemblyReference.cache

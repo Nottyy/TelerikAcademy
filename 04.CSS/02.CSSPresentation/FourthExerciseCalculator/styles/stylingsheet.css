@@ -1,0 +1,278 @@
+﻿/* Умишлено не съм сложил градиентите за различните браузъри защото в момента кодът е огромен, а с тях почва да боли главата.*/
+
+/* Reset */
+div, ul, li, button, input {
+    margin: 0;
+    padding: 0;
+}
+
+/* Tags */
+div, body, button, input {
+    color: #333;
+    font: 12px/1.2 Segoe UI, sans-serif;
+}
+
+label {
+    display: block;
+}
+
+label, button:not(:disabled) {
+    cursor: pointer;
+}
+
+input[type = "radio"] {
+    vertical-align: top;
+}
+
+/* Classes*/
+
+.inline {
+    overflow: hidden;
+}
+
+    .inline li {
+        float: left;
+        list-style: none;
+    }
+
+[class ^= "span"], [class *= " span"] {
+    float: left;
+    margin-left: 5px;
+}
+
+.span1 {
+    width: 35px;
+}
+
+.span2 {
+    width: 75px;
+}
+
+.span8 {
+    width: 315px;
+}
+
+.unstyled {
+    list-style-type: none;
+}
+
+.image {
+    width:16px;
+    height:18px;
+}
+
+.calcSpan {
+    vertical-align: 40%;
+    font-size: 12px;
+    font-weight:600;
+    box-shadow: 2px 2px 42px 5px white ;
+}
+
+.window-wrap {
+    position: relative;
+	width:419px;
+	height:369px;
+	background: linear-gradient(to bottom,  #cee6fe 0%,#b8dbfd 66%); /* W3C */
+	
+	border: 1px solid #444444;
+	border-radius: 10px;
+	padding: 28px 6px 6px 6px;
+    box-shadow: -1px 1px 20px 1px #331919;
+}
+
+#calc-icon{
+    position:absolute;
+	top:5px; left: 10px;
+	font-size:11px;
+	font-family: verdana, sans-serif;
+    vertical-align:middle
+}
+
+div.window-buttons{
+    position: absolute;
+	top:0;
+	right:6px;
+	width:100px;
+	height:18px;
+	border: 1px solid #545b64;
+	border-top:none;
+	border-radius: 0 0 5px 5px;
+}
+
+div.window-buttons div.lightButtons{
+	width:26px;
+	height:18px;
+	border-right: 1px solid #545b64;
+	float:left;
+	text-align: center;
+	color:white;
+	font-size:14px;
+	font-weight:bold;
+	
+	background: linear-gradient(to bottom,  #e4eef9 0%,#ccdae8 52%,#aabed2 53%,#bbcee5 100%); /* W3C */
+}
+
+div.window-buttons div#minimize-button{
+	border-radius: 0 0 0 5px; 
+	cursor: default;
+}
+
+div.window-buttons div#minimize-button:hover{
+	background: linear-gradient(to bottom,  #aad1e9 0%,#82b3d8 51%,#2278af 52%,#35cfe3 100%); /* W3C */
+}
+
+div.window-buttons div#closeButton{
+	width:46px;
+	height:18px;
+	border-radius: 0 0 5px 0;
+	float:left;
+	text-align:center;
+	font-weight:bold;
+	color:white;
+	background: linear-gradient(to bottom,  #e0b2b0 0%,#cd837d 52%,#b44a3f 53%,#d08475 100%); /* W3C */
+	cursor: default;
+}
+
+div.window-buttons div#closeButton:hover{
+	background: linear-gradient(to bottom,  #e9988c 0%,#da6956 50%,#b4230c 51%,#db7c2e 100%); /* W3C */
+}
+
+.calculator .unstyled {
+    padding: 3px 0 0;
+}
+
+    .calculator .unstyled li + li {
+        margin-top: 6px;
+    }
+
+.calculator {
+    margin: 0 auto;
+    padding: 2px 10px 10px;
+    border: 1px solid #999;
+    background: linear-gradient(#F0F0F0 0px, #D9E4F1 100px);
+    width: 395px;
+    height: 354px;
+}
+
+    .calculator .main-menu {
+        margin: 0 -10px 10px;
+        padding: 1px 5px 2px;
+        border-bottom: 1px solid #B6BCCC;
+        background: linear-gradient(#FEFEFF 0%, #E5EAF5 34%, #D4DBED 35%, #E1E6F6 100%);
+    }
+
+        .calculator .main-menu li + li {
+            margin-left: 10px;
+        }
+
+    .calculator .keyboard-shortcut {
+        text-decoration: underline;
+    }
+
+    .calculator .inputBox {
+        text-align: right;
+        margin: 10px 0 4px 0px;
+        padding: 15px 5px 5px;
+        font-size: 2em;
+        border: 1px solid #a19c9c;
+        border-radius: 2px;
+        background: linear-gradient(#E6EFFB, #FFFFFF);
+    }
+
+    .calculator .binary-representation {
+        border: 1px solid #727F8D;
+        border-radius: 2px;
+        margin-bottom: 5px;
+        color: #1C3759;
+        font-family: Consolas;
+        font-size: 14px;
+        box-shadow: inset 0 0 0 1px #fff;
+        padding: 5px 5px 5px 5px;
+    }
+
+        .calculator .binary-representation li {
+            width: 33px;
+        }
+
+            .calculator .binary-representation li + li {
+                margin-left: 17px;
+            }
+
+    .calculator .binary-index li:first-child {
+        width: 183px;
+    }
+
+    .calculator .binary-index li:last-child {
+        width: 133px;
+        text-align: right;
+    }
+
+.row {
+    margin-left: -5px;
+}
+    /* Remove first span margin */
+    .row::after {
+        display: table;
+        clear: both; /* Clearfix */
+        content: " ";
+    }
+
+.box {
+    margin-bottom: 5px;
+    border: 1px solid #727F8D;
+    border-radius: 3px;
+    color: #1C3759;
+    height: 80px;
+    padding: 5px;
+}
+
+.btn {
+    margin-bottom: 0.45em;
+    position: relative;
+    height: 27px;
+    border: 1px solid #8797AA;
+    background: -webkit-linear-gradient(#F0F6FB 0%, #E2EAF3 49%, #D5E0ED 50%, #D7E2EF 100%);
+    background: -moz-linear-gradient(#F0F6FB 0%, #E2EAF3 49%, #D5E0ED 50%, #D7E2EF 100%);
+    background: -o-linear-gradient(#F0F6FB 0%, #E2EAF3 49%, #D5E0ED 50%, #D7E2EF 100%);
+    background: linear-gradient(#F0F6FB 0%, #E2EAF3 49%, #D5E0ED 50%, #D7E2EF 100%);
+    line-height: 25px; /* Button box model - without borders */
+}
+
+.calculator .btn.equals {
+    height: 59px;
+    float: right;
+    top: -64px;
+}
+
+.calculator .btn strong {
+    font-size: 22px;
+}
+
+.calculator .btn-loud {
+    background: linear-gradient(#F7FBFF 0%, #EDF3F8 49%, #E7EDF5 50%, #F3FBFF 100%);
+}
+
+.calculator .btn-muted {
+    background: #D9E4F1;
+}
+
+.btn1 {
+    margin-bottom: 0.45em;
+    position: relative;
+    height: 27px;
+    border: 1px solid #8797AA;
+    background: linear-gradient(#FEF5EB 0%, #FCE3C6 49%, #FBD075 50%, #FCF8CA 100%);
+    box-shadow: 2px 2px 20px #FCE3C6;
+}
+
+.calculator .btn:disabled {
+    border-color: #B4C2D1;
+    background: #D9E4F1;
+}
+
+.calculator .btn:hover,
+.calculator .btn:focus {
+    border-color: #F5D50F;
+    background: linear-gradient(#FEF5EB 0%, #FCE3C6 49%, #FBD075 50%, #FCF8CA 100%);
+}
+.calculator .btn:not(:disabled):active { top: 1px; }

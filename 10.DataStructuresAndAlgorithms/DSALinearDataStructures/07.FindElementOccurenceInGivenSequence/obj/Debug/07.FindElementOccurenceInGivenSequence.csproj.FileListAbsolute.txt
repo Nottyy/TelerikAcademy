@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\07.FindElementOccurenceInGivenSequence\bin\Debug\07.FindElementOccurenceInGivenSequence.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\07.FindElementOccurenceInGivenSequence\bin\Debug\07.FindElementOccurenceInGivenSequence.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\07.FindElementOccurenceInGivenSequence\bin\Debug\07.FindElementOccurenceInGivenSequence.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\07.FindElementOccurenceInGivenSequence\obj\Debug\07.FindElementOccurenceInGivenSequence.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\07.FindElementOccurenceInGivenSequence\obj\Debug\07.FindElementOccurenceInGivenSequence.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\07.FindElementOccurenceInGivenSequence\obj\Debug\07.FindElementOccurenceInGivenSequence.pdb

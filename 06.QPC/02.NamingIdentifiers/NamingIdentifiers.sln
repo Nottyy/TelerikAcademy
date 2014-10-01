@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RefactorClass123", "01.RefactorClass123\01.RefactorClass123.csproj", "{38DA4B1E-BE52-4BDF-8E45-FF1CC4BD931B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RefactorPersonDemo", "02.RefactorClassHauptklasse\02.RefactorPersonDemo.csproj", "{465C83F9-1E10-4A5F-A881-D61203CDCD6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RefactorJavascript", "03.RefactorJavascript\03.RefactorJavascript.csproj", "{A62A023E-F24A-4871-B7CB-37B9232C59FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MineSweeper", "04.MineSweeper\04.MineSweeper.csproj", "{EA01E332-1E03-4CBB-8413-8F7D7BE1DAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DA4B1E-BE52-4BDF-8E45-FF1CC4BD931B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DA4B1E-BE52-4BDF-8E45-FF1CC4BD931B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DA4B1E-BE52-4BDF-8E45-FF1CC4BD931B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DA4B1E-BE52-4BDF-8E45-FF1CC4BD931B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465C83F9-1E10-4A5F-A881-D61203CDCD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465C83F9-1E10-4A5F-A881-D61203CDCD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465C83F9-1E10-4A5F-A881-D61203CDCD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465C83F9-1E10-4A5F-A881-D61203CDCD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62A023E-F24A-4871-B7CB-37B9232C59FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62A023E-F24A-4871-B7CB-37B9232C59FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62A023E-F24A-4871-B7CB-37B9232C59FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62A023E-F24A-4871-B7CB-37B9232C59FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA01E332-1E03-4CBB-8413-8F7D7BE1DAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA01E332-1E03-4CBB-8413-8F7D7BE1DAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA01E332-1E03-4CBB-8413-8F7D7BE1DAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA01E332-1E03-4CBB-8413-8F7D7BE1DAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\12.ZigzagLines\bin\Debug\12.ZigzagLines.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\12.ZigzagLines\bin\Debug\12.ZigzagLines.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\12.ZigzagLines\bin\Debug\12.ZigzagLines.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\12.ZigzagLines\obj\Debug\12.ZigzagLines.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\12.ZigzagLines\obj\Debug\12.ZigzagLines.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\12.ZigzagLines\obj\Debug\12.ZigzagLines.pdb

@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\06.QuadraticEquationCalc\bin\06.QuadraticEquationCalc.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\06.QuadraticEquationCalc\bin\06.QuadraticEquationCalc.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\06.QuadraticEquationCalc\bin\06.QuadraticEquationCalc.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\06.QuadraticEquationCalc\obj\Debug\06.QuadraticEquationCalc.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\06.QuadraticEquationCalc\obj\Debug\06.QuadraticEquationCalc.pdb

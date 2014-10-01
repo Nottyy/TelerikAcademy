@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\01.FillingMatrix\bin\Debug\01.FillingMatrix.exe.config
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\01.FillingMatrix\bin\Debug\01.FillingMatrix.exe
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\01.FillingMatrix\bin\Debug\01.FillingMatrix.pdb
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\01.FillingMatrix\obj\Debug\01.FillingMatrix.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\01.FillingMatrix\obj\Debug\01.FillingMatrix.exe
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\01.FillingMatrix\obj\Debug\01.FillingMatrix.pdb

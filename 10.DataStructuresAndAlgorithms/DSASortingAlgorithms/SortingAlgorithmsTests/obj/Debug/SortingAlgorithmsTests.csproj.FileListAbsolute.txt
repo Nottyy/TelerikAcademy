@@ -1,0 +1,7 @@
+C:\Users\Toshiba\Desktop\SortingAlgorithmsTests\bin\Debug\SortingAlgorithmsTests.dll
+C:\Users\Toshiba\Desktop\SortingAlgorithmsTests\bin\Debug\SortingAlgorithmsTests.pdb
+C:\Users\Toshiba\Desktop\SortingAlgorithmsTests\bin\Debug\SortingHomework.exe
+C:\Users\Toshiba\Desktop\SortingAlgorithmsTests\bin\Debug\SortingHomework.pdb
+C:\Users\Toshiba\Desktop\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.dll
+C:\Users\Toshiba\Desktop\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CreateCoursesTable", "01.CreateCoursesTable\01.CreateCoursesTable.csproj", "{428F12FC-85EA-49E2-8E62-F24BA6F9A3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SelectMenu", "02.SelectMenu\02.SelectMenu.csproj", "{43CC4888-194E-491D-A437-975FB0844B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ListViewPlugin", "03.ListViewPlugin\03.ListViewPlugin.csproj", "{A2947F98-5778-41D2-886B-60D6D777863E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{428F12FC-85EA-49E2-8E62-F24BA6F9A3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428F12FC-85EA-49E2-8E62-F24BA6F9A3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428F12FC-85EA-49E2-8E62-F24BA6F9A3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428F12FC-85EA-49E2-8E62-F24BA6F9A3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CC4888-194E-491D-A437-975FB0844B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CC4888-194E-491D-A437-975FB0844B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CC4888-194E-491D-A437-975FB0844B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CC4888-194E-491D-A437-975FB0844B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2947F98-5778-41D2-886B-60D6D777863E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2947F98-5778-41D2-886B-60D6D777863E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2947F98-5778-41D2-886B-60D6D777863E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2947F98-5778-41D2-886B-60D6D777863E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

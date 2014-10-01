@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\05.FindThirdBit\bin\05.FindThirdBit.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\05.FindThirdBit\bin\05.FindThirdBit.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\05.FindThirdBit\bin\05.FindThirdBit.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\05.FindThirdBit\obj\Debug\05.FindThirdBit.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\05.FindThirdBit\obj\Debug\05.FindThirdBit.pdb

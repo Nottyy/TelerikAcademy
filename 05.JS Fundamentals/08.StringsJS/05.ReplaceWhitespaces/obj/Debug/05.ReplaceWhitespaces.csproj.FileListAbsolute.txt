@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\05.ReplaceWhitespaces\bin\05.ReplaceWhitespaces.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\05.ReplaceWhitespaces\bin\05.ReplaceWhitespaces.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\05.ReplaceWhitespaces\bin\05.ReplaceWhitespaces.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\05.ReplaceWhitespaces\obj\Debug\05.ReplaceWhitespaces.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\05.ReplaceWhitespaces\obj\Debug\05.ReplaceWhitespaces.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\05.ReplaceWhitespaces\obj\Debug\05.ReplaceWhitespaces.pdb

@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\03.Employees\bin\Debug\03.Employees.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\03.Employees\obj\Debug\03.Employees.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\03.Employees\bin\Debug\03.Employees.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\03.Employees\bin\Debug\03.Employees.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\03.Employees\obj\Debug\03.Employees.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\03.Employees\obj\Debug\03.Employees.pdb

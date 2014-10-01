@@ -1,0 +1,9 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\18.IncreasingOrderArraySort\bin\Debug\18.IncreasingOrderArraySort.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\18.IncreasingOrderArraySort\bin\Debug\18.IncreasingOrderArraySort.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\18.IncreasingOrderArraySort\bin\Debug\18.IncreasingOrderArraySort.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\18.IncreasingOrderArraySort\obj\Debug\18.IncreasingOrderArraySort.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\18.IncreasingOrderArraySort\obj\Debug\18.IncreasingOrderArraySort.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\18.IncreasingOrderArraySort\obj\Debug\18.IncreasingOrderArraySort.pdb
+E:\My Space\TelerikCourse\Homeworks\01.C#2\01.ArraysHomework\18.IncreasingOrderArraySort\bin\Debug\18.IncreasingOrderArraySort.exe.config
+E:\My Space\TelerikCourse\Homeworks\01.C#2\01.ArraysHomework\18.IncreasingOrderArraySort\obj\Debug\18.IncreasingOrderArraySort.exe
+E:\My Space\TelerikCourse\Homeworks\01.C#2\01.ArraysHomework\18.IncreasingOrderArraySort\obj\Debug\18.IncreasingOrderArraySort.pdb

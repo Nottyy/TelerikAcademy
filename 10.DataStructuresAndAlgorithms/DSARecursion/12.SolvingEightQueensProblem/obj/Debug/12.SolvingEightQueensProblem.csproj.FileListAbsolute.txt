@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\12.SolvingEightQueensProblem\bin\Debug\12.SolvingEightQueensProblem.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\12.SolvingEightQueensProblem\bin\Debug\12.SolvingEightQueensProblem.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\12.SolvingEightQueensProblem\bin\Debug\12.SolvingEightQueensProblem.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\12.SolvingEightQueensProblem\obj\Debug\12.SolvingEightQueensProblem.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\12.SolvingEightQueensProblem\obj\Debug\12.SolvingEightQueensProblem.pdb

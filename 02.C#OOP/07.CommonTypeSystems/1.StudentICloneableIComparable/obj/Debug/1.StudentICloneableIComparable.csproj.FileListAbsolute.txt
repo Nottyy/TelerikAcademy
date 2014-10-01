@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\CommonTypeSystems\1.StudentICloneableIComparable\bin\Debug\1.StudentICloneableIComparable.exe.config
+E:\My Space\TelerikCourse\CommonTypeSystems\1.StudentICloneableIComparable\obj\Debug\1.StudentICloneableIComparable.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\CommonTypeSystems\1.StudentICloneableIComparable\bin\Debug\1.StudentICloneableIComparable.exe
+E:\My Space\TelerikCourse\CommonTypeSystems\1.StudentICloneableIComparable\bin\Debug\1.StudentICloneableIComparable.pdb
+E:\My Space\TelerikCourse\CommonTypeSystems\1.StudentICloneableIComparable\obj\Debug\1.StudentICloneableIComparable.exe
+E:\My Space\TelerikCourse\CommonTypeSystems\1.StudentICloneableIComparable\obj\Debug\1.StudentICloneableIComparable.pdb

@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\04.MineSweeper\bin\Debug\04.MineSweeper.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\04.MineSweeper\bin\Debug\04.MineSweeper.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\04.MineSweeper\bin\Debug\04.MineSweeper.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\04.MineSweeper\obj\Debug\04.MineSweeper.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\04.MineSweeper\obj\Debug\04.MineSweeper.pdb

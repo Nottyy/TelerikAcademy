@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.pdb

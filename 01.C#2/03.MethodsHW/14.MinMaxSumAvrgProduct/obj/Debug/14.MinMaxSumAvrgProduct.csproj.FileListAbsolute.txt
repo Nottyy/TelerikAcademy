@@ -1,0 +1,9 @@
+E:\My Space\TelerikCourse\MethodsHW\14.MinMaxSumAvrgProduct\bin\Debug\14.MinMaxSumAvrgProduct.exe.config
+E:\My Space\TelerikCourse\MethodsHW\14.MinMaxSumAvrgProduct\bin\Debug\14.MinMaxSumAvrgProduct.exe
+E:\My Space\TelerikCourse\MethodsHW\14.MinMaxSumAvrgProduct\bin\Debug\14.MinMaxSumAvrgProduct.pdb
+E:\My Space\TelerikCourse\MethodsHW\14.MinMaxSumAvrgProduct\obj\Debug\14.MinMaxSumAvrgProduct.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\MethodsHW\14.MinMaxSumAvrgProduct\obj\Debug\14.MinMaxSumAvrgProduct.exe
+E:\My Space\TelerikCourse\MethodsHW\14.MinMaxSumAvrgProduct\obj\Debug\14.MinMaxSumAvrgProduct.pdb
+E:\My Space\TelerikCourse\Homeworks\03.MethodsHW\14.MinMaxSumAvrgProduct\bin\Debug\14.MinMaxSumAvrgProduct.exe.config
+E:\My Space\TelerikCourse\Homeworks\03.MethodsHW\14.MinMaxSumAvrgProduct\obj\Debug\14.MinMaxSumAvrgProduct.exe
+E:\My Space\TelerikCourse\Homeworks\03.MethodsHW\14.MinMaxSumAvrgProduct\obj\Debug\14.MinMaxSumAvrgProduct.pdb

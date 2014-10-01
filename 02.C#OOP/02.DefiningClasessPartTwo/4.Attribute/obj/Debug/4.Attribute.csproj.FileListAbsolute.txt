@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\4.Attribute\bin\Debug\4.Attribute.exe.config
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\4.Attribute\bin\Debug\4.Attribute.exe
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\4.Attribute\bin\Debug\4.Attribute.pdb
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\4.Attribute\obj\Debug\4.Attribute.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\4.Attribute\obj\Debug\4.Attribute.exe
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\4.Attribute\obj\Debug\4.Attribute.pdb

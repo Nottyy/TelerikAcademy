@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\08.ConvertNumberToText\bin\08.ConvertNumberToText.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\08.ConvertNumberToText\bin\08.ConvertNumberToText.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\08.ConvertNumberToText\bin\08.ConvertNumberToText.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\08.ConvertNumberToText\obj\Debug\08.ConvertNumberToText.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\08.ConvertNumberToText\obj\Debug\08.ConvertNumberToText.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\08.ConvertNumberToText\obj\Debug\08.ConvertNumberToText.pdb

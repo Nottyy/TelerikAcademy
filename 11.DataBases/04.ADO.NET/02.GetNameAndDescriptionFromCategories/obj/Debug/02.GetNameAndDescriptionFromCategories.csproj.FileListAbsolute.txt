@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\02.GetNameAndDescriptionFromCategories\bin\Debug\02.GetNameAndDescriptionFromCategories.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\02.GetNameAndDescriptionFromCategories\bin\Debug\02.GetNameAndDescriptionFromCategories.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\02.GetNameAndDescriptionFromCategories\bin\Debug\02.GetNameAndDescriptionFromCategories.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\02.GetNameAndDescriptionFromCategories\obj\Debug\02.GetNameAndDescriptionFromCategories.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\02.GetNameAndDescriptionFromCategories\obj\Debug\02.GetNameAndDescriptionFromCategories.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\02.GetNameAndDescriptionFromCategories\obj\Debug\02.GetNameAndDescriptionFromCategories.pdb

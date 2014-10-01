@@ -1,0 +1,46 @@
+﻿table {
+    font-family: Corbel;
+    font-size: large;
+    font-weight: bold;
+}
+
+td {
+    padding: 2px;
+}
+
+fieldset {
+    border: 2px solid black;
+}
+
+.centerAlign {
+    text-align: center;
+}
+
+#paragraph{
+    font-size: x-large;
+    display: inline-block;
+    height: 0px;
+    position:relative; left: 10px;
+}
+
+hr{
+    border: 1px solid black;
+}
+
+#infoTable {
+    border: 2px solid black;
+}
+
+thead a {
+    padding: 0 1px;
+}
+
+form {
+    font-size: larger;
+}
+
+.slider {
+    width: 160px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

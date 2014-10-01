@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\FirstExercise\bin\FirstExercise.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\FirstExercise\bin\FirstExercise.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\FirstExercise\bin\FirstExercise.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\FirstExercise\obj\Debug\01.FirstExercise.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\FirstExercise\obj\Debug\FirstExercise.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OverviewCSS\FirstExercise\obj\Debug\FirstExercise.pdb

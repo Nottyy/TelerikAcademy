@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\07.DecodeEncodeString\bin\Debug\07.DecodeEncodeString.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\07.DecodeEncodeString\bin\Debug\07.DecodeEncodeString.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\07.DecodeEncodeString\bin\Debug\07.DecodeEncodeString.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\07.DecodeEncodeString\obj\Debug\07.DecodeEncodeString.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\07.DecodeEncodeString\obj\Debug\07.DecodeEncodeString.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\07.DecodeEncodeString\obj\Debug\07.DecodeEncodeString.pdb

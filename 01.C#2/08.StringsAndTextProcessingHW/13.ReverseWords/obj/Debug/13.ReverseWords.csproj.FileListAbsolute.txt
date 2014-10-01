@@ -1,0 +1,5 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\13.ReverseWords\bin\Debug\13.ReverseWords.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\13.ReverseWords\bin\Debug\13.ReverseWords.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\13.ReverseWords\bin\Debug\13.ReverseWords.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\13.ReverseWords\obj\Debug\13.ReverseWords.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\13.ReverseWords\obj\Debug\13.ReverseWords.pdb

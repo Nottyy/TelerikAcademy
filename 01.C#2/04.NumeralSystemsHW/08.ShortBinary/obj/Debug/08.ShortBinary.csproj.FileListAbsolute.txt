@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\NumeralSystemsHW\08.ShortBinary\bin\Debug\08.ShortBinary.exe.config
+E:\My Space\TelerikCourse\NumeralSystemsHW\08.ShortBinary\bin\Debug\08.ShortBinary.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\08.ShortBinary\bin\Debug\08.ShortBinary.pdb
+E:\My Space\TelerikCourse\NumeralSystemsHW\08.ShortBinary\obj\Debug\08.ShortBinary.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\NumeralSystemsHW\08.ShortBinary\obj\Debug\08.ShortBinary.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\08.ShortBinary\obj\Debug\08.ShortBinary.pdb

@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\17.DateTime\bin\Debug\17.DateTime.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\17.DateTime\bin\Debug\17.DateTime.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\17.DateTime\bin\Debug\17.DateTime.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\17.DateTime\obj\Debug\17.DateTime.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\17.DateTime\obj\Debug\17.DateTime.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\17.DateTime\obj\Debug\17.DateTime.pdb

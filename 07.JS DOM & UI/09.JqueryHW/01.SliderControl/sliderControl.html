@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SliderControl</title>
+    <script src="Scripts/jquery-2.1.1.min.js"></script>
+    <style>
+        button#next{
+            position: absolute;
+            top: 600px;
+            left: 50px;
+        }
+        button#previous{
+            position: absolute;
+            top:600px;
+            left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <button id="previous"><</button>
+    <button id="next">></button>
+    
+    <script>
+        var slider = [
+            '<div><h3>This is the UL</h3><ul><li>1</li><li>2</li><li>3</li><li>4</li></ul</div>',
+            '<h1>Header</h1>',
+            '<img src="images/10438781_10201984399363648_876674632_n.jpg" alt="" />',
+            '<div><a href="#">First Link</a><br /><a href="#">Second Link</a><br /><a href="#">Third Link</a></div>'
+        ];
+
+        var container = $('#container');
+        var currentSlide = 0;
+
+        $('#next').on('click', nextSlide);
+        $('#previous').on('click', previousSlide);
+        createSliderControl();
+        var autoSlideChanger = setInterval(function () { nextSlide() }, 5000);
+
+        function nextSlide() {
+            currentSlide += 1;
+            if (currentSlide == slider.length) {
+                currentSlide = 0;
+            }
+
+            createSliderControl();
+            resetTimer();
+        }
+
+        function previousSlide() {
+            currentSlide -= 1;
+            if (currentSlide < 0) {
+                currentSlide = slides.length - 1;
+            }
+
+            createSliderControl();
+            resetTimer();
+        }
+
+        function createSliderControl() {
+            container.html(slider[currentSlide]);
+        }
+
+        function resetTimer() {
+            clearInterval(autoSlideChanger);
+            autoSlideChanger = setInterval(function () { nextSlide() }, 5000);
+        }
+    </script>
+</body>
+</html>

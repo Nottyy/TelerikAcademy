@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\TextFilesHW\09.DeleteAllOddLinesOrReadAllEvenLines\bin\Debug\09.DeleteAllOddLinesOrReadAllEvenLines.exe.config
+E:\My Space\TelerikCourse\TextFilesHW\09.DeleteAllOddLinesOrReadAllEvenLines\bin\Debug\09.DeleteAllOddLinesOrReadAllEvenLines.exe
+E:\My Space\TelerikCourse\TextFilesHW\09.DeleteAllOddLinesOrReadAllEvenLines\bin\Debug\09.DeleteAllOddLinesOrReadAllEvenLines.pdb
+E:\My Space\TelerikCourse\TextFilesHW\09.DeleteAllOddLinesOrReadAllEvenLines\obj\Debug\09.DeleteAllOddLinesOrJustReadAllEvenLines.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\TextFilesHW\09.DeleteAllOddLinesOrReadAllEvenLines\obj\Debug\09.DeleteAllOddLinesOrReadAllEvenLines.exe
+E:\My Space\TelerikCourse\TextFilesHW\09.DeleteAllOddLinesOrReadAllEvenLines\obj\Debug\09.DeleteAllOddLinesOrReadAllEvenLines.pdb

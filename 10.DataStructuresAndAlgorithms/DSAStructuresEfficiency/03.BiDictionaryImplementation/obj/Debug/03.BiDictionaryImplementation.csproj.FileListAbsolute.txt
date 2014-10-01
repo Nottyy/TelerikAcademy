@@ -1,0 +1,8 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\03.BiDictionaryImplementation.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\03.BiDictionaryImplementation.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\03.BiDictionaryImplementation.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\PowerCollections.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\PowerCollections.xml
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\obj\Debug\03.BiDictionaryImplementation.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\obj\Debug\03.BiDictionaryImplementation.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\03.BiDictionaryImplementation\obj\Debug\03.BiDictionaryImplementation.pdb

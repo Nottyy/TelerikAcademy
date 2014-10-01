@@ -1,0 +1,10 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\NorthwindModel.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\NorthwindModel.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\NorthwindModel.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\obj\Debug\NorthwindModel.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\obj\Debug\NorthwindModel.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\obj\Debug\NorthwindModel.pdb

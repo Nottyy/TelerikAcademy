@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseThreeLaptops\bin\ExerciseThreeLaptops.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseThreeLaptops\bin\ExerciseThreeLaptops.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseThreeLaptops\bin\ExerciseThreeLaptops.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseThreeLaptops\obj\Debug\ExerciseThreeLaptops.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseThreeLaptops\obj\Debug\ExerciseThreeLaptops.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseThreeLaptops\obj\Debug\03ExerciseThreeLaptops.csprojResolveAssemblyReference.cache

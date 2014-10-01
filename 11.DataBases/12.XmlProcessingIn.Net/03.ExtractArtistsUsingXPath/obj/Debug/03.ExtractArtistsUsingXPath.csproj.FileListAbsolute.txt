@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\03.ExtractArtistsUsingXPath\bin\Debug\03.ExtractArtistsUsingXPath.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\03.ExtractArtistsUsingXPath\bin\Debug\03.ExtractArtistsUsingXPath.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\03.ExtractArtistsUsingXPath\bin\Debug\03.ExtractArtistsUsingXPath.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\03.ExtractArtistsUsingXPath\obj\Debug\03.ExtractArtistsUsingXPath.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\03.ExtractArtistsUsingXPath\obj\Debug\03.ExtractArtistsUsingXPath.pdb

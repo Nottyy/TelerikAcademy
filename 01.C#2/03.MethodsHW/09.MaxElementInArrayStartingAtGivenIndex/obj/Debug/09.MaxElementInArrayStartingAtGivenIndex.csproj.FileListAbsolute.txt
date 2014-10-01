@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\MethodsHW\09.MaxElementInArrayStartingAtGivenIndex\bin\Debug\09.MaxElementInArrayStartingAtGivenIndex.exe.config
+E:\My Space\TelerikCourse\MethodsHW\09.MaxElementInArrayStartingAtGivenIndex\bin\Debug\09.MaxElementInArrayStartingAtGivenIndex.exe
+E:\My Space\TelerikCourse\MethodsHW\09.MaxElementInArrayStartingAtGivenIndex\bin\Debug\09.MaxElementInArrayStartingAtGivenIndex.pdb
+E:\My Space\TelerikCourse\MethodsHW\09.MaxElementInArrayStartingAtGivenIndex\obj\Debug\09.MaxElementInArrayStartingAtGivenIndex.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\MethodsHW\09.MaxElementInArrayStartingAtGivenIndex\obj\Debug\09.MaxElementInArrayStartingAtGivenIndex.exe
+E:\My Space\TelerikCourse\MethodsHW\09.MaxElementInArrayStartingAtGivenIndex\obj\Debug\09.MaxElementInArrayStartingAtGivenIndex.pdb

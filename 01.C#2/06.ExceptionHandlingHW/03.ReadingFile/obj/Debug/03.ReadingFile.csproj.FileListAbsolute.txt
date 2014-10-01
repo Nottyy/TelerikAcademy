@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\ExceptionHandlingHW\03.ReadingFile\bin\Debug\03.ReadingFile.exe.config
+E:\My Space\TelerikCourse\ExceptionHandlingHW\03.ReadingFile\bin\Debug\03.ReadingFile.exe
+E:\My Space\TelerikCourse\ExceptionHandlingHW\03.ReadingFile\bin\Debug\03.ReadingFile.pdb
+E:\My Space\TelerikCourse\ExceptionHandlingHW\03.ReadingFile\obj\Debug\03.ReadingFile.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\ExceptionHandlingHW\03.ReadingFile\obj\Debug\03.ReadingFile.exe
+E:\My Space\TelerikCourse\ExceptionHandlingHW\03.ReadingFile\obj\Debug\03.ReadingFile.pdb

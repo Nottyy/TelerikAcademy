@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Desktop\TelerikAcademy-master (1)\TelerikAcademy-master\HomeworksJavaScriptUIandDOM\06CanvasAnimations\06CanvasAnimations\bin\06CanvasAnimations.dll.config
+C:\Users\Toshiba\Desktop\TelerikAcademy-master (1)\TelerikAcademy-master\HomeworksJavaScriptUIandDOM\06CanvasAnimations\06CanvasAnimations\bin\06CanvasAnimations.dll
+C:\Users\Toshiba\Desktop\TelerikAcademy-master (1)\TelerikAcademy-master\HomeworksJavaScriptUIandDOM\06CanvasAnimations\06CanvasAnimations\bin\06CanvasAnimations.pdb
+C:\Users\Toshiba\Desktop\TelerikAcademy-master (1)\TelerikAcademy-master\HomeworksJavaScriptUIandDOM\06CanvasAnimations\06CanvasAnimations\obj\Debug\06CanvasAnimations.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\TelerikAcademy-master (1)\TelerikAcademy-master\HomeworksJavaScriptUIandDOM\06CanvasAnimations\06CanvasAnimations\obj\Debug\06CanvasAnimations.dll
+C:\Users\Toshiba\Desktop\TelerikAcademy-master (1)\TelerikAcademy-master\HomeworksJavaScriptUIandDOM\06CanvasAnimations\06CanvasAnimations\obj\Debug\06CanvasAnimations.pdb

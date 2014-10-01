@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\2.FifthSixthAndSeventhTasksGenericList\bin\Debug\2.FifthSixthAndSeventhTasksGenericList.exe.config
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\2.FifthSixthAndSeventhTasksGenericList\bin\Debug\2.FifthSixthAndSeventhTasksGenericList.exe
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\2.FifthSixthAndSeventhTasksGenericList\bin\Debug\2.FifthSixthAndSeventhTasksGenericList.pdb
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\2.FifthSixthAndSeventhTasksGenericList\obj\Debug\2.FifthSixthAndSeventhTasksGenericList.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\2.FifthSixthAndSeventhTasksGenericList\obj\Debug\2.FifthSixthAndSeventhTasksGenericList.exe
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\2.FifthSixthAndSeventhTasksGenericList\obj\Debug\2.FifthSixthAndSeventhTasksGenericList.pdb

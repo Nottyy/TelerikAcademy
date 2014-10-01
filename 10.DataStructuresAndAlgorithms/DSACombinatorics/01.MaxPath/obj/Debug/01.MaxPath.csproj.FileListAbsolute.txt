@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DataStructuresAndAlgorithms\01.MaxPath\bin\Debug\01.MaxPath.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DataStructuresAndAlgorithms\01.MaxPath\obj\Debug\01.MaxPath.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DataStructuresAndAlgorithms\01.MaxPath\bin\Debug\01.MaxPath.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DataStructuresAndAlgorithms\01.MaxPath\bin\Debug\01.MaxPath.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DataStructuresAndAlgorithms\01.MaxPath\obj\Debug\01.MaxPath.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DataStructuresAndAlgorithms\01.MaxPath\obj\Debug\01.MaxPath.pdb

@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\02.MovingLetters\bin\Debug\02.MovingLetters.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\02.MovingLetters\bin\Debug\02.MovingLetters.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.MovingLetters\bin\Debug\02.MovingLetters.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\02.MovingLetters\obj\Debug\02.MovingLetters.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\02.MovingLetters\obj\Debug\02.MovingLetters.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.MovingLetters\obj\Debug\02.MovingLetters.pdb

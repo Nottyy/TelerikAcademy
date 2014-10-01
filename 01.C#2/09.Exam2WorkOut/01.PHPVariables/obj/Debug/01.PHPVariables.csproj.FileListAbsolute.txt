@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\01.PHPVariables\bin\Debug\01.PHPVariables.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\01.PHPVariables\bin\Debug\01.PHPVariables.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\01.PHPVariables\bin\Debug\01.PHPVariables.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\01.PHPVariables\obj\Debug\01.PHPVariables.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\01.PHPVariables\obj\Debug\01.PHPVariables.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\01.PHPVariables\obj\Debug\01.PHPVariables.pdb

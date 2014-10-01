@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\05.GridViewControl\bin\05.GridViewControl.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\05.GridViewControl\bin\05.GridViewControl.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\05.GridViewControl\bin\05.GridViewControl.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\05.GridViewControl\obj\Debug\05.GridViewControl.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\05.GridViewControl\obj\Debug\05.GridViewControl.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\05.GridViewControl\obj\Debug\05.GridViewControl.pdb

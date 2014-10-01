@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\06.MaxSumOfKelementsInArraysOfNelements\bin\Debug\06.MaxSumOfKelementsInArraysOfNelements.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\06.MaxSumOfKelementsInArraysOfNelements\bin\Debug\06.MaxSumOfKelementsInArraysOfNelements.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\06.MaxSumOfKelementsInArraysOfNelements\bin\Debug\06.MaxSumOfKelementsInArraysOfNelements.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\06.MaxSumOfKelementsInArraysOfNelements\obj\Debug\06.MaxSumOfKelementsInArraysOfNelements.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\06.MaxSumOfKelementsInArraysOfNelements\obj\Debug\06.MaxSumOfKelementsInArraysOfNelements.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\06.MaxSumOfKelementsInArraysOfNelements\obj\Debug\06.MaxSumOfKelementsInArraysOfNelements.pdb

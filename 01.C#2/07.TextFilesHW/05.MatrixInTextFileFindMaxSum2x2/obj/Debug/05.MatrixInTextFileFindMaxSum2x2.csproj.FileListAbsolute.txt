@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\TextFilesHW\05.MatrixInTextFileFindMaxSum2x2\bin\Debug\05.MatrixInTextFileFindMaxSum2x2.exe.config
+E:\My Space\TelerikCourse\TextFilesHW\05.MatrixInTextFileFindMaxSum2x2\bin\Debug\05.MatrixInTextFileFindMaxSum2x2.exe
+E:\My Space\TelerikCourse\TextFilesHW\05.MatrixInTextFileFindMaxSum2x2\bin\Debug\05.MatrixInTextFileFindMaxSum2x2.pdb
+E:\My Space\TelerikCourse\TextFilesHW\05.MatrixInTextFileFindMaxSum2x2\obj\Debug\05.MatrixInTextFileFindMaxSum2x2.exe
+E:\My Space\TelerikCourse\TextFilesHW\05.MatrixInTextFileFindMaxSum2x2\obj\Debug\05.MatrixInTextFileFindMaxSum2x2.pdb
+E:\My Space\TelerikCourse\TextFilesHW\05.MatrixInTextFileFindMaxSum2x2\obj\Debug\05.MatrixInTextFileFindMaxSum2x2.csprojResolveAssemblyReference.cache

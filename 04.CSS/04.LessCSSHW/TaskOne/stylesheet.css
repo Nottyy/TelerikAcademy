@@ -1,0 +1,212 @@
+﻿* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font: 14px normal Arial;
+  width: 660px;
+  margin: 31px 11px;
+  background-image: url(linear.png);
+  background-repeat: repeat-x;
+}
+body div#wrapper {
+  width: 1170px;
+}
+body div#wrapper header {
+  margin-left: -5px;
+  margin-top: -9px;
+}
+body div#wrapper header div#header-container div#logo-container h1 a img {
+  width: 260px;
+}
+body div#wrapper header nav {
+  display: inline-block;
+  width: 78%;
+  margin: 20px;
+  padding: 9px;
+  padding-top: 11px;
+  padding-bottom: 8px;
+  border: #000 solid 1px;
+  border-radius: 12px;
+}
+body div#wrapper header nav ul#main-nav-list {
+  list-style-type: none;
+}
+body div#wrapper header nav ul#main-nav-list li {
+  position: relative;
+  float: left;
+  margin: 0;
+}
+body div#wrapper header nav ul#main-nav-list li ul.sub-nav-list {
+  list-style-type: none;
+  display: none;
+  position: absolute;
+  background-color: rgba(179, 94, 243, 0.9);
+  border-radius: 5px;
+}
+body div#wrapper header nav ul#main-nav-list li ul.sub-nav-list li {
+  float: none;
+  margin: 0 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid black;
+}
+body div#wrapper header nav ul#main-nav-list li ul.sub-nav-list li a {
+  text-align: center;
+}
+body div#wrapper header nav ul#main-nav-list li ul.sub-nav-list li:last-of-type {
+  border-bottom: none;
+}
+body div#wrapper header nav ul#main-nav-list li:hover > ul {
+  display: block;
+}
+body div#wrapper header nav ul#main-nav-list li a {
+  text-decoration: none;
+  padding: 0 9px;
+  color: white;
+  font: 1em normal Arial;
+}
+body div#wrapper header div#reg-form-container form {
+  float: right;
+  position: relative;
+  top: -70px;
+  right: 24px;
+}
+body div#wrapper header div#reg-form-container form div label {
+  color: white;
+  font-size: 11px;
+}
+body div#wrapper header div#reg-form-container form div input {
+  background: #b35ef3;
+  border: 1px solid black;
+  margin-top: 5px;
+  margin-left: 10px;
+  width: 105px;
+  border-radius: 10px;
+}
+body div#wrapper header div#reg-form-container form div input#tb-username {
+  margin-left: 6px;
+}
+body div#wrapper header div#reg-form-container form button {
+  border-top: 1px solid white;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  background: #b35ef3;
+  border-radius: 8px;
+  padding: 3px 11px;
+  color: white;
+  font-size: 11px;
+  margin-top: 6px;
+  margin-left: -5px;
+}
+body div#wrapper section {
+  width: 75%;
+  float: left;
+  color: black;
+}
+body div#wrapper section article {
+  margin: 15px 5px;
+  padding: 20px 15px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+body div#wrapper section article header {
+  background: none;
+  padding: 5px;
+}
+body div#wrapper section article header h1 {
+  font-size: 1em;
+  padding: 0;
+  color: white;
+}
+body div#wrapper section article p {
+  color: white;
+  font-size: 0.8em;
+}
+body div#wrapper section article footer {
+  padding: 5px;
+}
+body div#wrapper section article footer p {
+  font-size: 16px;
+  text-align: right;
+  font-weight: normal;
+  color: white;
+}
+body div#wrapper section article footer p time {
+  font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+}
+body div#wrapper section article footer p a {
+  text-decoration: none;
+  color: #cccccc;
+  font-weight: bold;
+}
+body div#wrapper section article footer p a:hover {
+  text-decoration: underline;
+}
+body div#wrapper aside {
+  float: left;
+  width: 20%;
+  margin: 15px 23px;
+}
+body div#wrapper aside > ul {
+  list-style-type: none;
+}
+body div#wrapper aside > ul > li {
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+body div#wrapper aside > ul > li h2 {
+  font-size: 0.8em;
+  font-weight: bold;
+  color: white;
+}
+body div#wrapper aside > ul > li p {
+  margin-top: 10px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  font-size: 0.7em;
+  color: white;
+}
+body div#wrapper aside > ul > li p a {
+  color: #aaaaaa;
+  text-decoration: none;
+}
+body div#wrapper aside > ul > li p strong {
+  color: #cccccc;
+  font-weight: bold;
+  font-style: normal;
+}
+body div#wrapper aside > ul > li p em {
+  color: #cccccc;
+  font-weight: normal;
+  font-style: italic;
+}
+body div#wrapper aside > ul > li ul {
+  list-style-type: none;
+  margin-top: 10px;
+  margin-right: 0;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+body div#wrapper aside > ul > li ul li {
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  background-image: url("../images/li-dot.png");
+  background-repeat: no-repeat;
+  background-position: 0 50%;
+  padding-left: 25px;
+}
+body div#wrapper footer {
+  clear: both;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  padding-right: 0px;
+  padding-left: 0px;
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=stylesheet.css.map */

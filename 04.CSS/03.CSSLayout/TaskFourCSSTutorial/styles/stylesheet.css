@@ -1,0 +1,170 @@
+﻿body, nav, div, article, p, img, form, section {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #F1F1F1;
+    font: 12px/1.2 Verdana, sans-serif;
+}
+
+h2 {
+    padding: 3px;
+    background: #808080;
+    color: #fff;
+    font-size: 100%;
+}
+
+a {
+    color: #c30000;
+}
+
+.img {
+    width: 20px;
+    height: 20px;
+    top: 14px;
+    position: absolute;
+}
+
+.left-nav {
+    width: 11%;
+    float: left;
+    position: relative;
+}
+
+nav.left-nav p {
+    margin: 10px 0;
+}
+
+    nav.left-nav p a:first-child {
+        color: #c30000;
+        font-weight: bold;
+    }
+
+    nav.left-nav p a {
+        display: block;
+        text-decoration: none;
+        color: black;
+    }
+
+nav.left-nav h3 {
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.content {
+    float: left;
+    border: 1px solid #ada8a8;
+    border-top: 2px solid #ada8a8;
+    padding: 3px;
+    background: white;
+    width: 600px;
+    height: 590px;
+}
+
+div.content h1 {
+    font-size: 15px;
+}
+
+.headingCSSTutorial {
+    border-bottom: 2px solid #ada8a8;
+}
+
+    .headingCSSTutorial ul li a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .headingCSSTutorial ul li {
+        display: inline-block;
+        border: 1px solid black;
+        width: 100px;
+        position: relative;
+        left: -40px;
+        top: 8px;
+        text-align: center;
+        padding: 2px 0;
+    }
+
+.pull-left {
+    float: left;
+}
+
+.setHeight {
+    height: 130px;
+}
+
+div.content > section p {
+    margin: 15px 0;
+}
+
+    div.content > section p a:last-child {
+        color: #c30000;
+    }
+
+.setBorderTop {
+    border-top: 2px solid #ada8a8;
+}
+
+    .setBorderTop ul {
+        margin-top: -4px;
+    }
+
+aside {
+    width: 180px;
+    float: left;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 1px;
+}
+
+    aside h4 {
+        margin-top: -2px;
+        margin-bottom: 0px;
+        background: #808080;
+        color: #fff;
+        padding-bottom: -2px;
+    }
+
+    aside div {
+        padding-top: -14px;
+        padding-bottom: 5px;
+        border: 1px solid #808080;
+        margin-bottom: 2px;
+        background: #fff;
+    }
+
+input[type="text"] {
+    width: 110px;
+    height: 15px;
+    background: transparent;
+    border: 1px solid #75a2c2;
+    margin: 8px 0 5px 10px;
+}
+
+form button {
+    width: 22px;
+    margin: 8px 0 0px 0px;
+    background: transparent;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+aside button[type="button"] {
+    border: 1px solid #75a2c2;
+    width: 120px;
+    height: 25px;
+    margin: 2px 0 5px 0px;
+    background: #d5f0fe;
+    color: #64d4fd;
+    font-weight: bold;
+}
+
+aside p {
+    text-align: center;
+    padding: 3px;
+    border: 2px solid #ada8a8;
+    margin-bottom: 1px;
+    background: #fff;
+}

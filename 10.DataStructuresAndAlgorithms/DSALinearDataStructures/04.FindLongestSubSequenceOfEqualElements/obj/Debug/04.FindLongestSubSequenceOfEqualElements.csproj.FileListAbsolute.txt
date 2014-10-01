@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\04.FindLongestSubSequenceOfEqualElements\bin\Debug\04.FindLongestSubSequenceOfEqualElements.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\04.FindLongestSubSequenceOfEqualElements\obj\Debug\04.FindLongestSubSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\04.FindLongestSubSequenceOfEqualElements\bin\Debug\04.FindLongestSubSequenceOfEqualElements.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\04.FindLongestSubSequenceOfEqualElements\bin\Debug\04.FindLongestSubSequenceOfEqualElements.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\04.FindLongestSubSequenceOfEqualElements\obj\Debug\04.FindLongestSubSequenceOfEqualElements.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\04.FindLongestSubSequenceOfEqualElements\obj\Debug\04.FindLongestSubSequenceOfEqualElements.pdb

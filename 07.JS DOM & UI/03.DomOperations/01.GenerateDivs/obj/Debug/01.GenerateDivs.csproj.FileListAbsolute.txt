@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\01.GenerateDivs\bin\01.GenerateDivs.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\01.GenerateDivs\bin\01.GenerateDivs.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\01.GenerateDivs\bin\01.GenerateDivs.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\01.GenerateDivs\obj\Debug\01.GenerateDivs.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\01.GenerateDivs\obj\Debug\01.GenerateDivs.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\01.GenerateDivs\obj\Debug\01.GenerateDivs.pdb

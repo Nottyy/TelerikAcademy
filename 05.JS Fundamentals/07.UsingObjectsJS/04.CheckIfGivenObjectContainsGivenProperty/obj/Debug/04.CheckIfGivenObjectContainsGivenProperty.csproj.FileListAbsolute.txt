@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\04.CheckIfGivenObjectContainsGivenProperty\bin\04.CheckIfGivenObjectContainsGivenProperty.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\04.CheckIfGivenObjectContainsGivenProperty\bin\04.CheckIfGivenObjectContainsGivenProperty.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\04.CheckIfGivenObjectContainsGivenProperty\bin\04.CheckIfGivenObjectContainsGivenProperty.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\04.CheckIfGivenObjectContainsGivenProperty\obj\Debug\04.CheckIfGivenObjectContainsGivenProperty.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\04.CheckIfGivenObjectContainsGivenProperty\obj\Debug\04.CheckIfGivenObjectContainsGivenProperty.pdb

@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\01.SelectAllTheDivsInOtherDivs\bin\01.SelectAllTheDivsInOtherDivs.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\01.SelectAllTheDivsInOtherDivs\bin\01.SelectAllTheDivsInOtherDivs.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\01.SelectAllTheDivsInOtherDivs\bin\01.SelectAllTheDivsInOtherDivs.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\01.SelectAllTheDivsInOtherDivs\obj\Debug\01.SelectAllTheDivsInOtherDivs.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\01.SelectAllTheDivsInOtherDivs\obj\Debug\01.SelectAllTheDivsInOtherDivs.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DOM\01.SelectAllTheDivsInOtherDivs\obj\Debug\01.SelectAllTheDivsInOtherDivs.pdb

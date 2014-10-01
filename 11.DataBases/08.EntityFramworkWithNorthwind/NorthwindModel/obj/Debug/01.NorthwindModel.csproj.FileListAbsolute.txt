@@ -1,0 +1,3 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\bin\Debug\NorthwindModel.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\obj\Debug\NorthwindModel.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\NorthwindModel\obj\Debug\NorthwindModel.pdb

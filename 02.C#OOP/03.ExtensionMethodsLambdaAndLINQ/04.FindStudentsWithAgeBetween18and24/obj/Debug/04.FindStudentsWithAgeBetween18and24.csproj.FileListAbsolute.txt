@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\04.FindStudentsWithAgeBetween18and24\bin\Debug\04.FindStudentsWithAgeBetween18and24.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\04.FindStudentsWithAgeBetween18and24\bin\Debug\04.FindStudentsWithAgeBetween18and24.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\04.FindStudentsWithAgeBetween18and24\bin\Debug\04.FindStudentsWithAgeBetween18and24.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\04.FindStudentsWithAgeBetween18and24\obj\Debug\04.FindStudentsWithAgeBetween18and24.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\04.FindStudentsWithAgeBetween18and24\obj\Debug\04.FindStudentsWithAgeBetween18and24.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\04.FindStudentsWithAgeBetween18and24\obj\Debug\04.FindStudentsWithAgeBetween18and24.csprojResolveAssemblyReference.cache

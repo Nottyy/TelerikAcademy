@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\20.Palindromes\bin\Debug\20.Palindromes.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\20.Palindromes\bin\Debug\20.Palindromes.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\20.Palindromes\obj\Debug\20.Palindromes.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\20.Palindromes\obj\Debug\20.Palindromes.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\20.Palindromes\obj\Debug\20.Palindromes.pdb

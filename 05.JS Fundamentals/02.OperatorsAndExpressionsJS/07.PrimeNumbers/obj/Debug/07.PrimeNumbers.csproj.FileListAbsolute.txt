@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\07.PrimeNumbers\bin\07.PrimeNumbers.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\07.PrimeNumbers\bin\07.PrimeNumbers.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\07.PrimeNumbers\bin\07.PrimeNumbers.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\07.PrimeNumbers\obj\Debug\07.PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\07.PrimeNumbers\obj\Debug\07.PrimeNumbers.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\07.PrimeNumbers\obj\Debug\07.PrimeNumbers.pdb

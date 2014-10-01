@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\02.SpecialValue\bin\Debug\02.SpecialValue.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\02.SpecialValue\bin\Debug\02.SpecialValue.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.SpecialValue\bin\Debug\02.SpecialValue.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\02.SpecialValue\obj\Debug\02.SpecialValue.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\02.SpecialValue\obj\Debug\02.SpecialValue.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\02.SpecialValue\obj\Debug\02.SpecialValue.pdb

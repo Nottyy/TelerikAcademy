@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\01.KaspichanNumbers\bin\Debug\01.KaspichanNumbers.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\01.KaspichanNumbers\bin\Debug\01.KaspichanNumbers.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\01.KaspichanNumbers\bin\Debug\01.KaspichanNumbers.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\01.KaspichanNumbers\obj\Debug\01.KaspichanNumbers.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\01.KaspichanNumbers\obj\Debug\01.KaspichanNumbers.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\01.KaspichanNumbers\obj\Debug\01.KaspichanNumbers.pdb

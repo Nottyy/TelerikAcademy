@@ -1,0 +1,6 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\12.CreateUL\bin\12.CreateUL.dll.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\12.CreateUL\bin\12.CreateUL.dll
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\12.CreateUL\bin\12.CreateUL.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\12.CreateUL\obj\Debug\12.CreateUL.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\12.CreateUL\obj\Debug\12.CreateUL.dll
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\12.CreateUL\obj\Debug\12.CreateUL.pdb

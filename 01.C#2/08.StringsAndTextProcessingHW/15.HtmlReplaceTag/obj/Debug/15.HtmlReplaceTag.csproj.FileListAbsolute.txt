@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\15.HtmlReplaceTag\bin\Debug\15.HtmlReplaceTag.exe.config
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\15.HtmlReplaceTag\obj\Debug\15.HtmlReplaceTag.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\15.HtmlReplaceTag\bin\Debug\15.HtmlReplaceTag.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\15.HtmlReplaceTag\bin\Debug\15.HtmlReplaceTag.pdb
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\15.HtmlReplaceTag\obj\Debug\15.HtmlReplaceTag.exe
+E:\My Space\TelerikCourse\StringsAndTextProcessingHW\15.HtmlReplaceTag\obj\Debug\15.HtmlReplaceTag.pdb

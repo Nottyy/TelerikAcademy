@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\12.StackImplementation\bin\Debug\12.StackImplementation.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\12.StackImplementation\bin\Debug\12.StackImplementation.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\12.StackImplementation\bin\Debug\12.StackImplementation.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\12.StackImplementation\obj\Debug\12.StackImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\12.StackImplementation\obj\Debug\12.StackImplementation.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\12.StackImplementation\obj\Debug\12.StackImplementation.pdb

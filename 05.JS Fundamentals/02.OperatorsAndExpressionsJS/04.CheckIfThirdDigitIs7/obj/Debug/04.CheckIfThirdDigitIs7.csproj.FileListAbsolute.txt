@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\04.CheckIfThirdDigitIs7\bin\04.CheckIfThirdDigitIs7.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\04.CheckIfThirdDigitIs7\bin\04.CheckIfThirdDigitIs7.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\04.CheckIfThirdDigitIs7\bin\04.CheckIfThirdDigitIs7.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\04.CheckIfThirdDigitIs7\obj\Debug\04.CheckIfThirdDigitIs7.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\04.CheckIfThirdDigitIs7\obj\Debug\04.CheckIfThirdDigitIs7.pdb

@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\10.FindAllAreasOfPassableCellsInAMatrix\bin\Debug\10.FindAllAreasOfPassableCellsInAMatrix.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\10.FindAllAreasOfPassableCellsInAMatrix\bin\Debug\10.FindAllAreasOfPassableCellsInAMatrix.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\10.FindAllAreasOfPassableCellsInAMatrix\bin\Debug\10.FindAllAreasOfPassableCellsInAMatrix.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\10.FindAllAreasOfPassableCellsInAMatrix\obj\Debug\10.FindAllAreasOfPassableCellsInAMatrix.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\10.FindAllAreasOfPassableCellsInAMatrix\obj\Debug\10.FindAllAreasOfPassableCellsInAMatrix.pdb

@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\03.RefactorForLoop\bin\Debug\03.RefactorForLoop.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\03.RefactorForLoop\bin\Debug\03.RefactorForLoop.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\03.RefactorForLoop\bin\Debug\03.RefactorForLoop.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\03.RefactorForLoop\obj\Debug\03.RefactorForLoop.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\03.RefactorForLoop\obj\Debug\03.RefactorForLoop.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\03.RefactorForLoop\obj\Debug\03.RefactorForLoop.csprojResolveAssemblyReference.cache

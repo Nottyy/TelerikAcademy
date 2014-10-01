@@ -1,0 +1,8 @@
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\06.StringSplitCalculation\bin\Debug\06.StringSplitCalculation.exe.config
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\06.StringSplitCalculation\bin\Debug\06.StringSplitCalculation.exe
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\06.StringSplitCalculation\bin\Debug\06.StringSplitCalculation.pdb
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\06.StringSplitCalculation\obj\Debug\06.StringSplitCalculation.exe
+E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\06.StringSplitCalculation\obj\Debug\06.StringSplitCalculation.pdb
+E:\My Space\TelerikCourse\Homeworks\05.UsingClassesAndObjectsHW\06.StringSplitCalculation\bin\Debug\06.StringSplitCalculation.exe.config
+E:\My Space\TelerikCourse\Homeworks\05.UsingClassesAndObjectsHW\06.StringSplitCalculation\obj\Debug\06.StringSplitCalculation.exe
+E:\My Space\TelerikCourse\Homeworks\05.UsingClassesAndObjectsHW\06.StringSplitCalculation\obj\Debug\06.StringSplitCalculation.pdb

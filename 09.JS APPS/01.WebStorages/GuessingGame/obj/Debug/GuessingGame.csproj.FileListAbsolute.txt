@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\bin\GuessingGame.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\bin\GuessingGame.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\bin\GuessingGame.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\obj\Debug\GuessingGame.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\obj\Debug\GuessingGame.pdb

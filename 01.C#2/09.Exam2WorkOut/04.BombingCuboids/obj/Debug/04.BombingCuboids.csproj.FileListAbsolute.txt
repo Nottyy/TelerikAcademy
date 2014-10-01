@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Exam2WorkOut\04.BombingCuboids\bin\Debug\04.BombingCuboids.exe.config
+E:\My Space\TelerikCourse\Exam2WorkOut\04.BombingCuboids\bin\Debug\04.BombingCuboids.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\04.BombingCuboids\bin\Debug\04.BombingCuboids.pdb
+E:\My Space\TelerikCourse\Exam2WorkOut\04.BombingCuboids\obj\Debug\04.BombingCuboids.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Exam2WorkOut\04.BombingCuboids\obj\Debug\04.BombingCuboids.exe
+E:\My Space\TelerikCourse\Exam2WorkOut\04.BombingCuboids\obj\Debug\04.BombingCuboids.pdb

@@ -1,0 +1,12 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FourthExerciseCalculator\bin\FourthExerciseCalculator.dll.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FourthExerciseCalculator\bin\FourthExerciseCalculator.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FourthExerciseCalculator\bin\FourthExerciseCalculator.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FourthExerciseCalculator\obj\Debug\04.FourthExerciseCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FourthExerciseCalculator\obj\Debug\FourthExerciseCalculator.dll
+C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\FourthExerciseCalculator\obj\Debug\FourthExerciseCalculator.pdb
+E:\My Space\TelerikCourse\Homeworks\CSS\02.CSSPresentation\FourthExerciseCalculator\bin\FourthExerciseCalculator.dll.config
+E:\My Space\TelerikCourse\Homeworks\CSS\02.CSSPresentation\FourthExerciseCalculator\bin\FourthExerciseCalculator.dll
+E:\My Space\TelerikCourse\Homeworks\CSS\02.CSSPresentation\FourthExerciseCalculator\bin\FourthExerciseCalculator.pdb
+E:\My Space\TelerikCourse\Homeworks\CSS\02.CSSPresentation\FourthExerciseCalculator\obj\Debug\04.FourthExerciseCalculator.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Homeworks\CSS\02.CSSPresentation\FourthExerciseCalculator\obj\Debug\FourthExerciseCalculator.dll
+E:\My Space\TelerikCourse\Homeworks\CSS\02.CSSPresentation\FourthExerciseCalculator\obj\Debug\FourthExerciseCalculator.pdb

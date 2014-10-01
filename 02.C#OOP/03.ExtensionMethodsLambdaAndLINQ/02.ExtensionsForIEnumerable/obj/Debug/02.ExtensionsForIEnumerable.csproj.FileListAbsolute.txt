@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\02.ExtensionsForIEnumerable\bin\Debug\02.ExtensionsForIEnumerable.exe.config
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\02.ExtensionsForIEnumerable\bin\Debug\02.ExtensionsForIEnumerable.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\02.ExtensionsForIEnumerable\bin\Debug\02.ExtensionsForIEnumerable.pdb
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\02.ExtensionsForIEnumerable\obj\Debug\02.ExtensionsForIEnumerable.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\02.ExtensionsForIEnumerable\obj\Debug\02.ExtensionsForIEnumerable.exe
+E:\My Space\TelerikCourse\ExtensionMethodsLambdaAndLINQ\02.ExtensionsForIEnumerable\obj\Debug\02.ExtensionsForIEnumerable.pdb

@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\CanvasHW\01.DrawGraphicsBikeHouseMan'sFace\bin\01.DrawGraphicsBikeHouseMan'sFace.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\CanvasHW\01.DrawGraphicsBikeHouseMan'sFace\bin\01.DrawGraphicsBikeHouseMan'sFace.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\CanvasHW\01.DrawGraphicsBikeHouseMan'sFace\bin\01.DrawGraphicsBikeHouseMan'sFace.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\CanvasHW\01.DrawGraphicsBikeHouseMan'sFace\obj\Debug\01.DrawGraphicsBikeHouseMan'sFace.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\CanvasHW\01.DrawGraphicsBikeHouseMan'sFace\obj\Debug\01.DrawGraphicsBikeHouseMan'sFace.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\CanvasHW\01.DrawGraphicsBikeHouseMan'sFace\obj\Debug\01.DrawGraphicsBikeHouseMan'sFace.pdb

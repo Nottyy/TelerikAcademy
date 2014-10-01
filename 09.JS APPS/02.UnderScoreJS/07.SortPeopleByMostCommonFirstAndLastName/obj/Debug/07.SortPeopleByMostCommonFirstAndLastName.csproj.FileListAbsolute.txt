@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\07.SortPeopleByMostCommonFirstAndLastName\bin\07.SortPeopleByMostCommonFirstAndLastName.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\07.SortPeopleByMostCommonFirstAndLastName\bin\07.SortPeopleByMostCommonFirstAndLastName.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\07.SortPeopleByMostCommonFirstAndLastName\bin\07.SortPeopleByMostCommonFirstAndLastName.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\07.SortPeopleByMostCommonFirstAndLastName\obj\Debug\07.SortPeopleByMostCommonFirstAndLastName.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\07.SortPeopleByMostCommonFirstAndLastName\obj\Debug\07.SortPeopleByMostCommonFirstAndLastName.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\07.SortPeopleByMostCommonFirstAndLastName\obj\Debug\07.SortPeopleByMostCommonFirstAndLastName.pdb

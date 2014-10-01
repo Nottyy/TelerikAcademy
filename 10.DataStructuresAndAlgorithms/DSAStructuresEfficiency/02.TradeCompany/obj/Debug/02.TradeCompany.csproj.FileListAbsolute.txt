@@ -1,0 +1,8 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\bin\Debug\02.TradeCompany.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\bin\Debug\02.TradeCompany.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\bin\Debug\02.TradeCompany.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\bin\Debug\PowerCollections.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\bin\Debug\PowerCollections.xml
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\obj\Debug\02.TradeCompany.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\obj\Debug\02.TradeCompany.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\02.TradeCompany\obj\Debug\02.TradeCompany.pdb

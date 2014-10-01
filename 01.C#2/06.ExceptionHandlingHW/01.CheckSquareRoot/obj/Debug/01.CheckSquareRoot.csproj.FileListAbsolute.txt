@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\ExceptionHandlingHW\01.CheckSquareRoot\bin\Debug\01.CheckSquareRoot.exe.config
+E:\My Space\TelerikCourse\ExceptionHandlingHW\01.CheckSquareRoot\obj\Debug\01.CheckSquareRoot.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\ExceptionHandlingHW\01.CheckSquareRoot\bin\Debug\01.CheckSquareRoot.exe
+E:\My Space\TelerikCourse\ExceptionHandlingHW\01.CheckSquareRoot\bin\Debug\01.CheckSquareRoot.pdb
+E:\My Space\TelerikCourse\ExceptionHandlingHW\01.CheckSquareRoot\obj\Debug\01.CheckSquareRoot.exe
+E:\My Space\TelerikCourse\ExceptionHandlingHW\01.CheckSquareRoot\obj\Debug\01.CheckSquareRoot.pdb

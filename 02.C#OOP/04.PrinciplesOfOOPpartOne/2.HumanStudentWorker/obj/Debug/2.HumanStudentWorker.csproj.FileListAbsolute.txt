@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\2.HumanStudentWorker\bin\Debug\2.HumanStudentWorker.exe.config
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\2.HumanStudentWorker\bin\Debug\2.HumanStudentWorker.exe
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\2.HumanStudentWorker\bin\Debug\2.HumanStudentWorker.pdb
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\2.HumanStudentWorker\obj\Debug\2.HumanStudentWorker.exe
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\2.HumanStudentWorker\obj\Debug\2.HumanStudentWorker.pdb
+E:\My Space\TelerikCourse\PrinciplesOfOOPpartOne\2.HumanStudentWorker\obj\Debug\2.HumanStudentWorker.csprojResolveAssemblyReference.cache

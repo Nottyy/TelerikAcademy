@@ -1,0 +1,4 @@
+gopish: 19
+pafish: 19
+elenish: 1
+senish : 0

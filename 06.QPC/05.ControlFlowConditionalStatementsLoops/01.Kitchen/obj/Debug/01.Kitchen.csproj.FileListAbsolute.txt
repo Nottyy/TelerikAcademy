@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\01.Kitchen\bin\Debug\01.Kitchen.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\01.Kitchen\bin\Debug\01.Kitchen.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\01.Kitchen\bin\Debug\01.Kitchen.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\01.Kitchen\obj\Debug\01.Kitchen.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\01.Kitchen\obj\Debug\01.Kitchen.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\01.Kitchen\obj\Debug\01.Kitchen.pdb

@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\06.GenerateAllSubsetsInGivenSetOfStrings\bin\Debug\06.GenerateAllSubsetsInGivenSetOfStrings.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\06.GenerateAllSubsetsInGivenSetOfStrings\bin\Debug\06.GenerateAllSubsetsInGivenSetOfStrings.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\06.GenerateAllSubsetsInGivenSetOfStrings\bin\Debug\06.GenerateAllSubsetsInGivenSetOfStrings.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\06.GenerateAllSubsetsInGivenSetOfStrings\obj\Debug\06.GenerateAllSubsetsInGivenSetOfStrings.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\06.GenerateAllSubsetsInGivenSetOfStrings\obj\Debug\06.GenerateAllSubsetsInGivenSetOfStrings.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\06.GenerateAllSubsetsInGivenSetOfStrings\obj\Debug\06.GenerateAllSubsetsInGivenSetOfStrings.pdb

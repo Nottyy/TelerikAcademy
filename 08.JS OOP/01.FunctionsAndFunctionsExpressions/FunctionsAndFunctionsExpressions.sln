@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DOMModule", "01.DOMModule\01.DOMModule.csproj", "{708CB4B2-4957-470A-9855-1C26CD28FC0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MovingShapes", "02.MovingShapes\02.MovingShapes.csproj", "{2A36B53B-12DC-4717-83B0-65DE043475FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ConsoleObject", "03.ConsoleObject\03.ConsoleObject.csproj", "{6062EEEB-A475-4380-8C7C-9A329AD22F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708CB4B2-4957-470A-9855-1C26CD28FC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708CB4B2-4957-470A-9855-1C26CD28FC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708CB4B2-4957-470A-9855-1C26CD28FC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708CB4B2-4957-470A-9855-1C26CD28FC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A36B53B-12DC-4717-83B0-65DE043475FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A36B53B-12DC-4717-83B0-65DE043475FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A36B53B-12DC-4717-83B0-65DE043475FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A36B53B-12DC-4717-83B0-65DE043475FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6062EEEB-A475-4380-8C7C-9A329AD22F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6062EEEB-A475-4380-8C7C-9A329AD22F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6062EEEB-A475-4380-8C7C-9A329AD22F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6062EEEB-A475-4380-8C7C-9A329AD22F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

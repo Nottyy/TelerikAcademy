@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\CommonTypeSystems\5.BitArray64\bin\Debug\5.BitArray64.exe.config
+E:\My Space\TelerikCourse\CommonTypeSystems\5.BitArray64\obj\Debug\5.BitArray64.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\CommonTypeSystems\5.BitArray64\bin\Debug\5.BitArray64.exe
+E:\My Space\TelerikCourse\CommonTypeSystems\5.BitArray64\bin\Debug\5.BitArray64.pdb
+E:\My Space\TelerikCourse\CommonTypeSystems\5.BitArray64\obj\Debug\5.BitArray64.exe
+E:\My Space\TelerikCourse\CommonTypeSystems\5.BitArray64\obj\Debug\5.BitArray64.pdb

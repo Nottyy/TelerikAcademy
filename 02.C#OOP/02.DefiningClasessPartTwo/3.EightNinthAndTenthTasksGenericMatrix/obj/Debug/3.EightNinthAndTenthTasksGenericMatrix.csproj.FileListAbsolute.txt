@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\3.EightNinthAndTenthTasksGenericMatrix\obj\Debug\3.EightNinthAndTenthTasksGenericMatrix.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\3.EightNinthAndTenthTasksGenericMatrix\bin\Debug\3.EightNinthAndTenthTasksGenericMatrix.exe.config
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\3.EightNinthAndTenthTasksGenericMatrix\bin\Debug\3.EightNinthAndTenthTasksGenericMatrix.exe
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\3.EightNinthAndTenthTasksGenericMatrix\bin\Debug\3.EightNinthAndTenthTasksGenericMatrix.pdb
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\3.EightNinthAndTenthTasksGenericMatrix\obj\Debug\3.EightNinthAndTenthTasksGenericMatrix.exe
+E:\My Space\TelerikCourse\DefiningClasessPartTwo\3.EightNinthAndTenthTasksGenericMatrix\obj\Debug\3.EightNinthAndTenthTasksGenericMatrix.pdb

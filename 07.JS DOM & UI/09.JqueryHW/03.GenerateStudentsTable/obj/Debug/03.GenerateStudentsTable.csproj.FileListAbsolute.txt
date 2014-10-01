@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\03.GenerateStudentsTable\bin\03.GenerateStudentsTable.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\03.GenerateStudentsTable\bin\03.GenerateStudentsTable.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\03.GenerateStudentsTable\bin\03.GenerateStudentsTable.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\03.GenerateStudentsTable\obj\Debug\03.GenerateStudentsTable.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\03.GenerateStudentsTable\obj\Debug\03.GenerateStudentsTable.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\03.GenerateStudentsTable\obj\Debug\03.GenerateStudentsTable.pdb

@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\NumeralSystemsHW\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
+E:\My Space\TelerikCourse\NumeralSystemsHW\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\NumeralSystemsHW\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
+E:\My Space\TelerikCourse\NumeralSystemsHW\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
+E:\My Space\TelerikCourse\NumeralSystemsHW\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb

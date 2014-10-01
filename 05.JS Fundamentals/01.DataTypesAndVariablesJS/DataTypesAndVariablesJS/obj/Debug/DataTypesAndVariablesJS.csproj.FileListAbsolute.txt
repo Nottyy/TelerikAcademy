@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DataTypesAndVariablesJS\DataTypesAndVariablesJS\bin\DataTypesAndVariablesJS.dll.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DataTypesAndVariablesJS\DataTypesAndVariablesJS\bin\DataTypesAndVariablesJS.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DataTypesAndVariablesJS\DataTypesAndVariablesJS\bin\DataTypesAndVariablesJS.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DataTypesAndVariablesJS\DataTypesAndVariablesJS\obj\Debug\DataTypesAndVariablesJS.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\DataTypesAndVariablesJS\DataTypesAndVariablesJS\obj\Debug\DataTypesAndVariablesJS.dll
+c:\users\toshiba\documents\visual studio 2013\Projects\DataTypesAndVariablesJS\DataTypesAndVariablesJS\obj\Debug\DataTypesAndVariablesJS.pdb

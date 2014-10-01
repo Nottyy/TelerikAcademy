@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\02.GenerateKElementCombinationsToN\bin\Debug\02.GenerateKElementCombinationsToN.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\02.GenerateKElementCombinationsToN\bin\Debug\02.GenerateKElementCombinationsToN.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\02.GenerateKElementCombinationsToN\bin\Debug\02.GenerateKElementCombinationsToN.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\02.GenerateKElementCombinationsToN\obj\Debug\02.GenerateKElementCombinationsToN.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\02.GenerateKElementCombinationsToN\obj\Debug\02.GenerateKElementCombinationsToN.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\02.GenerateKElementCombinationsToN\obj\Debug\02.GenerateKElementCombinationsToN.csprojResolveAssemblyReference.cache

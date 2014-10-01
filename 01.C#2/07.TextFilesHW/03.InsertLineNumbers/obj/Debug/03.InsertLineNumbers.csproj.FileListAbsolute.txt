@@ -1,0 +1,5 @@
+E:\My Space\TelerikCourse\TextFilesHW\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
+E:\My Space\TelerikCourse\TextFilesHW\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+E:\My Space\TelerikCourse\TextFilesHW\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+E:\My Space\TelerikCourse\TextFilesHW\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
+E:\My Space\TelerikCourse\TextFilesHW\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb
