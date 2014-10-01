@@ -15,7 +15,7 @@ namespace JustMinesweeper
     /// </summary>
     public class Game
     {
-        private const int BoardRows = 5;
+        private const int BoardRowss = 5;
         private const int BoardColumns = 10;
         private const int Mines = 15;
         private const int MaxScore = 35;
@@ -293,8 +293,8 @@ namespace JustMinesweeper
         /// </summary>
         private static void Main()
         {
-            char[,] board = CreateBoard(BoardRows, BoardColumns);
-            char[,] mineField = CreateMineField(BoardRows, BoardColumns, Mines);
+            char[,] board = CreateBoard(BoardRowss, BoardColumns);
+            char[,] mineField = CreateMineField(BoardRowss, BoardColumns, Mines);
 
             int row = 0;
             int col = 0;
@@ -340,8 +340,8 @@ namespace JustMinesweeper
                         }
                     case "restart":
                         {
-                            board = CreateBoard(BoardRows, BoardColumns);
-                            mineField = CreateMineField(BoardRows, BoardColumns, Mines);
+                            board = CreateBoard(BoardRowss, BoardColumns);
+                            mineField = CreateMineField(BoardRowss, BoardColumns, Mines);
                             PrintBoard(board);
                             explosion = false;
                             break;
@@ -415,8 +415,8 @@ namespace JustMinesweeper
                     topResults.Sort((Result r1, Result r2) => r2.Score.CompareTo(r1.Score));
                     PrintTopResults(topResults);
 
-                    board = CreateBoard(BoardRows, BoardColumns);
-                    mineField = CreateMineField(BoardRows, BoardColumns, Mines);
+                    board = CreateBoard(BoardRowss, BoardColumns);
+                    mineField = CreateMineField(BoardRowss, BoardColumns, Mines);
                     score = 0;
                     starting = true;
                     explosion = false;
@@ -433,8 +433,8 @@ namespace JustMinesweeper
                     topResults.Add(result);
                     PrintTopResults(topResults);
 
-                    board = CreateBoard(BoardRows, BoardColumns);
-                    mineField = CreateMineField(BoardRows, BoardColumns, Mines);
+                    board = CreateBoard(BoardRowss, BoardColumns);
+                    mineField = CreateMineField(BoardRowss, BoardColumns, Mines);
                     score = 0;
                     starting = true;
                     hasReachedMaxScore = false;

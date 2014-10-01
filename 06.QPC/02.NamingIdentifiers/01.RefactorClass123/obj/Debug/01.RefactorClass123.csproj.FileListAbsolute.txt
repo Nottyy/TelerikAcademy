@@ -4,3 +4,6 @@ c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\01.Refa
 c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\01.RefactorClass123\obj\Debug\01.RefactorClass123.csprojResolveAssemblyReference.cache
 c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\01.RefactorClass123\obj\Debug\01.RefactorClass123.exe
 c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\01.RefactorClass123\obj\Debug\01.RefactorClass123.pdb
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\06.QPC\02.NamingIdentifiers\01.RefactorClass123\bin\Debug\01.RefactorClass123.exe.config
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\06.QPC\02.NamingIdentifiers\01.RefactorClass123\obj\Debug\01.RefactorClass123.exe
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\06.QPC\02.NamingIdentifiers\01.RefactorClass123\obj\Debug\01.RefactorClass123.pdb
