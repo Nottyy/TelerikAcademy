@@ -1,0 +1,36 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.imageviewswithpopups.MainActivity" >
+
+    <ImageButton
+        android:id="@+id/iclauncher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/launcher"
+        android:src="@drawable/ic_launcher"
+        android:tag="launcher" />
+
+    <ImageButton
+        android:id="@+id/bird"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/bird"
+        android:src="@drawable/bird"
+        android:tag="bird" />
+
+    <ImageButton
+        android:id="@+id/rabbit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/rabbit"
+        android:src="@drawable/rabbit"
+        android:tag="rabbit" />
+
+</LinearLayout>
