@@ -64,6 +64,7 @@ $(document).ready(function () {
                 return a[1] - b[1];
             });
         }
+        debugger;
 
         for (var i = 0; i < 5; i++) {
             playerResult = sortable[i][0] + ': ' + sortable[i][1] + ((sortable[i][1] == 1) ? ' shot' : ' shots');

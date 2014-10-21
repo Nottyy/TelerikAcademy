@@ -4,3 +4,9 @@ c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\
 c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
 c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\obj\Debug\GuessingGame.dll
 c:\users\toshiba\documents\visual studio 2013\Projects\WebStorages\GuessingGame\obj\Debug\GuessingGame.pdb
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\09.JS APPS\01.WebStorages\GuessingGame\bin\GuessingGame.dll.config
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\09.JS APPS\01.WebStorages\GuessingGame\bin\GuessingGame.dll
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\09.JS APPS\01.WebStorages\GuessingGame\bin\GuessingGame.pdb
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\09.JS APPS\01.WebStorages\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\09.JS APPS\01.WebStorages\GuessingGame\obj\Debug\GuessingGame.dll
+E:\My Space\TelerikCourse\GitHubProjects\TelerikAcademy\09.JS APPS\01.WebStorages\GuessingGame\obj\Debug\GuessingGame.pdb

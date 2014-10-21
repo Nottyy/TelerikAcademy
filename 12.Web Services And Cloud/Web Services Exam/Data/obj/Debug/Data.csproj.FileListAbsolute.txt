@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Data.dll.config
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Data.dll
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Data.pdb
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Models.dll
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Models.pdb
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Toshiba\Desktop\s\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Toshiba\Desktop\s\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\s\Data\obj\Debug\Data.dll
+C:\Users\Toshiba\Desktop\s\Data\obj\Debug\Data.pdb
