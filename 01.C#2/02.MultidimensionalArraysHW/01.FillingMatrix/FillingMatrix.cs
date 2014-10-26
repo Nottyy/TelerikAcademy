@@ -128,7 +128,6 @@ class FillingMatrix
         {
             //right
             r = offset;
-
             for (c = offset; c < n - offset; c++)
             {
                 matrix[r, c] = digit;
@@ -137,7 +136,6 @@ class FillingMatrix
 
             //down
             c = n - offset - 1;
-
             for (r = 1 + offset; r < n-offset; r++)
             {
                 matrix[r, c] = digit;
@@ -146,7 +144,6 @@ class FillingMatrix
 
             //left
             r = n - 1 - offset;
-
             for (c = n - 2 - offset; c >= offset; c--)
             {
                 matrix[r, c] = digit;
@@ -154,7 +151,6 @@ class FillingMatrix
             }
             //up
             c = offset;
-
             for (r = n - 2 - offset; r >=offset + 1; r--)
             {
                 matrix[r, c] = digit;
