@@ -120,49 +120,52 @@ class FillingMatrix
         Console.WriteLine();
         // D)--------------------------------------------------------------------------------
 
-        int Row = 0;
-        int Col = 0;
+        r = 0;
+        c = 0;
         int offset = 0;
         digit = 1;
         while (digit < n*n)
         {
-            //down
-            for (Row = offset; Row < n-offset; Row++)
+            //right
+            r = offset;
+            for (c = offset; c < n - offset; c++)
             {
-                Col = offset;
-                matrix[Row, Col] = digit;
+                matrix[r, c] = digit;
                 digit++;
             }
-            //right
-            for (Col = 1 + offset; Col < n - offset; Col++)
+
+            //down
+            c = n - offset - 1;
+            for (r = 1 + offset; r < n-offset; r++)
             {
-                Row = n - 1 - offset;
-                matrix[Row, Col] = digit;
+                matrix[r, c] = digit;
+                digit++;
+            }
+
+            //left
+            r = n - 1 - offset;
+            for (c = n - 2 - offset; c >= offset; c--)
+            {
+                matrix[r, c] = digit;
                 digit++;
             }
             //up
-            for (Row = n - 2 - offset; Row >=offset; Row--)
+            c = offset;
+            for (r = n - 2 - offset; r >=offset + 1; r--)
             {
-                Col = n - 1 - offset;
-                matrix[Row, Col] = digit;
+                matrix[r, c] = digit;
                 digit++;
             }
-            //left
-            for (Col = n - 2 - offset; Col >=offset + 1; Col--)
-            {
-                Row = offset;
-                matrix[Row, Col] = digit;
-                digit++;
-            }
+            
             offset++;
         }
 
         
-        for (int row = 0; row < n; row++)
+        for (int roww = 0; roww < n; roww++)
         {
-            for (int col = 0; col < n; col++)
+            for (int coll = 0; coll < n; coll++)
             {
-                Console.Write(matrix[row, col] + " ");     //Print the matrix
+                Console.Write(matrix[roww, coll] + " ");     //Print the matrix
             }
             Console.WriteLine();
         }
