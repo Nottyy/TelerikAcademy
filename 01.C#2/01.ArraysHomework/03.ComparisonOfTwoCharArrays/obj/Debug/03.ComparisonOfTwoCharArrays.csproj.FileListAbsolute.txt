@@ -1,5 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\03.ComparisonOfTwoCharArrays\bin\Debug\03.ComparisonOfTwoCharArrays.exe.config
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\03.ComparisonOfTwoCharArrays\bin\Debug\03.ComparisonOfTwoCharArrays.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\03.ComparisonOfTwoCharArrays\bin\Debug\03.ComparisonOfTwoCharArrays.pdb
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\03.ComparisonOfTwoCharArrays\obj\Debug\03.ComparisonOfTwoCharArrays.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\03.ComparisonOfTwoCharArrays\obj\Debug\03.ComparisonOfTwoCharArrays.pdb

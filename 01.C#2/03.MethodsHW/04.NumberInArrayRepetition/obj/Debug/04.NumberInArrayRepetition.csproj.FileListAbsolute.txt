@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\04.NumberInArrayRepetition\bin\Debug\04.NumberInArrayRepetition.exe.config
-E:\My Space\TelerikCourse\MethodsHW\04.NumberInArrayRepetition\bin\Debug\04.NumberInArrayRepetition.exe
-E:\My Space\TelerikCourse\MethodsHW\04.NumberInArrayRepetition\bin\Debug\04.NumberInArrayRepetition.pdb
-E:\My Space\TelerikCourse\MethodsHW\04.NumberInArrayRepetition\obj\Debug\04.NumberInArrayRepetition.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MethodsHW\04.NumberInArrayRepetition\obj\Debug\04.NumberInArrayRepetition.exe
-E:\My Space\TelerikCourse\MethodsHW\04.NumberInArrayRepetition\obj\Debug\04.NumberInArrayRepetition.pdb

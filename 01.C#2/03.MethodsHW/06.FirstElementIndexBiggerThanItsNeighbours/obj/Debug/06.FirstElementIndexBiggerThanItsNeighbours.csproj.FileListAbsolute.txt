@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\06.FirstElementIndexBiggerThanItsNeighbours\bin\Debug\06.FirstElementIndexBiggerThanItsNeighbours.exe.config
-E:\My Space\TelerikCourse\MethodsHW\06.FirstElementIndexBiggerThanItsNeighbours\bin\Debug\06.FirstElementIndexBiggerThanItsNeighbours.exe
-E:\My Space\TelerikCourse\MethodsHW\06.FirstElementIndexBiggerThanItsNeighbours\bin\Debug\06.FirstElementIndexBiggerThanItsNeighbours.pdb
-E:\My Space\TelerikCourse\MethodsHW\06.FirstElementIndexBiggerThanItsNeighbours\obj\Debug\06.FirstElementIndexBiggerThanItsNeighbours.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MethodsHW\06.FirstElementIndexBiggerThanItsNeighbours\obj\Debug\06.FirstElementIndexBiggerThanItsNeighbours.exe
-E:\My Space\TelerikCourse\MethodsHW\06.FirstElementIndexBiggerThanItsNeighbours\obj\Debug\06.FirstElementIndexBiggerThanItsNeighbours.pdb

@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.exe.config
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.pdb
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.pdb

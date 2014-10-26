@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\05.SortingArrayByTheLengthOfItsElements\bin\Debug\05.SortingArrayByTheLengthOfItsElements.exe.config
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\05.SortingArrayByTheLengthOfItsElements\bin\Debug\05.SortingArrayByTheLengthOfItsElements.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\05.SortingArrayByTheLengthOfItsElements\bin\Debug\05.SortingArrayByTheLengthOfItsElements.pdb
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\05.SortingArrayByTheLengthOfItsElements\obj\Debug\05.SortingArrayByTheLengthOfItsElements.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\05.SortingArrayByTheLengthOfItsElements\obj\Debug\05.SortingArrayByTheLengthOfItsElements.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\05.SortingArrayByTheLengthOfItsElements\obj\Debug\05.SortingArrayByTheLengthOfItsElements.pdb

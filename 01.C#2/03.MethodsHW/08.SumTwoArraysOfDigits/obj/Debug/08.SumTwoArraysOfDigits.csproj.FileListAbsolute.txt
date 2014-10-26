@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\08.SumTwoArraysOfDigits\bin\Debug\08.SumTwoArraysOfDigits.exe.config
-E:\My Space\TelerikCourse\MethodsHW\08.SumTwoArraysOfDigits\obj\Debug\08.SumTwoArraysOfDigits.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MethodsHW\08.SumTwoArraysOfDigits\bin\Debug\08.SumTwoArraysOfDigits.exe
-E:\My Space\TelerikCourse\MethodsHW\08.SumTwoArraysOfDigits\bin\Debug\08.SumTwoArraysOfDigits.pdb
-E:\My Space\TelerikCourse\MethodsHW\08.SumTwoArraysOfDigits\obj\Debug\08.SumTwoArraysOfDigits.exe
-E:\My Space\TelerikCourse\MethodsHW\08.SumTwoArraysOfDigits\obj\Debug\08.SumTwoArraysOfDigits.pdb

@@ -1,9 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\01.MethodHello\bin\Debug\01.MethodHello.exe.config
-E:\My Space\TelerikCourse\MethodsHW\01.MethodHello\bin\Debug\01.MethodHello.exe
-E:\My Space\TelerikCourse\MethodsHW\01.MethodHello\bin\Debug\01.MethodHello.pdb
-E:\My Space\TelerikCourse\MethodsHW\01.MethodHello\obj\Debug\01.MethodHello.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MethodsHW\01.MethodHello\obj\Debug\01.MethodHello.exe
-E:\My Space\TelerikCourse\MethodsHW\01.MethodHello\obj\Debug\01.MethodHello.pdb
-E:\My Space\TelerikCourse\Homeworks\03.MethodsHW\01.MethodHello\bin\Debug\01.MethodHello.exe.config
-E:\My Space\TelerikCourse\Homeworks\03.MethodsHW\01.MethodHello\obj\Debug\01.MethodHello.exe
-E:\My Space\TelerikCourse\Homeworks\03.MethodsHW\01.MethodHello\obj\Debug\01.MethodHello.pdb

@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\07.ArraySort\bin\Debug\07.ArraySort.exe.config
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\07.ArraySort\obj\Debug\07.ArraySort.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\07.ArraySort\bin\Debug\07.ArraySort.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\07.ArraySort\bin\Debug\07.ArraySort.pdb
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\07.ArraySort\obj\Debug\07.ArraySort.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\07.ArraySort\obj\Debug\07.ArraySort.pdb

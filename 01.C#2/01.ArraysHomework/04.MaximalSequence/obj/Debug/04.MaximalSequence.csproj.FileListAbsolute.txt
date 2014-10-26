@@ -1,5 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe.config
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\04.MaximalSequence\bin\Debug\04.MaximalSequence.pdb
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\04.MaximalSequence\obj\Debug\04.MaximalSequence.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\04.MaximalSequence\obj\Debug\04.MaximalSequence.pdb

@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\11.Polynomials\bin\Debug\11.Polynomials.exe.config
-E:\My Space\TelerikCourse\MethodsHW\11.Polynomials\bin\Debug\11.Polynomials.exe
-E:\My Space\TelerikCourse\MethodsHW\11.Polynomials\bin\Debug\11.Polynomials.pdb
-E:\My Space\TelerikCourse\MethodsHW\11.Polynomials\obj\Debug\11.Polynomials.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MethodsHW\11.Polynomials\obj\Debug\11.Polynomials.exe
-E:\My Space\TelerikCourse\MethodsHW\11.Polynomials\obj\Debug\11.Polynomials.pdb

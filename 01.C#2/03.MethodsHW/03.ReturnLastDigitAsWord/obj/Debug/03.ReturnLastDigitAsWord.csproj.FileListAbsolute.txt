@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\03.ReturnLastDigitAsWord\bin\Debug\03.ReturnLastDigitAsWord.exe.config
-E:\My Space\TelerikCourse\MethodsHW\03.ReturnLastDigitAsWord\bin\Debug\03.ReturnLastDigitAsWord.exe
-E:\My Space\TelerikCourse\MethodsHW\03.ReturnLastDigitAsWord\bin\Debug\03.ReturnLastDigitAsWord.pdb
-E:\My Space\TelerikCourse\MethodsHW\03.ReturnLastDigitAsWord\obj\Debug\03.ReturnLastDigitAsWord.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MethodsHW\03.ReturnLastDigitAsWord\obj\Debug\03.ReturnLastDigitAsWord.exe
-E:\My Space\TelerikCourse\MethodsHW\03.ReturnLastDigitAsWord\obj\Debug\03.ReturnLastDigitAsWord.pdb

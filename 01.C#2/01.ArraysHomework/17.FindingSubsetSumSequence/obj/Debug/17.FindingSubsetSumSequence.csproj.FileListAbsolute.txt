@@ -1,5 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\17.FindingSubsetSumSequence\bin\Debug\17.FindingSubsetSumSequence.exe.config
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\17.FindingSubsetSumSequence\bin\Debug\17.FindingSubsetSumSequence.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\17.FindingSubsetSumSequence\bin\Debug\17.FindingSubsetSumSequence.pdb
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\17.FindingSubsetSumSequence\obj\Debug\17.FindingSubsetSumSequence.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\17.FindingSubsetSumSequence\obj\Debug\17.FindingSubsetSumSequence.pdb

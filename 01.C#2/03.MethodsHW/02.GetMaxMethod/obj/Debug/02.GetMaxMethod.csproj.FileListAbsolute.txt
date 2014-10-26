@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.exe.config
-E:\My Space\TelerikCourse\MethodsHW\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.exe
-E:\My Space\TelerikCourse\MethodsHW\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.pdb
-E:\My Space\TelerikCourse\MethodsHW\02.GetMaxMethod\obj\Debug\02.GetMaxMethod.exe
-E:\My Space\TelerikCourse\MethodsHW\02.GetMaxMethod\obj\Debug\02.GetMaxMethod.pdb

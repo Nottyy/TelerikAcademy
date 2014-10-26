@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe.config
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.pdb
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.pdb
