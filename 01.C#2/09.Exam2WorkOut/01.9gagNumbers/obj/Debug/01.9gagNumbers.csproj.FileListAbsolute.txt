@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\01.9gagNumbers\bin\Debug\01.9gagNumbers.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\01.9gagNumbers\bin\Debug\01.9gagNumbers.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\01.9gagNumbers\bin\Debug\01.9gagNumbers.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\01.9gagNumbers\obj\Debug\01.9gagNumbers.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\01.9gagNumbers\obj\Debug\01.9gagNumbers.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\01.9gagNumbers\obj\Debug\01.9gagNumbers.pdb

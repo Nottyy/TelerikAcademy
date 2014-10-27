@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\TextFilesHW\07.ReplaceStartWithFinish\bin\Debug\07.ReplaceStartWithFinish.exe.config
-E:\My Space\TelerikCourse\TextFilesHW\07.ReplaceStartWithFinish\bin\Debug\07.ReplaceStartWithFinish.exe
-E:\My Space\TelerikCourse\TextFilesHW\07.ReplaceStartWithFinish\bin\Debug\07.ReplaceStartWithFinish.pdb
-E:\My Space\TelerikCourse\TextFilesHW\07.ReplaceStartWithFinish\obj\Debug\07,08.ReplaceStartWithFinish.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\TextFilesHW\07.ReplaceStartWithFinish\obj\Debug\07.ReplaceStartWithFinish.exe
-E:\My Space\TelerikCourse\TextFilesHW\07.ReplaceStartWithFinish\obj\Debug\07.ReplaceStartWithFinish.pdb

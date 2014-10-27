@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\12.UrlParser\bin\Debug\12.UrlParser.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\12.UrlParser\bin\Debug\12.UrlParser.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\12.UrlParser\bin\Debug\12.UrlParser.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\12.UrlParser\obj\Debug\12.UrlParser.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\12.UrlParser\obj\Debug\12.UrlParser.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\12.UrlParser\obj\Debug\12.UrlParser.pdb

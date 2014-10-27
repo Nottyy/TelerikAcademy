@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\03.BracketCheck\bin\Debug\03.BracketCheck.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\03.BracketCheck\bin\Debug\03.BracketCheck.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\03.BracketCheck\bin\Debug\03.BracketCheck.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\03.BracketCheck\obj\Debug\03.BracketCheck.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\03.BracketCheck\obj\Debug\03.BracketCheck.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\03.BracketCheck\obj\Debug\03.BracketCheck.csprojResolveAssemblyReference.cache

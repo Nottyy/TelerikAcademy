@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\21.DifferentLetters\bin\Debug\21.DifferentLetters.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\21.DifferentLetters\bin\Debug\21.DifferentLetters.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\21.DifferentLetters\bin\Debug\21.DifferentLetters.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\21.DifferentLetters\obj\Debug\21.DifferentLetters.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\21.DifferentLetters\obj\Debug\21.DifferentLetters.pdb

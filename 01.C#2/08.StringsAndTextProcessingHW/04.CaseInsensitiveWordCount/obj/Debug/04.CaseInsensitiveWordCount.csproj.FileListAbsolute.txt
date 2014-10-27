@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\04.CaseInsensitiveWordCount\bin\Debug\04.CaseInsensitiveWordCount.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\04.CaseInsensitiveWordCount\bin\Debug\04.CaseInsensitiveWordCount.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\04.CaseInsensitiveWordCount\bin\Debug\04.CaseInsensitiveWordCount.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\04.CaseInsensitiveWordCount\obj\Debug\04.CaseInsensitiveWordCount.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\04.CaseInsensitiveWordCount\obj\Debug\04.CaseInsensitiveWordCount.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\04.CaseInsensitiveWordCount\obj\Debug\04.CaseInsensitiveWordCount.pdb

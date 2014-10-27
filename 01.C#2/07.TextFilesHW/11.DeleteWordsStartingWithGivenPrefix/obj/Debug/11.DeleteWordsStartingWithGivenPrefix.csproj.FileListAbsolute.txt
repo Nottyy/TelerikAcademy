@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\TextFilesHW\11.DeleteWordsStartingWithGivenPrefix\bin\Debug\11.DeleteWordsStartingWithGivenPrefix.exe.config
-E:\My Space\TelerikCourse\TextFilesHW\11.DeleteWordsStartingWithGivenPrefix\obj\Debug\11.DeleteWordsStartingWithGivenPrefix.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\TextFilesHW\11.DeleteWordsStartingWithGivenPrefix\bin\Debug\11.DeleteWordsStartingWithGivenPrefix.exe
-E:\My Space\TelerikCourse\TextFilesHW\11.DeleteWordsStartingWithGivenPrefix\bin\Debug\11.DeleteWordsStartingWithGivenPrefix.pdb
-E:\My Space\TelerikCourse\TextFilesHW\11.DeleteWordsStartingWithGivenPrefix\obj\Debug\11.DeleteWordsStartingWithGivenPrefix.exe
-E:\My Space\TelerikCourse\TextFilesHW\11.DeleteWordsStartingWithGivenPrefix\obj\Debug\11.DeleteWordsStartingWithGivenPrefix.pdb

@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\01.DurankulakNumbers\bin\Debug\01.DurankulakNumbers.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\01.DurankulakNumbers\bin\Debug\01.DurankulakNumbers.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\01.DurankulakNumbers\bin\Debug\01.DurankulakNumbers.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\01.DurankulakNumbers\obj\Debug\01.DurankulakNumbers.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\01.DurankulakNumbers\obj\Debug\01.DurankulakNumbers.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\01.DurankulakNumbers\obj\Debug\01.DurankulakNumbers.pdb

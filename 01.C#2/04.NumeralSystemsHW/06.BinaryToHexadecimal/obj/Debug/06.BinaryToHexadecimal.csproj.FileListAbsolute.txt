@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\NumeralSystemsHW\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
-E:\My Space\TelerikCourse\NumeralSystemsHW\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
-E:\My Space\TelerikCourse\NumeralSystemsHW\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
-E:\My Space\TelerikCourse\NumeralSystemsHW\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\NumeralSystemsHW\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
-E:\My Space\TelerikCourse\NumeralSystemsHW\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb

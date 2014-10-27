@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\11.VariousFormatPrinting\bin\Debug\11.VariousFormatPrinting.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\11.VariousFormatPrinting\bin\Debug\11.VariousFormatPrinting.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\11.VariousFormatPrinting\bin\Debug\11.VariousFormatPrinting.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\11.VariousFormatPrinting\obj\Debug\11.VariousFormatPrinting.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\11.VariousFormatPrinting\obj\Debug\11.VariousFormatPrinting.pdb

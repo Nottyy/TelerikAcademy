@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\03.PrintToday\bin\Debug\03.PrintToday.exe.config
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\03.PrintToday\bin\Debug\03.PrintToday.exe
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\03.PrintToday\bin\Debug\03.PrintToday.pdb
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\03.PrintToday\obj\Debug\03.PrintToday.exe
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\03.PrintToday\obj\Debug\03.PrintToday.pdb

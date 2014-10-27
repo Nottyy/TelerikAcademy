@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\06.FillingString\bin\Debug\06.FillingString.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\06.FillingString\bin\Debug\06.FillingString.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\06.FillingString\bin\Debug\06.FillingString.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\06.FillingString\obj\Debug\06.FillingString.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\06.FillingString\obj\Debug\06.FillingString.pdb

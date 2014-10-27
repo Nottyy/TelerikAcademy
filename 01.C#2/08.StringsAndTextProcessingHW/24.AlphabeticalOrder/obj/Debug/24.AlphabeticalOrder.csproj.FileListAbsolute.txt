@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\24.AlphabeticalOrder\bin\Debug\24.AlphabeticalOrder.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\24.AlphabeticalOrder\bin\Debug\24.AlphabeticalOrder.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\24.AlphabeticalOrder\bin\Debug\24.AlphabeticalOrder.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\24.AlphabeticalOrder\obj\Debug\24.AlphabeticalOrder.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\24.AlphabeticalOrder\obj\Debug\24.AlphabeticalOrder.pdb

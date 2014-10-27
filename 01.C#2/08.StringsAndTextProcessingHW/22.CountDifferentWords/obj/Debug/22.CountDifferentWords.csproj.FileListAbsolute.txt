@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.pdb

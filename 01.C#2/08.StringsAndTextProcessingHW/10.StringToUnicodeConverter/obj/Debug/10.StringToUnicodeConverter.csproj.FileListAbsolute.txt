@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\10.StringToUnicodeConverter\bin\Debug\10.StringToUnicodeConverter.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\10.StringToUnicodeConverter\bin\Debug\10.StringToUnicodeConverter.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\10.StringToUnicodeConverter\bin\Debug\10.StringToUnicodeConverter.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\10.StringToUnicodeConverter\obj\Debug\10.StringToUnicodeConverter.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\10.StringToUnicodeConverter\obj\Debug\10.StringToUnicodeConverter.pdb

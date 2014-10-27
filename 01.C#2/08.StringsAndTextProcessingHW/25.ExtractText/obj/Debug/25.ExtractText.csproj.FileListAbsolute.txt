@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\25.ExtractText\bin\Debug\25.ExtractText.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\25.ExtractText\bin\Debug\25.ExtractText.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\25.ExtractText\bin\Debug\25.ExtractText.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\25.ExtractText\obj\Debug\25.ExtractText.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\25.ExtractText\obj\Debug\25.ExtractText.pdb

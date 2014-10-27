@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\TextFilesHW\10.ExtractAllTheTextInXmlFileWithoutTheTags\bin\Debug\10.ExtractAllTheTextInXmlFileWithoutTheTags.exe.config
-E:\My Space\TelerikCourse\TextFilesHW\10.ExtractAllTheTextInXmlFileWithoutTheTags\bin\Debug\10.ExtractAllTheTextInXmlFileWithoutTheTags.exe
-E:\My Space\TelerikCourse\TextFilesHW\10.ExtractAllTheTextInXmlFileWithoutTheTags\bin\Debug\10.ExtractAllTheTextInXmlFileWithoutTheTags.pdb
-E:\My Space\TelerikCourse\TextFilesHW\10.ExtractAllTheTextInXmlFileWithoutTheTags\obj\Debug\10.ExtractAllTheTextInXmlFileWithoutTheTags.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\TextFilesHW\10.ExtractAllTheTextInXmlFileWithoutTheTags\obj\Debug\10.ExtractAllTheTextInXmlFileWithoutTheTags.exe
-E:\My Space\TelerikCourse\TextFilesHW\10.ExtractAllTheTextInXmlFileWithoutTheTags\obj\Debug\10.ExtractAllTheTextInXmlFileWithoutTheTags.pdb

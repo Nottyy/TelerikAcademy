@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MethodsHW\15.MinMaxAverageProductGeneric\bin\Debug\15.MinMaxAverageProductGeneric.exe.config
-E:\My Space\TelerikCourse\MethodsHW\15.MinMaxAverageProductGeneric\bin\Debug\15.MinMaxAverageProductGeneric.exe
-E:\My Space\TelerikCourse\MethodsHW\15.MinMaxAverageProductGeneric\bin\Debug\15.MinMaxAverageProductGeneric.pdb
-E:\My Space\TelerikCourse\MethodsHW\15.MinMaxAverageProductGeneric\obj\Debug\15.MinMaxAverageProductGeneric.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MethodsHW\15.MinMaxAverageProductGeneric\obj\Debug\15.MinMaxAverageProductGeneric.exe
-E:\My Space\TelerikCourse\MethodsHW\15.MinMaxAverageProductGeneric\obj\Debug\15.MinMaxAverageProductGeneric.pdb

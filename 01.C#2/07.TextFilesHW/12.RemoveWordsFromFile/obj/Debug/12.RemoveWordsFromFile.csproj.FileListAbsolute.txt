@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\TextFilesHW\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.exe.config
-E:\My Space\TelerikCourse\TextFilesHW\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.exe
-E:\My Space\TelerikCourse\TextFilesHW\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.pdb
-E:\My Space\TelerikCourse\TextFilesHW\12.RemoveWordsFromFile\obj\Debug\12.RemoveWordsFromFile.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\TextFilesHW\12.RemoveWordsFromFile\obj\Debug\12.RemoveWordsFromFile.exe
-E:\My Space\TelerikCourse\TextFilesHW\12.RemoveWordsFromFile\obj\Debug\12.RemoveWordsFromFile.pdb

@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\08.SentenceExtractor\bin\Debug\08.SentenceExtractor.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\08.SentenceExtractor\bin\Debug\08.SentenceExtractor.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\08.SentenceExtractor\bin\Debug\08.SentenceExtractor.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\08.SentenceExtractor\obj\Debug\08.SentenceExtractor.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\08.SentenceExtractor\obj\Debug\08.SentenceExtractor.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\08.SentenceExtractor\obj\Debug\08.SentenceExtractor.pdb

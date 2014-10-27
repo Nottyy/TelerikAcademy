@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\14.Dictionary\bin\Debug\14.Dictionary.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\14.Dictionary\bin\Debug\14.Dictionary.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\14.Dictionary\bin\Debug\14.Dictionary.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\14.Dictionary\obj\Debug\14.Dictionary.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\14.Dictionary\obj\Debug\14.Dictionary.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\14.Dictionary\obj\Debug\14.Dictionary.pdb

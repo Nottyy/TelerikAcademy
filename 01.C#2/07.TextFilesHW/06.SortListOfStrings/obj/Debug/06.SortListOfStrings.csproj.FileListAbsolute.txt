@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\TextFilesHW\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.exe.config
-E:\My Space\TelerikCourse\TextFilesHW\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.exe
-E:\My Space\TelerikCourse\TextFilesHW\06.SortListOfStrings\bin\Debug\06.SortListOfStrings.pdb
-E:\My Space\TelerikCourse\TextFilesHW\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\TextFilesHW\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.exe
-E:\My Space\TelerikCourse\TextFilesHW\06.SortListOfStrings\obj\Debug\06.SortListOfStrings.pdb

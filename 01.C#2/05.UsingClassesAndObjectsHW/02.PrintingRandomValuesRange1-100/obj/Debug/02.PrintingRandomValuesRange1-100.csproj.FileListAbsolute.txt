@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\02.PrintingRandomValuesRange1-100\bin\Debug\02.PrintingRandomValuesRange1-100.exe.config
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\02.PrintingRandomValuesRange1-100\bin\Debug\02.PrintingRandomValuesRange1-100.exe
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\02.PrintingRandomValuesRange1-100\bin\Debug\02.PrintingRandomValuesRange1-100.pdb
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\02.PrintingRandomValuesRange1-100\obj\Debug\02.PrintingRandomValuesRange1-100.exe
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\02.PrintingRandomValuesRange1-100\obj\Debug\02.PrintingRandomValuesRange1-100.pdb

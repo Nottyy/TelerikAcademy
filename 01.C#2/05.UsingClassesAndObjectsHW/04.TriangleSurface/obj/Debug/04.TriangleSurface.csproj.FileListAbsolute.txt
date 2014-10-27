@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\04.TriangleSurface\obj\Debug\04.TriangleSurface.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
-E:\My Space\TelerikCourse\UsingClassesAndObjectsHW\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

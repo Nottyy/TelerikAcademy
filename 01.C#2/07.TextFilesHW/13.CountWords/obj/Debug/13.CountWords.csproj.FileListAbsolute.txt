@@ -1,5 +1,0 @@
-E:\My Space\TelerikCourse\TextFilesHW\13.CountWords\bin\Debug\13.CountWords.exe.config
-E:\My Space\TelerikCourse\TextFilesHW\13.CountWords\bin\Debug\13.CountWords.exe
-E:\My Space\TelerikCourse\TextFilesHW\13.CountWords\bin\Debug\13.CountWords.pdb
-E:\My Space\TelerikCourse\TextFilesHW\13.CountWords\obj\Debug\13.CountWords.exe
-E:\My Space\TelerikCourse\TextFilesHW\13.CountWords\obj\Debug\13.CountWords.pdb

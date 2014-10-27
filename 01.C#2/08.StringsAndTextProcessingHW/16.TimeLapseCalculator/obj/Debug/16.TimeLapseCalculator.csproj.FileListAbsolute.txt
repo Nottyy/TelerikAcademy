@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\16.TimeLapseCalculator\bin\Debug\16.TimeLapseCalculator.exe.config
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\16.TimeLapseCalculator\bin\Debug\16.TimeLapseCalculator.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\16.TimeLapseCalculator\bin\Debug\16.TimeLapseCalculator.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\16.TimeLapseCalculator\obj\Debug\16.TimeLapseCalculator.exe
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\16.TimeLapseCalculator\obj\Debug\16.TimeLapseCalculator.pdb
-E:\My Space\TelerikCourse\StringsAndTextProcessingHW\16.TimeLapseCalculator\obj\Debug\16.TimeLapseCalculator.csprojResolveAssemblyReference.cache

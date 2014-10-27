@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\NumeralSystemsHW\09.FloatToBinary\bin\Debug\09.FloatToBinary.exe.config
-E:\My Space\TelerikCourse\NumeralSystemsHW\09.FloatToBinary\bin\Debug\09.FloatToBinary.exe
-E:\My Space\TelerikCourse\NumeralSystemsHW\09.FloatToBinary\bin\Debug\09.FloatToBinary.pdb
-E:\My Space\TelerikCourse\NumeralSystemsHW\09.FloatToBinary\obj\Debug\09.FloatToBinary.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\NumeralSystemsHW\09.FloatToBinary\obj\Debug\09.FloatToBinary.exe
-E:\My Space\TelerikCourse\NumeralSystemsHW\09.FloatToBinary\obj\Debug\09.FloatToBinary.pdb
