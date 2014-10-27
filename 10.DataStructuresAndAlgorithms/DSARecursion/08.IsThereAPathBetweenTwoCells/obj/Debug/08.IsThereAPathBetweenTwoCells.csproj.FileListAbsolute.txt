@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\08.IsThereAPathBetweenTwoCells\bin\Debug\08.IsThereAPathBetweenTwoCells.exe.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\08.IsThereAPathBetweenTwoCells\bin\Debug\08.IsThereAPathBetweenTwoCells.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\08.IsThereAPathBetweenTwoCells\bin\Debug\08.IsThereAPathBetweenTwoCells.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\08.IsThereAPathBetweenTwoCells\obj\Debug\08.IsThereAPathBetweenTwoCells.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\08.IsThereAPathBetweenTwoCells\obj\Debug\08.IsThereAPathBetweenTwoCells.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\08.IsThereAPathBetweenTwoCells\obj\Debug\08.IsThereAPathBetweenTwoCells.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\02.ReverseASequenceUsingStack\bin\Debug\02.ReverseASequenceUsingStack.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\02.ReverseASequenceUsingStack\bin\Debug\02.ReverseASequenceUsingStack.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\02.ReverseASequenceUsingStack\bin\Debug\02.ReverseASequenceUsingStack.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\02.ReverseASequenceUsingStack\obj\Debug\02.ReverseASequenceUsingStack.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\02.ReverseASequenceUsingStack\obj\Debug\02.ReverseASequenceUsingStack.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\02.ReverseASequenceUsingStack\obj\Debug\02.ReverseASequenceUsingStack.pdb

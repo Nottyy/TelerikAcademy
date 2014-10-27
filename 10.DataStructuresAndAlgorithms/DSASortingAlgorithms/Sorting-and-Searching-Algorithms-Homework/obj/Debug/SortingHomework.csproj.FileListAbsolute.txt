@@ -1,9 +1,0 @@
-C:\Users\Toshiba\Desktop\Sorting-and-Searching-Algorithms-Homework\bin\Debug\SortingHomework.exe.config
-C:\Users\Toshiba\Desktop\Sorting-and-Searching-Algorithms-Homework\bin\Debug\SortingHomework.exe
-C:\Users\Toshiba\Desktop\Sorting-and-Searching-Algorithms-Homework\bin\Debug\SortingHomework.pdb
-C:\Users\Toshiba\Desktop\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Desktop\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.exe
-C:\Users\Toshiba\Desktop\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.pdb
-C:\Users\Toshiba\Desktop\DSASortingAlgorithms\Sorting-and-Searching-Algorithms-Homework\bin\Debug\SortingHomework.exe.config
-C:\Users\Toshiba\Desktop\DSASortingAlgorithms\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.exe
-C:\Users\Toshiba\Desktop\DSASortingAlgorithms\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.pdb

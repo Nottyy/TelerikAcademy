@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\06.Guitar\bin\Debug\06.Guitar.exe.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\06.Guitar\bin\Debug\06.Guitar.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\06.Guitar\bin\Debug\06.Guitar.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\06.Guitar\obj\Debug\06.Guitar.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\06.Guitar\obj\Debug\06.Guitar.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\06.Guitar\obj\Debug\06.Guitar.pdb

@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\06.RemoveNumbersOccuringOddNumberOfTimes\bin\Debug\06.RemoveNumbersOccuringOddNumberOfTimes.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\06.RemoveNumbersOccuringOddNumberOfTimes\obj\Debug\06.RemoveNumbersOccuringOddNumberOfTimes.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\06.RemoveNumbersOccuringOddNumberOfTimes\bin\Debug\06.RemoveNumbersOccuringOddNumberOfTimes.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\06.RemoveNumbersOccuringOddNumberOfTimes\bin\Debug\06.RemoveNumbersOccuringOddNumberOfTimes.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\06.RemoveNumbersOccuringOddNumberOfTimes\obj\Debug\06.RemoveNumbersOccuringOddNumberOfTimes.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\06.RemoveNumbersOccuringOddNumberOfTimes\obj\Debug\06.RemoveNumbersOccuringOddNumberOfTimes.pdb

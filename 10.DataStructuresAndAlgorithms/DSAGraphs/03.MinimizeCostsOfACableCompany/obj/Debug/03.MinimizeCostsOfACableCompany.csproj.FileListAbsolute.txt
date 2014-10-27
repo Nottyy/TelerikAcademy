@@ -1,8 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\bin\Debug\03.MinimizeCostsOfACableCompany.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\bin\Debug\03.MinimizeCostsOfACableCompany.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\bin\Debug\03.MinimizeCostsOfACableCompany.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\bin\Debug\PowerCollections.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\bin\Debug\PowerCollections.xml
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\obj\Debug\03.MinimizeCostsOfACableCompany.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\obj\Debug\03.MinimizeCostsOfACableCompany.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\03.MinimizeCostsOfACableCompany\obj\Debug\03.MinimizeCostsOfACableCompany.pdb

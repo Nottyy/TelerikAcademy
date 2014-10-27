@@ -1,1 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\NorthwindModel\09.OrdersTransactions\bin\Debug\09.OrdersTransactions.exe.config

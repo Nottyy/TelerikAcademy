@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\03.JoinTablesCategoriesAndProducts\bin\Debug\03.JoinTablesCategoriesAndProducts.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\03.JoinTablesCategoriesAndProducts\bin\Debug\03.JoinTablesCategoriesAndProducts.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\03.JoinTablesCategoriesAndProducts\bin\Debug\03.JoinTablesCategoriesAndProducts.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\03.JoinTablesCategoriesAndProducts\obj\Debug\03.JoinTablesCategoriesAndProducts.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\03.JoinTablesCategoriesAndProducts\obj\Debug\03.JoinTablesCategoriesAndProducts.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\03.JoinTablesCategoriesAndProducts\obj\Debug\03.JoinTablesCategoriesAndProducts.pdb

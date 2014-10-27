@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\02.Salaries\bin\Debug\02.Salaries.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\02.Salaries\bin\Debug\02.Salaries.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\02.Salaries\bin\Debug\02.Salaries.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\02.Salaries\obj\Debug\02.Salaries.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\02.Salaries\obj\Debug\02.Salaries.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSAGraphs\02.Salaries\obj\Debug\02.Salaries.pdb

@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\05.GetImageFromDB\bin\Debug\05.GetImageFromDB.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\05.GetImageFromDB\bin\Debug\05.GetImageFromDB.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\05.GetImageFromDB\bin\Debug\05.GetImageFromDB.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\05.GetImageFromDB\obj\Debug\05.GetImageFromDB.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\05.GetImageFromDB\obj\Debug\05.GetImageFromDB.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\05.GetImageFromDB\obj\Debug\05.GetImageFromDB.pdb

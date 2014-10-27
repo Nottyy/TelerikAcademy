@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\13.QueueImplementation\bin\Debug\13.QueueImplementation.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\13.QueueImplementation\obj\Debug\13.QueueImplementation.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\13.QueueImplementation\bin\Debug\13.QueueImplementation.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\13.QueueImplementation\bin\Debug\13.QueueImplementation.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\13.QueueImplementation\obj\Debug\13.QueueImplementation.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\13.QueueImplementation\obj\Debug\13.QueueImplementation.pdb

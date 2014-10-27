@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\10.FindTheShortestWay\bin\Debug\10.FindTheShortestWay.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\10.FindTheShortestWay\bin\Debug\10.FindTheShortestWay.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\10.FindTheShortestWay\bin\Debug\10.FindTheShortestWay.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\10.FindTheShortestWay\obj\Debug\10.FindTheShortestWay.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\10.FindTheShortestWay\obj\Debug\10.FindTheShortestWay.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\10.FindTheShortestWay\obj\Debug\10.FindTheShortestWay.pdb

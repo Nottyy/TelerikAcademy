@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\11.ColorfulRabitsAlgoOct2012\bin\Debug\11.ColorfulRabitsAlgoOct2012.exe.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\11.ColorfulRabitsAlgoOct2012\bin\Debug\11.ColorfulRabitsAlgoOct2012.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\11.ColorfulRabitsAlgoOct2012\bin\Debug\11.ColorfulRabitsAlgoOct2012.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\11.ColorfulRabitsAlgoOct2012\obj\Debug\11.ColorfulRabitsAlgoOct2012.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\11.ColorfulRabitsAlgoOct2012\obj\Debug\11.ColorfulRabitsAlgoOct2012.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\11.ColorfulRabitsAlgoOct2012\obj\Debug\11.ColorfulRabitsAlgoOct2012.pdb

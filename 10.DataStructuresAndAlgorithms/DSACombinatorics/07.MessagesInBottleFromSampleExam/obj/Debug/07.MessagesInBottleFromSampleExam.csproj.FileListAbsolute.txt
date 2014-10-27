@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\07.MessagesInBottleFromSampleExam\bin\Debug\07.MessagesInBottleFromSampleExam.exe.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\07.MessagesInBottleFromSampleExam\bin\Debug\07.MessagesInBottleFromSampleExam.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\07.MessagesInBottleFromSampleExam\bin\Debug\07.MessagesInBottleFromSampleExam.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\07.MessagesInBottleFromSampleExam\obj\Debug\07.MessagesInBottleFromSampleExam.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\07.MessagesInBottleFromSampleExam\obj\Debug\07.MessagesInBottleFromSampleExam.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\07.MessagesInBottleFromSampleExam\obj\Debug\07.MessagesInBottleFromSampleExam.pdb

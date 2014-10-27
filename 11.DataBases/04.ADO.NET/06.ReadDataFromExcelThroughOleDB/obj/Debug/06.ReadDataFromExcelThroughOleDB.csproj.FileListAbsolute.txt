@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\06.ReadDataFromExcelThroughOleDB\bin\Debug\06.ReadDataFromExcelThroughOleDB.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\06.ReadDataFromExcelThroughOleDB\bin\Debug\06.ReadDataFromExcelThroughOleDB.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\06.ReadDataFromExcelThroughOleDB\bin\Debug\06.ReadDataFromExcelThroughOleDB.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\06.ReadDataFromExcelThroughOleDB\obj\Debug\06.ReadDataFromExcelThroughOleDB.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\06.ReadDataFromExcelThroughOleDB\obj\Debug\06.ReadDataFromExcelThroughOleDB.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\06.ReadDataFromExcelThroughOleDB\obj\Debug\06.ReadDataFromExcelThroughOleDB.pdb

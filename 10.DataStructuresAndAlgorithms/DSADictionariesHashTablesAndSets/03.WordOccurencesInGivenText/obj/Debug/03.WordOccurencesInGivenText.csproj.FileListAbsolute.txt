@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\03.WordOccurencesInGivenText\bin\Debug\03.WordOccurencesInGivenText.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\03.WordOccurencesInGivenText\bin\Debug\03.WordOccurencesInGivenText.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\03.WordOccurencesInGivenText\bin\Debug\03.WordOccurencesInGivenText.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\03.WordOccurencesInGivenText\obj\Debug\03.WordOccurencesInGivenText.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\03.WordOccurencesInGivenText\obj\Debug\03.WordOccurencesInGivenText.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\03.WordOccurencesInGivenText\obj\Debug\03.WordOccurencesInGivenText.pdb

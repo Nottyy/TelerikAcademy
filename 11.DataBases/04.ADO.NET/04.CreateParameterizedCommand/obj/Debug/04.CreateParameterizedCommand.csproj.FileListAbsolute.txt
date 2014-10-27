@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\04.CreateParameterizedCommand\bin\Debug\04.CreateParameterizedCommand.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\04.CreateParameterizedCommand\bin\Debug\04.CreateParameterizedCommand.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\04.CreateParameterizedCommand\bin\Debug\04.CreateParameterizedCommand.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\04.CreateParameterizedCommand\obj\Debug\04.CreateParameterizedCommand.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\04.CreateParameterizedCommand\obj\Debug\04.CreateParameterizedCommand.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ADO.NET\04.CreateParameterizedCommand\obj\Debug\04.CreateParameterizedCommand.pdb

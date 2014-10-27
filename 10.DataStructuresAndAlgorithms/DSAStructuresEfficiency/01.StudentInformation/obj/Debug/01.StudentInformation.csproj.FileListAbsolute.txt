@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\01.StudentInformation\bin\Debug\01.StudentInformation.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\01.StudentInformation\bin\Debug\01.StudentInformation.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\01.StudentInformation\bin\Debug\01.StudentInformation.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\01.StudentInformation\obj\Debug\01.StudentInformation.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\01.StudentInformation\obj\Debug\01.StudentInformation.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAStructuresEfficiency\01.StudentInformation\obj\Debug\01.StudentInformation.pdb

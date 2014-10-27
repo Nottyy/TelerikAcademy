@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\09.QueuePrintSequenceByPattern\bin\Debug\09.QueuePrintSequenceByPattern.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\09.QueuePrintSequenceByPattern\bin\Debug\09.QueuePrintSequenceByPattern.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\09.QueuePrintSequenceByPattern\bin\Debug\09.QueuePrintSequenceByPattern.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\09.QueuePrintSequenceByPattern\obj\Debug\09.QueuePrintSequenceByPattern.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\09.QueuePrintSequenceByPattern\obj\Debug\09.QueuePrintSequenceByPattern.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\09.QueuePrintSequenceByPattern\obj\Debug\09.QueuePrintSequenceByPattern.pdb

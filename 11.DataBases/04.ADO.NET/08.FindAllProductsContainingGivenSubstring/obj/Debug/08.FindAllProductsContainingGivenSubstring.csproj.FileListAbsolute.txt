@@ -1,5 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\08.FindAllProductsContainingGivenSubstring\bin\Debug\08.FindAllProductsContainingGivenSubstring.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\08.FindAllProductsContainingGivenSubstring\bin\Debug\08.FindAllProductsContainingGivenSubstring.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\08.FindAllProductsContainingGivenSubstring\bin\Debug\08.FindAllProductsContainingGivenSubstring.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\08.FindAllProductsContainingGivenSubstring\obj\Debug\08.FindAllProductsContainingGivenSubstring.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\ADO.NET\08.FindAllProductsContainingGivenSubstring\obj\Debug\08.FindAllProductsContainingGivenSubstring.pdb

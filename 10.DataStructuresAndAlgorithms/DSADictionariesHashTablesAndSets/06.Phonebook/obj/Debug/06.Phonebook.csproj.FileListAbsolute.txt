@@ -1,8 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\bin\Debug\06.Phonebook.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\bin\Debug\06.Phonebook.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\bin\Debug\06.Phonebook.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\bin\Debug\PowerCollections.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSADictionariesHashTablesAndSets\06.Phonebook\bin\Debug\PowerCollections.xml

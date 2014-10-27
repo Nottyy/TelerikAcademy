@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\07.FindAllPathsBetweenTwoCellsInAMatrix\bin\Debug\07.FindAllPathsBetweenTwoCellsInAMatrix.exe.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\07.FindAllPathsBetweenTwoCellsInAMatrix\bin\Debug\07.FindAllPathsBetweenTwoCellsInAMatrix.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\07.FindAllPathsBetweenTwoCellsInAMatrix\bin\Debug\07.FindAllPathsBetweenTwoCellsInAMatrix.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\07.FindAllPathsBetweenTwoCellsInAMatrix\obj\Debug\07.FindAllPathsBetweenTwoCellsInAMatrix.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\07.FindAllPathsBetweenTwoCellsInAMatrix\obj\Debug\07.FindAllPathsBetweenTwoCellsInAMatrix.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DSARecursion\07.FindAllPathsBetweenTwoCellsInAMatrix\obj\Debug\07.FindAllPathsBetweenTwoCellsInAMatrix.pdb

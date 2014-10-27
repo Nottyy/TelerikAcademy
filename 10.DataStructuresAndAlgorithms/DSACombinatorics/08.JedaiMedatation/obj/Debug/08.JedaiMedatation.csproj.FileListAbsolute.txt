@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\08.JedaiMedatation\bin\Debug\08.JedaiMedatation.exe.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\08.JedaiMedatation\bin\Debug\08.JedaiMedatation.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\08.JedaiMedatation\bin\Debug\08.JedaiMedatation.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\08.JedaiMedatation\obj\Debug\08.JedaiMedatation.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\08.JedaiMedatation\obj\Debug\08.JedaiMedatation.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\08.JedaiMedatation\obj\Debug\08.JedaiMedatation.pdb

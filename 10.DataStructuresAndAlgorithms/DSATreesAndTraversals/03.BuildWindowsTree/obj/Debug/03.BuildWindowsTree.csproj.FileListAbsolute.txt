@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSATreesAndTraversals\03.BuildWindowsTree\bin\Debug\03.BuildWindowsTree.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSATreesAndTraversals\03.BuildWindowsTree\obj\Debug\03.BuildWindowsTree.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSATreesAndTraversals\03.BuildWindowsTree\bin\Debug\03.BuildWindowsTree.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSATreesAndTraversals\03.BuildWindowsTree\bin\Debug\03.BuildWindowsTree.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSATreesAndTraversals\03.BuildWindowsTree\obj\Debug\03.BuildWindowsTree.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DSATreesAndTraversals\03.BuildWindowsTree\obj\Debug\03.BuildWindowsTree.pdb

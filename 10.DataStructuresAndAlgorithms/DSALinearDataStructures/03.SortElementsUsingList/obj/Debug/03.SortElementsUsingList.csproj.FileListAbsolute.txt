@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\03.SortElementsUsingList\bin\Debug\03.SortElementsUsingList.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\03.SortElementsUsingList\bin\Debug\03.SortElementsUsingList.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\03.SortElementsUsingList\bin\Debug\03.SortElementsUsingList.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\03.SortElementsUsingList\obj\Debug\03.SortElementsUsingList.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\03.SortElementsUsingList\obj\Debug\03.SortElementsUsingList.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSALinearDataStructures\03.SortElementsUsingList\obj\Debug\03.SortElementsUsingList.pdb

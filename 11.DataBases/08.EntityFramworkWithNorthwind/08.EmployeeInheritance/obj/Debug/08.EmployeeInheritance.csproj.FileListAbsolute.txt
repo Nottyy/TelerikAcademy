@@ -1,1 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\NorthwindModel\08.EmployeeInheritance\bin\Debug\08.EmployeeInheritance.exe.config

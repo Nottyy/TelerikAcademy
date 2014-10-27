@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\04.GenerateAllPermutationsToN\bin\Debug\04.GenerateAllPermutationsToN.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\04.GenerateAllPermutationsToN\bin\Debug\04.GenerateAllPermutationsToN.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\04.GenerateAllPermutationsToN\bin\Debug\04.GenerateAllPermutationsToN.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\04.GenerateAllPermutationsToN\obj\Debug\04.GenerateAllPermutationsToN.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\04.GenerateAllPermutationsToN\obj\Debug\04.GenerateAllPermutationsToN.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSARecursion\04.GenerateAllPermutationsToN\obj\Debug\04.GenerateAllPermutationsToN.pdb
