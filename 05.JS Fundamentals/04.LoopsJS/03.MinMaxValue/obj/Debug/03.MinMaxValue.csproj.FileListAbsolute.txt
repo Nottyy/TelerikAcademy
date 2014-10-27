@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\03.MinMaxValue\bin\03.MinMaxValue.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\03.MinMaxValue\bin\03.MinMaxValue.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\03.MinMaxValue\bin\03.MinMaxValue.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\03.MinMaxValue\obj\Debug\03.MinMaxValue.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\03.MinMaxValue\obj\Debug\03.MinMaxValue.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\03.MinMaxValue\obj\Debug\03.MinMaxValue.pdb

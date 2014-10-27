@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\04.GenerateTagsFontSize\bin\04.GenerateTagsFontSize.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\04.GenerateTagsFontSize\bin\04.GenerateTagsFontSize.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\04.GenerateTagsFontSize\bin\04.GenerateTagsFontSize.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\04.GenerateTagsFontSize\obj\Debug\04.GenerateTagsFontSize.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\04.GenerateTagsFontSize\obj\Debug\04.GenerateTagsFontSize.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\04.GenerateTagsFontSize\obj\Debug\04.GenerateTagsFontSize.pdb

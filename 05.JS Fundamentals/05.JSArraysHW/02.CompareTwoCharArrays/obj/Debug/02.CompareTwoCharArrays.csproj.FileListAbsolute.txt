@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\02.CompareTwoCharArrays\bin\02.CompareTwoCharArrays.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\02.CompareTwoCharArrays\bin\02.CompareTwoCharArrays.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\02.CompareTwoCharArrays\bin\02.CompareTwoCharArrays.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\02.CompareTwoCharArrays\obj\Debug\02.CompareTwoCharArrays.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\02.CompareTwoCharArrays\obj\Debug\02.CompareTwoCharArrays.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JSArraysHW\02.CompareTwoCharArrays\obj\Debug\02.CompareTwoCharArrays.pdb

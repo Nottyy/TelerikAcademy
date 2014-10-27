@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\03.ComparePerformanceOfMathFunctions\bin\Debug\03.ComparePerformanceOfMathFunctions.exe.config
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\03.ComparePerformanceOfMathFunctions\obj\Debug\03.ComparePerformanceOfMathFunctions.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\03.ComparePerformanceOfMathFunctions\bin\Debug\03.ComparePerformanceOfMathFunctions.exe
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\03.ComparePerformanceOfMathFunctions\bin\Debug\03.ComparePerformanceOfMathFunctions.pdb
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\03.ComparePerformanceOfMathFunctions\obj\Debug\03.ComparePerformanceOfMathFunctions.exe
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\03.ComparePerformanceOfMathFunctions\obj\Debug\03.ComparePerformanceOfMathFunctions.pdb

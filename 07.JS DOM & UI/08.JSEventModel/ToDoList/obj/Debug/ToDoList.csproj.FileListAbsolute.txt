@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\JSEventModel\ToDoList\bin\ToDoList.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\JSEventModel\ToDoList\bin\ToDoList.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JSEventModel\ToDoList\bin\ToDoList.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\JSEventModel\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\JSEventModel\ToDoList\obj\Debug\ToDoList.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JSEventModel\ToDoList\obj\Debug\ToDoList.pdb

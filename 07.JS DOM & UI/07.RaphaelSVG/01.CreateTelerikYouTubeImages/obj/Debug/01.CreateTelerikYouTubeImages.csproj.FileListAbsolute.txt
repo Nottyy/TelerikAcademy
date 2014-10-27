@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\01.CreateTelerikYouTubeImages\bin\01.CreateTelerikYouTubeImages.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\01.CreateTelerikYouTubeImages\bin\01.CreateTelerikYouTubeImages.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\01.CreateTelerikYouTubeImages\bin\01.CreateTelerikYouTubeImages.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\01.CreateTelerikYouTubeImages\obj\Debug\01.CreateTelerikYouTubeImages.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\01.CreateTelerikYouTubeImages\obj\Debug\01.CreateTelerikYouTubeImages.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\01.CreateTelerikYouTubeImages\obj\Debug\01.CreateTelerikYouTubeImages.pdb

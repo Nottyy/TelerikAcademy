@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\05.OccurrencesOfNumberInAnArray\bin\05.OccurrencesOfNumberInAnArray.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\05.OccurrencesOfNumberInAnArray\bin\05.OccurrencesOfNumberInAnArray.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\05.OccurrencesOfNumberInAnArray\bin\05.OccurrencesOfNumberInAnArray.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\05.OccurrencesOfNumberInAnArray\obj\Debug\05.OccurrencesOfNumberInAnArray.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\05.OccurrencesOfNumberInAnArray\obj\Debug\05.OccurrencesOfNumberInAnArray.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\05.OccurrencesOfNumberInAnArray\obj\Debug\05.OccurrencesOfNumberInAnArray.pdb

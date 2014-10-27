@@ -1,4 +1,0 @@
-C:\Users\Toshiba\Desktop\High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
-C:\Users\Toshiba\Desktop\High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
-C:\Users\Toshiba\Desktop\High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
-C:\Users\Toshiba\Desktop\High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

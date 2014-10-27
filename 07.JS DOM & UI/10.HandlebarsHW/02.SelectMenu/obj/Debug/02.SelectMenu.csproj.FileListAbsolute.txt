@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\HandlebarsHW\02.SelectMenu\bin\02.SelectMenu.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\HandlebarsHW\02.SelectMenu\bin\02.SelectMenu.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\HandlebarsHW\02.SelectMenu\bin\02.SelectMenu.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\HandlebarsHW\02.SelectMenu\obj\Debug\02.SelectMenu.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\HandlebarsHW\02.SelectMenu\obj\Debug\02.SelectMenu.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\HandlebarsHW\02.SelectMenu\obj\Debug\02.SelectMenu.pdb

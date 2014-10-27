@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName\bin\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName\bin\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName\bin\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName\obj\Debug\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName\obj\Debug\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName\obj\Debug\01.SortStudentsWhoseFirstNameIsBeforeTheirLastName.pdb

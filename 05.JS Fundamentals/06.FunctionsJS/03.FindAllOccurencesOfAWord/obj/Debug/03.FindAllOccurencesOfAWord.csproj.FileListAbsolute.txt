@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\03.FindAllOccurencesOfAWord\bin\03.FindAllOccurencesOfAWord.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\03.FindAllOccurencesOfAWord\bin\03.FindAllOccurencesOfAWord.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\03.FindAllOccurencesOfAWord\bin\03.FindAllOccurencesOfAWord.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\03.FindAllOccurencesOfAWord\obj\Debug\03.FindAllOccurencesOfAWord.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\03.FindAllOccurencesOfAWord\obj\Debug\03.FindAllOccurencesOfAWord.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\03.FindAllOccurencesOfAWord\obj\Debug\03.FindAllOccurencesOfAWord.pdb

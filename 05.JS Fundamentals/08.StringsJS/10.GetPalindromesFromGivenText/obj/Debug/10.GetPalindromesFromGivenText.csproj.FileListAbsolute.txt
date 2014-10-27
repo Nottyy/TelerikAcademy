@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\10.GetPalindromesFromGivenText\bin\10.GetPalindromesFromGivenText.dll.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\10.GetPalindromesFromGivenText\bin\10.GetPalindromesFromGivenText.dll
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\10.GetPalindromesFromGivenText\bin\10.GetPalindromesFromGivenText.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\10.GetPalindromesFromGivenText\obj\Debug\10.GetPalindromesFromGivenText.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\10.GetPalindromesFromGivenText\obj\Debug\10.GetPalindromesFromGivenText.dll
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\10.GetPalindromesFromGivenText\obj\Debug\10.GetPalindromesFromGivenText.pdb

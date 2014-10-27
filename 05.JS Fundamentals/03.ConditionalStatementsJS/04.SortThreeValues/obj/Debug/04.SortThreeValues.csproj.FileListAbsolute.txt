@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\04.SortThreeValues\bin\04.SortThreeValues.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\04.SortThreeValues\bin\04.SortThreeValues.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\04.SortThreeValues\bin\04.SortThreeValues.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\04.SortThreeValues\obj\Debug\04.SortThreeValues.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\04.SortThreeValues\obj\Debug\04.SortThreeValues.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\04.SortThreeValues\obj\Debug\04.SortThreeValues.pdb

@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\04.JoroTheNaughty\bin\04.JoroTheNaughty.dll.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\04.JoroTheNaughty\bin\04.JoroTheNaughty.dll
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\04.JoroTheNaughty\bin\04.JoroTheNaughty.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\04.JoroTheNaughty\obj\Debug\04.JoroTheNaughty.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\04.JoroTheNaughty\obj\Debug\04.JoroTheNaughty.dll
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\JSExamPreparation\04.JoroTheNaughty\obj\Debug\04.JoroTheNaughty.pdb

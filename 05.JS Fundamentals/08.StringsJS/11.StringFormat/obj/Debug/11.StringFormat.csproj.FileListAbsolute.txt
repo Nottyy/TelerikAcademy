@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\11.StringFormat\bin\11.StringFormat.dll.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\11.StringFormat\bin\11.StringFormat.dll
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\11.StringFormat\bin\11.StringFormat.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\11.StringFormat\obj\Debug\11.StringFormat.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\11.StringFormat\obj\Debug\11.StringFormat.dll
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\StringsJS\11.StringFormat\obj\Debug\11.StringFormat.pdb

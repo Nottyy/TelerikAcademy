@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\04.CountDivs\bin\04.CountDivs.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\04.CountDivs\bin\04.CountDivs.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\04.CountDivs\bin\04.CountDivs.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\04.CountDivs\obj\Debug\04.CountDivs.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\04.CountDivs\obj\Debug\04.CountDivs.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\04.CountDivs\obj\Debug\04.CountDivs.pdb

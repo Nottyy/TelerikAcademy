@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\06.MostPopularAuthor\bin\06.MostPopularAuthor.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\06.MostPopularAuthor\bin\06.MostPopularAuthor.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\06.MostPopularAuthor\bin\06.MostPopularAuthor.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\06.MostPopularAuthor\obj\Debug\06.MostPopularAuthor.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\06.MostPopularAuthor\obj\Debug\06.MostPopularAuthor.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\UnderScoreJS\06.MostPopularAuthor\obj\Debug\06.MostPopularAuthor.pdb

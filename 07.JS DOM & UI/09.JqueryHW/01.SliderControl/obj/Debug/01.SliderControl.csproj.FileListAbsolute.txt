@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\01.SliderControl\bin\01.SliderControl.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\01.SliderControl\bin\01.SliderControl.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\01.SliderControl\bin\01.SliderControl.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\01.SliderControl\obj\Debug\01.SliderControl.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\01.SliderControl\obj\Debug\01.SliderControl.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\01.SliderControl\obj\Debug\01.SliderControl.pdb

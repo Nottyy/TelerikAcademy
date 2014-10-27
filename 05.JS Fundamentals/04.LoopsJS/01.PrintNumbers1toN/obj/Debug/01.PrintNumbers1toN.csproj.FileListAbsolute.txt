@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\01.PrintNumbers1toN\bin\01.PrintNumbers1toN.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\01.PrintNumbers1toN\bin\01.PrintNumbers1toN.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\01.PrintNumbers1toN\bin\01.PrintNumbers1toN.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\01.PrintNumbers1toN\obj\Debug\01.PrintNumbers1toN.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\01.PrintNumbers1toN\obj\Debug\01.PrintNumbers1toN.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\01.PrintNumbers1toN\obj\Debug\01.PrintNumbers1toN.pdb

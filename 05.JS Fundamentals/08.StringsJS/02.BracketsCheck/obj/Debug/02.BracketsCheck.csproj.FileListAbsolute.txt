@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\02.BracketsCheck\bin\02.BracketsCheck.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\02.BracketsCheck\bin\02.BracketsCheck.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\02.BracketsCheck\bin\02.BracketsCheck.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\02.BracketsCheck\obj\Debug\02.BracketsCheck.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\02.BracketsCheck\obj\Debug\02.BracketsCheck.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\02.BracketsCheck\obj\Debug\02.BracketsCheck.pdb

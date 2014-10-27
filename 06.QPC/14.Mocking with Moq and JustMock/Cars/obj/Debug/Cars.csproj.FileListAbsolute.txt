@@ -1,5 +1,0 @@
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars\bin\Debug\Cars.dll
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars\bin\Debug\Cars.pdb
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars\obj\Debug\Cars.dll
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars\obj\Debug\Cars.pdb

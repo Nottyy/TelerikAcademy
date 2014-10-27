@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\03.WordOccurence\bin\Debug\03.WordOccurence.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\03.WordOccurence\bin\Debug\03.WordOccurence.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\03.WordOccurence\bin\Debug\03.WordOccurence.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\03.WordOccurence\obj\Debug\03.WordOccurence.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\03.WordOccurence\obj\Debug\03.WordOccurence.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\03.WordOccurence\obj\Debug\03.WordOccurence.pdb

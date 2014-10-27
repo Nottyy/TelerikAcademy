@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DOM\03.GetColorSetBackground\bin\03.GetColorSetBackground.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DOM\03.GetColorSetBackground\bin\03.GetColorSetBackground.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\DOM\03.GetColorSetBackground\bin\03.GetColorSetBackground.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DOM\03.GetColorSetBackground\obj\Debug\03.GetColorSetBackground.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DOM\03.GetColorSetBackground\obj\Debug\03.GetColorSetBackground.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\DOM\03.GetColorSetBackground\obj\Debug\03.GetColorSetBackground.pdb

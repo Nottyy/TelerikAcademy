@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\04.LexicographicallyLargestAndSmallestProperty\bin\04.LexicographicallyLargestAndSmallestProperty.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\04.LexicographicallyLargestAndSmallestProperty\bin\04.LexicographicallyLargestAndSmallestProperty.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\04.LexicographicallyLargestAndSmallestProperty\bin\04.LexicographicallyLargestAndSmallestProperty.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\04.LexicographicallyLargestAndSmallestProperty\obj\Debug\04.LexicographicallyLargestAndSmallestProperty.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\04.LexicographicallyLargestAndSmallestProperty\obj\Debug\04.LexicographicallyLargestAndSmallestProperty.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\04.LexicographicallyLargestAndSmallestProperty\obj\Debug\04.LexicographicallyLargestAndSmallestProperty.pdb

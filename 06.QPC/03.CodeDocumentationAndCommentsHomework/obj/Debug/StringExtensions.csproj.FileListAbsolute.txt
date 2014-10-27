@@ -1,5 +1,0 @@
-C:\Users\Toshiba\Desktop\Code Documentation and Comments Homework\bin\Debug\StringExtensions.dll
-C:\Users\Toshiba\Desktop\Code Documentation and Comments Homework\bin\Debug\StringExtensions.pdb
-C:\Users\Toshiba\Desktop\Code Documentation and Comments Homework\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Desktop\Code Documentation and Comments Homework\obj\Debug\StringExtensions.dll
-C:\Users\Toshiba\Desktop\Code Documentation and Comments Homework\obj\Debug\StringExtensions.pdb

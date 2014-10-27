@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\02.RefactorIfStatement\bin\Debug\02.RefactorIfStatement.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\02.RefactorIfStatement\bin\Debug\02.RefactorIfStatement.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\02.RefactorIfStatement\bin\Debug\02.RefactorIfStatement.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\02.RefactorIfStatement\obj\Debug\02.RefactorIfStatement.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\02.RefactorIfStatement\obj\Debug\02.RefactorIfStatement.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\ControlFlowConditionalStatementsLoops\02.RefactorIfStatement\obj\Debug\02.RefactorIfStatement.pdb

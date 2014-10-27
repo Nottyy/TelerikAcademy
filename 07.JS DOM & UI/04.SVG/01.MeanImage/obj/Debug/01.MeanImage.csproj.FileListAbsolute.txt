@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\SVG\01.MeanImage\bin\01.MeanImage.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\SVG\01.MeanImage\bin\01.MeanImage.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\SVG\01.MeanImage\bin\01.MeanImage.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\SVG\01.MeanImage\obj\Debug\01.MeanImage.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\SVG\01.MeanImage\obj\Debug\01.MeanImage.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\SVG\01.MeanImage\obj\Debug\01.MeanImage.pdb

@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\05.DigitName\bin\05.DigitName.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\05.DigitName\bin\05.DigitName.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\05.DigitName\bin\05.DigitName.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\05.DigitName\obj\Debug\05.DigitName.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\05.DigitName\obj\Debug\05.DigitName.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\05.DigitName\obj\Debug\05.DigitName.pdb

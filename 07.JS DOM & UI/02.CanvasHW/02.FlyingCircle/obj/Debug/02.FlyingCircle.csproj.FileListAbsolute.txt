@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CanvasHW\02.FlyingCircle\bin\02.FlyingCircle.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CanvasHW\02.FlyingCircle\bin\02.FlyingCircle.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CanvasHW\02.FlyingCircle\bin\02.FlyingCircle.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CanvasHW\02.FlyingCircle\obj\Debug\02.FlyingCircle.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CanvasHW\02.FlyingCircle\obj\Debug\02.FlyingCircle.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CanvasHW\02.FlyingCircle\obj\Debug\02.FlyingCircle.pdb

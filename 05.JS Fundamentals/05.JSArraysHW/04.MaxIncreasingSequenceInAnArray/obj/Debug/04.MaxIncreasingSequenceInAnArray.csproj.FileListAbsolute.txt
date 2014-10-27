@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\JSArraysHW\04.MaxIncreasingSequenceInAnArray\bin\04.MaxIncreasingSequenceInAnArray.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\JSArraysHW\04.MaxIncreasingSequenceInAnArray\bin\04.MaxIncreasingSequenceInAnArray.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\JSArraysHW\04.MaxIncreasingSequenceInAnArray\bin\04.MaxIncreasingSequenceInAnArray.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\JSArraysHW\04.MaxIncreasingSequenceInAnArray\obj\Debug\04.MaxIncreasingSequenceInAnArray.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\JSArraysHW\04.MaxIncreasingSequenceInAnArray\obj\Debug\04.MaxIncreasingSequenceInAnArray.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\JSArraysHW\04.MaxIncreasingSequenceInAnArray\obj\Debug\04.MaxIncreasingSequenceInAnArray.pdb

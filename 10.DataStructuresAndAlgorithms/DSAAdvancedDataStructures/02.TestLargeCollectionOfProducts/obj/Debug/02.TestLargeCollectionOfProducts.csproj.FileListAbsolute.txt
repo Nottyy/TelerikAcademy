@@ -1,8 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\bin\Debug\02.TestLargeCollectionOfProducts.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\bin\Debug\02.TestLargeCollectionOfProducts.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\bin\Debug\02.TestLargeCollectionOfProducts.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\bin\Debug\PowerCollections.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\bin\Debug\PowerCollections.xml
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\obj\Debug\02.TestLargeCollectionOfProducts.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\obj\Debug\02.TestLargeCollectionOfProducts.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DSAAdvancedDataStructures\02.TestLargeCollectionOfProducts\obj\Debug\02.TestLargeCollectionOfProducts.pdb

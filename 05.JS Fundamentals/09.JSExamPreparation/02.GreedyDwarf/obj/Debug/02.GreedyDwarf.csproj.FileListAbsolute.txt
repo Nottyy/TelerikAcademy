@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\02.GreedyDwarf\bin\02.GreedyDwarf.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\02.GreedyDwarf\bin\02.GreedyDwarf.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\02.GreedyDwarf\bin\02.GreedyDwarf.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JSExamPreparation\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.pdb

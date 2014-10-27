@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\02.CreateDivsMovingInCircularPath\bin\02.CreateDivsMovingInCircularPath.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\02.CreateDivsMovingInCircularPath\bin\02.CreateDivsMovingInCircularPath.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\02.CreateDivsMovingInCircularPath\bin\02.CreateDivsMovingInCircularPath.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\02.CreateDivsMovingInCircularPath\obj\Debug\02.CreateDivsMovingInCircularPath.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\DomOperations\02.CreateDivsMovingInCircularPath\obj\Debug\02.CreateDivsMovingInCircularPath.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\02.CreateDivsMovingInCircularPath\obj\Debug\02.CreateDivsMovingInCircularPath.csprojResolveAssemblyReference.cache

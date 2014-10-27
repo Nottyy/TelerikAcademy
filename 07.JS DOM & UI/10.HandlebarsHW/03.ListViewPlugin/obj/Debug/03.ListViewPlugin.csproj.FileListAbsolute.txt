@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HandlebarsHW\03.ListViewPlugin\bin\03.ListViewPlugin.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HandlebarsHW\03.ListViewPlugin\bin\03.ListViewPlugin.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HandlebarsHW\03.ListViewPlugin\bin\03.ListViewPlugin.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HandlebarsHW\03.ListViewPlugin\obj\Debug\03.ListViewPlugin.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HandlebarsHW\03.ListViewPlugin\obj\Debug\03.ListViewPlugin.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HandlebarsHW\03.ListViewPlugin\obj\Debug\03.ListViewPlugin.pdb

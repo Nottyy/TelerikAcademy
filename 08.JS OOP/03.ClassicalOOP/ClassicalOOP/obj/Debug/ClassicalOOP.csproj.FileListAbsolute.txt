@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ClassicalOOP\ClassicalOOP\bin\ClassicalOOP.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ClassicalOOP\ClassicalOOP\bin\ClassicalOOP.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ClassicalOOP\ClassicalOOP\bin\ClassicalOOP.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ClassicalOOP\ClassicalOOP\obj\Debug\ClassicalOOP.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ClassicalOOP\ClassicalOOP\obj\Debug\ClassicalOOP.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ClassicalOOP\ClassicalOOP\obj\Debug\ClassicalOOP.pdb

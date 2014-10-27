@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\04.CompareSortAlgorithms\bin\Debug\04.CompareSortAlgorithms.exe.config
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\04.CompareSortAlgorithms\bin\Debug\04.CompareSortAlgorithms.exe
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\04.CompareSortAlgorithms\bin\Debug\04.CompareSortAlgorithms.pdb
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\04.CompareSortAlgorithms\obj\Debug\04.CompareSortAlgorithms.exe
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\04.CompareSortAlgorithms\obj\Debug\04.CompareSortAlgorithms.pdb
-C:\Users\Toshiba\Desktop\Code-Tuning-and-Optimization-Homework\04.CompareSortAlgorithms\obj\Debug\04.CompareSortAlgorithms.csprojResolveAssemblyReference.cache

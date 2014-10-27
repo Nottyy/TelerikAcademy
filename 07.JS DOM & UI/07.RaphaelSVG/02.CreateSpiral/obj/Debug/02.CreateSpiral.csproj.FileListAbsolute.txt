@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\02.CreateSpiral\bin\02.CreateSpiral.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\02.CreateSpiral\bin\02.CreateSpiral.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\02.CreateSpiral\bin\02.CreateSpiral.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\02.CreateSpiral\obj\Debug\02.CreateSpiral.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\02.CreateSpiral\obj\Debug\02.CreateSpiral.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\RaphaelSVG\02.CreateSpiral\obj\Debug\02.CreateSpiral.pdb

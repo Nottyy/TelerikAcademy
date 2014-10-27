@@ -1,5 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\04.SetBackgroundColor\bin\04.SetBackgroundColor.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\04.SetBackgroundColor\bin\04.SetBackgroundColor.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\04.SetBackgroundColor\bin\04.SetBackgroundColor.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\04.SetBackgroundColor\obj\Debug\04.SetBackgroundColor.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\JqueryHW\04.SetBackgroundColor\obj\Debug\04.SetBackgroundColor.pdb

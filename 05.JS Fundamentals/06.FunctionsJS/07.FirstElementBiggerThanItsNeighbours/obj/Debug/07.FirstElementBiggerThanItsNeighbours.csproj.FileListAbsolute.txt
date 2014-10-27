@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\07.FirstElementBiggerThanItsNeighbours\bin\07.FirstElementBiggerThanItsNeighbours.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\07.FirstElementBiggerThanItsNeighbours\bin\07.FirstElementBiggerThanItsNeighbours.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\07.FirstElementBiggerThanItsNeighbours\bin\07.FirstElementBiggerThanItsNeighbours.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\07.FirstElementBiggerThanItsNeighbours\obj\Debug\07.FirstElementBiggerThanItsNeighbours.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\07.FirstElementBiggerThanItsNeighbours\obj\Debug\07.FirstElementBiggerThanItsNeighbours.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\FunctionsJS\07.FirstElementBiggerThanItsNeighbours\obj\Debug\07.FirstElementBiggerThanItsNeighbours.pdb

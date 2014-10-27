@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\03.ChangeTextAreaStyle\bin\03.ChangeTextAreaStyle.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\03.ChangeTextAreaStyle\bin\03.ChangeTextAreaStyle.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\03.ChangeTextAreaStyle\bin\03.ChangeTextAreaStyle.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\03.ChangeTextAreaStyle\obj\Debug\03.ChangeTextAreaStyle.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\03.ChangeTextAreaStyle\obj\Debug\03.ChangeTextAreaStyle.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\DomOperations\03.ChangeTextAreaStyle\obj\Debug\03.ChangeTextAreaStyle.pdb

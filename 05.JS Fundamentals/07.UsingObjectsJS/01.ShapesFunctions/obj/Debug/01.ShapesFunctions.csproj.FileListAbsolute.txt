@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\01.ShapesFunctions\bin\01.ShapesFunctions.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\01.ShapesFunctions\bin\01.ShapesFunctions.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\01.ShapesFunctions\bin\01.ShapesFunctions.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\01.ShapesFunctions\obj\Debug\01.ShapesFunctions.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\01.ShapesFunctions\obj\Debug\01.ShapesFunctions.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\01.ShapesFunctions\obj\Debug\01.ShapesFunctions.pdb

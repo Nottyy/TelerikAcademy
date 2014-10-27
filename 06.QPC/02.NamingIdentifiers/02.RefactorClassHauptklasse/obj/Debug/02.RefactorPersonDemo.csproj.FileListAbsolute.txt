@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\02.RefactorClassHauptklasse\obj\Debug\02.RefactorPersonDemo.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\02.RefactorClassHauptklasse\bin\Debug\02.RefactorClassHauptklasse.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\02.RefactorClassHauptklasse\bin\Debug\02.RefactorClassHauptklasse.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\02.RefactorClassHauptklasse\bin\Debug\02.RefactorClassHauptklasse.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\02.RefactorClassHauptklasse\obj\Debug\02.RefactorClassHauptklasse.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\NamingIdentifiers\02.RefactorClassHauptklasse\obj\Debug\02.RefactorClassHauptklasse.pdb

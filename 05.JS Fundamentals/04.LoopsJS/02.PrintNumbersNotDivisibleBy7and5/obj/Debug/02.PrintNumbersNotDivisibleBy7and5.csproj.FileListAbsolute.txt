@@ -1,5 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\02.PrintNumbersNotDivisibleBy7and5\bin\02.PrintNumbersNotDivisibleBy7and5.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\02.PrintNumbersNotDivisibleBy7and5\bin\02.PrintNumbersNotDivisibleBy7and5.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\02.PrintNumbersNotDivisibleBy7and5\bin\02.PrintNumbersNotDivisibleBy7and5.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\02.PrintNumbersNotDivisibleBy7and5\obj\Debug\02.PrintNumbersNotDivisibleBy7and5.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\LoopsJS\02.PrintNumbersNotDivisibleBy7and5\obj\Debug\02.PrintNumbersNotDivisibleBy7and5.pdb

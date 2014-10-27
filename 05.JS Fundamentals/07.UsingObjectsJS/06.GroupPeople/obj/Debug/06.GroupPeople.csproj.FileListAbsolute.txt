@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\06.GroupPeople\bin\06.GroupPeople.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\06.GroupPeople\bin\06.GroupPeople.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\06.GroupPeople\bin\06.GroupPeople.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\06.GroupPeople\obj\Debug\06.GroupPeople.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\06.GroupPeople\obj\Debug\06.GroupPeople.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\UsingObjectsJS\06.GroupPeople\obj\Debug\06.GroupPeople.pdb

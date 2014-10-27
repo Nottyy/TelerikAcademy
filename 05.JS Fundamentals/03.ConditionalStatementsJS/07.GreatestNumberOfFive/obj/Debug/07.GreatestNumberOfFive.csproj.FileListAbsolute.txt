@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\07.GreatestNumberOfFive\bin\07.GreatestNumberOfFive.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\07.GreatestNumberOfFive\bin\07.GreatestNumberOfFive.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\07.GreatestNumberOfFive\bin\07.GreatestNumberOfFive.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\07.GreatestNumberOfFive\obj\Debug\07.GreatestNumberOfFive.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\07.GreatestNumberOfFive\obj\Debug\07.GreatestNumberOfFive.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsJS\07.GreatestNumberOfFive\obj\Debug\07.GreatestNumberOfFive.pdb

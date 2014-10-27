@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\08.URLTagReplacing\bin\08.URLTagReplacing.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\08.URLTagReplacing\bin\08.URLTagReplacing.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\08.URLTagReplacing\bin\08.URLTagReplacing.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\08.URLTagReplacing\obj\Debug\08.URLTagReplacing.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\08.URLTagReplacing\obj\Debug\08.URLTagReplacing.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\StringsJS\08.URLTagReplacing\obj\Debug\08.URLTagReplacing.pdb

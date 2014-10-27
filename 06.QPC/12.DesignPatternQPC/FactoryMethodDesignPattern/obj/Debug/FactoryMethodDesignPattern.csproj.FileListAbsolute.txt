@@ -1,5 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\DesignPatternQPC\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.pdb

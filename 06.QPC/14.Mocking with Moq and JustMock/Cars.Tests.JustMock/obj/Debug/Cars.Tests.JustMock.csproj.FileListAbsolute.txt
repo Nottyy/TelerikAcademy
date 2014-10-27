@@ -1,9 +1,0 @@
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.pdb
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\bin\Debug\Cars.dll
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\bin\Debug\Moq.dll
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\bin\Debug\Cars.pdb
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\bin\Debug\Moq.xml
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.dll
-C:\Users\Toshiba\Desktop\Mocking with Moq and JustMock-Demos (1)\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.pdb
