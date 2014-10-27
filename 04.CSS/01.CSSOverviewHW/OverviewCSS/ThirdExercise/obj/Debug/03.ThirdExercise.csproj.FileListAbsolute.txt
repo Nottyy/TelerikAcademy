@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OverviewCSS\ThirdExercise\bin\ThirdExercise.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OverviewCSS\ThirdExercise\bin\ThirdExercise.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OverviewCSS\ThirdExercise\bin\ThirdExercise.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OverviewCSS\ThirdExercise\obj\Debug\03.ThirdExercise.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OverviewCSS\ThirdExercise\obj\Debug\ThirdExercise.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OverviewCSS\ThirdExercise\obj\Debug\ThirdExercise.pdb

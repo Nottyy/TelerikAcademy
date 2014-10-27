@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe.config
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.pdb
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.pdb

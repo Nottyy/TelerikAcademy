@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Snake</title>
+    <script src="libs/kinetic-v5.1.0.min.js"></script>
+    <script src="scripts/Snake/Class.js"></script>
+    <script src="scripts/Snake/drawer.js"></script>
+    <script src="scripts/Snake/Score.js"></script>
+    <script src="scripts/Snake/Engine.js"></script>
+    <style>
+        body, div {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <button id="start">Start Game</button>
+        <div>
+            <p>Use Arrows to control Snake</p>
+            <p> p or Puase for pause </p>
+        </div>
+    </div>
+    <script>
+        document.getElementById('start').addEventListener('click', Snake.Engine('container').startGame);
+    </script>
+</body>
+</html>

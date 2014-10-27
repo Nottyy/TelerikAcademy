@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>RemoveAllElementsWithAGivenValue</title>
+    <script>
+        function removeElementsInAnArray(array, elementValueToRemove) {
+            console.log('Initial array: ' + array);
+
+            Array.prototype.remove = function(elementValueToRemove) {
+
+                var size = this.length;
+
+                for (var i = 0; i < size; i++) {
+                    if (this[i] === elementValueToRemove) {
+                        this.splice(i, 1);
+                        size--;
+                        i--;
+                    }
+                }
+
+                return this;
+            }
+
+            var finalArr = array.remove(elementValueToRemove);
+
+            for (var i = 0; i < finalArr.length; i++) {
+                console.log(finalArr[i] + " ");
+            }
+        }
+    </script>
+</head>
+<body onload="removeElementsInAnArray([1, 2, 3, 2, 2, 2, 2, 2, 4, 5, 6, 2], 2)">
+    <div>Remove all elements in an array with given value. See the console for the result!</div>
+</body>
+</html>

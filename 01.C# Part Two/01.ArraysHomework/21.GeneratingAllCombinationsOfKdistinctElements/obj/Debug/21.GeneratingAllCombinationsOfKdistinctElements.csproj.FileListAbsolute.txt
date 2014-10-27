@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\21.GeneratingAllCombinationsOfKdistinctElements\bin\Debug\21.GeneratingAllCombinationsOfKdistinctElements.exe.config
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\21.GeneratingAllCombinationsOfKdistinctElements\bin\Debug\21.GeneratingAllCombinationsOfKdistinctElements.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\21.GeneratingAllCombinationsOfKdistinctElements\bin\Debug\21.GeneratingAllCombinationsOfKdistinctElements.pdb
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\21.GeneratingAllCombinationsOfKdistinctElements\obj\Debug\21.GeneratingAllCombinationsOfKdistinctElements.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\21.GeneratingAllCombinationsOfKdistinctElements\obj\Debug\21.GeneratingAllCombinationsOfKdistinctElements.exe
-C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\21.GeneratingAllCombinationsOfKdistinctElements\obj\Debug\21.GeneratingAllCombinationsOfKdistinctElements.pdb

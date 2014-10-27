@@ -1,5 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\SecondExerciseWebPage\bin\SecondExerciseWebPage.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\SecondExerciseWebPage\bin\SecondExerciseWebPage.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\SecondExerciseWebPage\bin\SecondExerciseWebPage.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\SecondExerciseWebPage\obj\Debug\SecondExerciseWebPage.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSPresentation\SecondExerciseWebPage\obj\Debug\SecondExerciseWebPage.pdb

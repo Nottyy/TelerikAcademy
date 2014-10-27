@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ShapesFunctions</title>
+    <script>
+        function getPoint(x, y) {
+            return {
+                x: x,
+                y: y
+            }
+        }
+
+        function getLine(point1, point2) {
+            return {
+                PointA: point1,
+                PointB: point2
+            }
+        }
+
+        function calculateDistance(point1, point2) {
+            var firstPart = parseInt(Math.abs(point1.x - point2.x) * Math.abs(point1.x - point2.x));
+            var secondPart = parseInt(Math.abs(point1.y - point2.y) * Math.abs(point1.y - point2.y));
+
+            return firstPart + secondPart;
+        }
+
+        function canFormATriangle(line1, line2, line3) {
+            var a = calculateDistance(line1.PointA, line1.PointB);
+            var b = calculateDistance(line2.PointA, line2.PointB);
+            var c = calculateDistance(line3.PointA, line3.PointB);
+            if (a + b > c && a + c > b && b + c > a) {
+                console.log('Is it possible to form a triangle - true');
+            } else {
+                console.log('Is it possible to form a triangle - false');
+            }
+        }
+
+        function checkResults() {
+            var p1 = getPoint(2, 3);
+            var p2 = getPoint(2, 4);
+            var p3 = getPoint(3, 5);
+
+            var l1 = getLine(p1, p2);
+            var l2 = getLine(p2, p3);
+            var l3 = getLine(p1, p3);
+
+            canFormATriangle(l1, l2, l3);
+        }
+    </script>
+</head>
+<body onload="checkResults()">
+    <div>Shapes functions. Is it possible that three lines can form a triangle? See the console for the result!</div>
+</body>
+</html>

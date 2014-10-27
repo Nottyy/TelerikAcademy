@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\01.Zerg\bin\Debug\01.Zerg.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\01.Zerg\obj\Debug\01.Zerg.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\01.Zerg\bin\Debug\01.Zerg.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\01.Zerg\bin\Debug\01.Zerg.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\01.Zerg\obj\Debug\01.Zerg.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\01.Zerg\obj\Debug\01.Zerg.pdb

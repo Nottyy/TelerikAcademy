@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>GetPalindromesFromGivenText</title>
+</head>
+<body>
+    <h3>
+        Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe". </br>
+        See the console for the results!
+    </h3>
+    <script>
+        var text = 'Lamal live in yellow submarine. Arsenal ABBA, nemam dohod!';
+        console.log('Original text: ' + text);
+        extractPalindromes(text);
+
+        function extractPalindromes(text) {
+            text = text.replace('.', ' ').replace('!', ' ').replace('?', ' ').replace(',', ' ');
+            text = text.toLowerCase();
+            var arrayWordsInText = text.split(' ');
+            var isPalindrome = false;
+            var palindromeWords = '';
+
+            for (var i = 0, len = arrayWordsInText.length; i < len; i++) {
+                var currentWord = arrayWordsInText[i];
+                var currentWordLen = currentWord.length;
+
+                for (var j = 0; j < currentWordLen / 2; j++) {
+                    if (currentWord[j] === currentWord[currentWordLen - 1 - j]) {
+                        isPalindrome = true;
+                    }
+                    else {
+                        isPalindrome = false;
+                        break;
+                    }
+                }
+
+                if (isPalindrome) {
+                    palindromeWords += currentWord + ' ';
+                }
+            }
+
+            console.log('Extracted palindrome words: ' + palindromeWords);
+        }
+    </script>
+</body>
+</html>

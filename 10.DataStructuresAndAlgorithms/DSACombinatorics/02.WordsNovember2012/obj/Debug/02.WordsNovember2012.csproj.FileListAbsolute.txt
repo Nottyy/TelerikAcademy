@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\02.WordsNovember2012\bin\Debug\02.WordsNovember2012.exe.config
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\02.WordsNovember2012\bin\Debug\02.WordsNovember2012.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\02.WordsNovember2012\bin\Debug\02.WordsNovember2012.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\02.WordsNovember2012\obj\Debug\02.WordsNovember2012.exe
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\02.WordsNovember2012\obj\Debug\02.WordsNovember2012.pdb
-C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\DataStructuresAndAlgorithms\02.WordsNovember2012\obj\Debug\02.WordsNovember2012.csprojResolveAssemblyReference.cache

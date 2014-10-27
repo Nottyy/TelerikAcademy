@@ -1,5 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseThreeSecondDesign\bin\ExerciseThreeSecondDesign.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseThreeSecondDesign\bin\ExerciseThreeSecondDesign.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseThreeSecondDesign\obj\Debug\03.ExerciseThreeSecondDesign.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseThreeSecondDesign\obj\Debug\ExerciseThreeSecondDesign.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseThreeSecondDesign\obj\Debug\ExerciseThreeSecondDesign.pdb

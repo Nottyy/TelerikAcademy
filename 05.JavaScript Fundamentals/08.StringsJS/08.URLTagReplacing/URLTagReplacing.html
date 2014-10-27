@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>URLTagReplacing</title>
+</head>
+<body>
+    <h3>
+        Write a JavaScript function that replaces in a HTML document given as string all the tags "< a href="…">…</a>" with corresponding tags [URL=…]…/URL]. </br>
+        See the console for the results!
+    </h3>
+
+    <script>
+        var urlText = '<p>Please visit <a href="www.academy.telerik.com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>';
+        console.log('Original text:\n     ' + urlText);
+        urlReplacing(urlText);
+
+        function urlReplacing(urlText) {
+            var startIndex = urlText.indexOf('<a href="');
+
+            while (startIndex > -1) {
+                urlText = urlText.replace('<a href="', '[URL=');
+                urlText = urlText.replace('">', ']');
+                urlText = urlText.replace('</a>', '[/URL]');
+                startIndex = urlText.indexOf('<a href="', startIndex + 1);
+            }
+
+            console.log('Text after replacing:\n     ' + urlText);
+        }
+    </script>
+</body>
+</html>

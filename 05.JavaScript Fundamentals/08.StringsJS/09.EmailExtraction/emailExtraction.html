@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>EmailExtraction</title>
+</head>
+<body>
+    <h3>
+        Write a function for extracting all email addresses from given text. All substrings that match the format < identifier>@< host>…< domain> should be recognized as emails. Return the emails as array of strings.
+    </h3>
+
+    <script>
+        var text = "These are my emails: mincho.minchev@mincho.com , asparuh.nikodimov@nikodim.com "
+        emailExtraction(text);
+
+        function emailExtraction(text) {
+            var index = text.indexOf('@');
+            var emailsArray = [];
+
+            while (index > - 1) {
+                var identifier = text.substring(text.lastIndexOf(' ', index), index);
+                var host = text.substring(index + 1, text.indexOf('.', index));
+                var domain = text.substring(text.indexOf('.', index), text.indexOf(' ', index));
+                var email = identifier + '@' + host + domain;
+                emailsArray.push(email);
+
+                index = text.indexOf('@', index + 1);
+            }
+
+            printEmails(emailsArray);
+        }
+
+        function printEmails(emailsArray) {
+            for (var email in emailsArray) {
+                console.log(emailsArray[email]);
+            }
+        }
+    </script>
+</body>
+</html>

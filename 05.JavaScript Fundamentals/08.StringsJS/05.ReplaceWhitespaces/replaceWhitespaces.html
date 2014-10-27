@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ReplaceWhitespaces</title>
+</head>
+<body onload="replaceAllWhiteSpaces(text, '&nbsp;')">
+    <h3>
+        Write a function that replaces non breaking white-spaces in a text with &nbsp; </br>
+        See the results on the console.
+    </h3>
+
+    <script>
+        var text = 'Write a function that replaces non breaking white-spaces in a text with';
+
+        function replaceAllWhiteSpaces(text, newSymbol) {
+            var result = '';
+
+            for (var i = 0; i < text.length; i++) {
+                if (text[i] == ' ') {
+                    result += newSymbol;
+                }
+                else {
+                    result += text[i];
+                }
+            }
+            
+            console.log(result);
+        }
+    </script>
+</body>
+</html>

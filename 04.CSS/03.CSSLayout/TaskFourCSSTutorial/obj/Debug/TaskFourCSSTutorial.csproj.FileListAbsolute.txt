@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskFourCSSTutorial\bin\TaskFourCSSTutorial.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskFourCSSTutorial\bin\TaskFourCSSTutorial.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskFourCSSTutorial\bin\TaskFourCSSTutorial.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskFourCSSTutorial\obj\Debug\TaskFourCSSTutorial.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskFourCSSTutorial\obj\Debug\TaskFourCSSTutorial.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskFourCSSTutorial\obj\Debug\TaskFourCSSTutorial.pdb

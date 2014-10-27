@@ -1,5 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseTwoFirstDesign\bin\ExerciseTwoFirstDesign.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseTwoFirstDesign\bin\ExerciseTwoFirstDesign.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseTwoFirstDesign\obj\Debug\ExerciseTwoFirstDesign.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseTwoFirstDesign\obj\Debug\ExerciseTwoFirstDesign.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\SemanticHTML\ExerciseTwoFirstDesign\bin\ExerciseTwoFirstDesign.dll.config

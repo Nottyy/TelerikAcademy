@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseFour\bin\ExerciseFour.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseFour\bin\ExerciseFour.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseFour\bin\ExerciseFour.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseFour\obj\Debug\04ExerciseFour.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseFour\obj\Debug\ExerciseFour.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\HTMLForms\ExerciseFour\obj\Debug\ExerciseFour.pdb

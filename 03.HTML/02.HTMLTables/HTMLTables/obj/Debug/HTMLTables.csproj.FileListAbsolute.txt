@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\HTMLTables\HTMLTables\bin\HTMLTables.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\HTMLTables\HTMLTables\bin\HTMLTables.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\HTMLTables\HTMLTables\bin\HTMLTables.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\HTMLTables\HTMLTables\obj\Debug\HTMLTables.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\HTMLTables\HTMLTables\obj\Debug\HTMLTables.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\HTMLTables\HTMLTables\obj\Debug\HTMLTables.pdb

@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\02.RectangularMatrixMaxSumOfElements\bin\Debug\02.RectangularMatrixMaxSumOfElements.exe.config
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\02.RectangularMatrixMaxSumOfElements\bin\Debug\02.RectangularMatrixMaxSumOfElements.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\02.RectangularMatrixMaxSumOfElements\bin\Debug\02.RectangularMatrixMaxSumOfElements.pdb
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\02.RectangularMatrixMaxSumOfElements\obj\Debug\02.RectangularMatrixMaxSumOfElements.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\02.RectangularMatrixMaxSumOfElements\obj\Debug\02.RectangularMatrixMaxSumOfElements.exe
-E:\My Space\TelerikCourse\MultidimensionalArraysHW\02.RectangularMatrixMaxSumOfElements\obj\Debug\02.RectangularMatrixMaxSumOfElements.pdb

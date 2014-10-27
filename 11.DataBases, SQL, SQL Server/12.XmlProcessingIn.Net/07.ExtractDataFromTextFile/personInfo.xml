@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person>
+    <name>Stoian Ivanov</name>
+    <address>Rakovska 21</address>
+    <phone>0883232323</phone>
+  </person>
+  <person>
+    <name>Penko Penkov</name>
+    <address>Botev 2</address>
+    <phone>0999232323</phone>
+  </person>
+  <person>
+    <name>Asparuh Asparuhov</name>
+    <address>Asparuhovo 2</address>
+    <phone>09102390</phone>
+  </person>
+</people>

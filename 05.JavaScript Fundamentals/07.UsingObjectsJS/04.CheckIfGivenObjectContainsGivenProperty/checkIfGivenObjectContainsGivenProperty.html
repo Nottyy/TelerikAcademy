@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        (function () {
+            var prop = "push";
+
+            var obj = new Array();
+
+            if (hasProperty(obj, prop)) {
+                console.log('The object has a property { ' + prop + ' }');
+            }
+            else {
+                console.log('The object doesn"t have a property { ' + prop + ' }');
+            }
+        })();
+
+        function hasProperty(obj, prop) {
+            if (obj.hasOwnProperty(prop)) {
+                return true;
+            }
+
+            if (prop in obj) {
+                return true;
+            }
+
+            return false;
+        }
+    </script>
+</body>
+</html>

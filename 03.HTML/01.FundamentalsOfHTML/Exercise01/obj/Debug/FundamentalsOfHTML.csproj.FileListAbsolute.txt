@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\Exercise01\Exercise01\bin\Exercise01.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\Exercise01\Exercise01\bin\Exercise01.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\Exercise01\Exercise01\bin\Exercise01.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\Exercise01\Exercise01\obj\Debug\FundamentalsOfHTML.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\Exercise01\Exercise01\obj\Debug\Exercise01.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\Exercise01\Exercise01\obj\Debug\Exercise01.pdb

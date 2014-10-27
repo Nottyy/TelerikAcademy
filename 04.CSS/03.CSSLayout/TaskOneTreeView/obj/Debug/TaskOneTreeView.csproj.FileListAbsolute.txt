@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskOneTreeView\bin\TaskOneTreeView.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskOneTreeView\bin\TaskOneTreeView.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskOneTreeView\bin\TaskOneTreeView.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskOneTreeView\obj\Debug\TaskOneTreeView.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskOneTreeView\obj\Debug\TaskOneTreeView.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\CSSLayout\TaskOneTreeView\obj\Debug\TaskOneTreeView.pdb

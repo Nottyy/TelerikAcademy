@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SelectionOfDivsInOtherDivs</title>
+</head>
+<body>
+    <div>
+        1. Write a script that selects all the div nodes that are
+        directly inside other div elements
+    </div>
+    <input type="text" id="count">
+    <label for="count" id="create-divs">Enter number of DIVs to be created and click this text</label>
+    <div id="container"></div>
+    <button id="query-selector">Use querySelectorAll</button>
+    <button id="get-elements-by">Use getElementsByTagName</button>
+    <div>Selected DIVs are printed to the console.</div>
+
+    <script>
+        function createDivs() {
+            var numberOfDivs = (document.getElementById('count').value || 5) | 0;
+            var docFragment = document.createDocumentFragment();
+
+            for (var i = 0; i < numberOfDivs; i++) {
+                var newDiv = document.createElement('div');
+                newDiv.innerText = i;
+
+                docFragment.appendChild(newDiv);
+            }
+
+            var container = document.getElementById('container');
+            container.innerHTML = '';
+            container.appendChild(docFragment);
+        }
+
+        var onClickDivsCreation = document.getElementById('create-divs');
+        onClickDivsCreation.addEventListener("click", createDivs);
+
+        function querySelectorAll() {
+            var divsInDivs = document.querySelectorAll('div > div');
+            var divsInDivsCount = divsInDivs.length;
+
+            for (var i = 0; i < divsInDivsCount; i++) {
+                if (divsInDivs[i].parentElement instanceof HTMLDivElement) {
+                    console.log("Element position: " + divsInDivs[i].innerText);
+                }
+            }
+        }
+
+        function getElementsBy() {
+            var allDivs = document.getElementsByTagName('div');
+            var allDivsCount = allDivs.length;
+
+            for (var i = 0; i < allDivsCount; i++) {
+                if(allDivs[i].parentElement instanceof HTMLDivElement){
+                    console.log("Element position: " + allDivs[i].innerText);
+                }
+            }
+        }
+
+        var querySelector = document.getElementById('query-selector');
+        querySelector.addEventListener("click", querySelectorAll);
+
+        var getElements = document.getElementById('get-elements-by');
+        getElements.addEventListener("click", getElementsBy);
+    </script>
+</body>
+</html>

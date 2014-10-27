@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h3>
+        Write a function that formats a string using placeholders: </br>
+        var str = stringFormat('Hello {0}!', 'Peter'); </br>
+        //str = 'Hello Peter!';
+
+    </h3>
+
+    <script>
+        pritnTheSubstitute();
+
+        function pritnTheSubstitute() {
+            var text = 'Hello {0} {1} {2} {3}';
+            console.log('Initial text: ' + text);
+
+            var words = 'Peter, I, am, Gosho';
+            console.log('Initial words: ' + words);
+
+            var wordsArr = words.split(", ");
+            var formated = stringFormat(text, wordsArr);
+
+            console.log('Formated text: ' + formated);
+        }
+
+        function stringFormat(text, wordsArr) {
+            var placeholder = '';
+            var index = text.indexOf("{");
+
+            while (index > -1) {
+                var number = parseInt(text.substr(index + 1, 1));
+                placeholder = '{' + number + '}';
+                text = text.replace(placeholder, wordsArr[number]);
+                index = text.indexOf("{", index + 1);
+            }
+
+            text = text.replace('text')
+            
+            return text;
+        }
+    </script>
+</body>
+</html>
