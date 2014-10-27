@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\02.SegmentDigits7\bin\Debug\02.SegmentDigits7.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\02.SegmentDigits7\bin\Debug\02.SegmentDigits7.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\02.SegmentDigits7\bin\Debug\02.SegmentDigits7.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\02.SegmentDigits7\obj\Debug\02.SegmentDigits7.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\02.SegmentDigits7\obj\Debug\02.SegmentDigits7.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\02.SegmentDigits7\obj\Debug\02.SegmentDigits7.pdb

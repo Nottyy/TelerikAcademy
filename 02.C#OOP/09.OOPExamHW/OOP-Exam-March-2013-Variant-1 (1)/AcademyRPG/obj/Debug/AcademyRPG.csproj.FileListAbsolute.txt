@@ -1,7 +1,0 @@
-C:\Users\Toshiba\Desktop\OOP-Exam-March-2013-Variant-1 (1)\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.exe
-C:\Users\Toshiba\Desktop\OOP-Exam-March-2013-Variant-1 (1)\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.pdb
-C:\Users\Toshiba\Desktop\OOP-Exam-March-2013-Variant-1 (1)\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Desktop\OOP-Exam-March-2013-Variant-1 (1)\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.exe
-C:\Users\Toshiba\Desktop\OOP-Exam-March-2013-Variant-1 (1)\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.pdb
-C:\Users\Toshiba\Desktop\OOPExamHW\OOP-Exam-March-2013-Variant-1 (1)\AcademyRPG\obj\Debug\AcademyRPG.exe
-C:\Users\Toshiba\Desktop\OOPExamHW\OOP-Exam-March-2013-Variant-1 (1)\AcademyRPG\obj\Debug\AcademyRPG.pdb

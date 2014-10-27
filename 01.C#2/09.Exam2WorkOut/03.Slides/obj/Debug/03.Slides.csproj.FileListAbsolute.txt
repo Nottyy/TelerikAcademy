@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Slides\bin\Debug\03.Slides.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Slides\bin\Debug\03.Slides.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Slides\bin\Debug\03.Slides.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Slides\obj\Debug\03.Slides.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Slides\obj\Debug\03.Slides.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Slides\obj\Debug\03.Slides.pdb

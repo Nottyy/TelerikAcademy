@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Indices\bin\Debug\03.Indices.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Indices\bin\Debug\03.Indices.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Indices\bin\Debug\03.Indices.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Indices\obj\Debug\03.Indices.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Indices\obj\Debug\03.Indices.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Indices\obj\Debug\03.Indices.pdb

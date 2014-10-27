@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Tubes\bin\Debug\03.Tubes.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Tubes\bin\Debug\03.Tubes.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Tubes\bin\Debug\03.Tubes.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Tubes\obj\Debug\03.Tubes.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Tubes\obj\Debug\03.Tubes.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\03.Tubes\obj\Debug\03.Tubes.pdb

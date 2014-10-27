@@ -1,5 +1,0 @@
-C:\Users\Toshiba\Desktop\1. Document System_Условие на задачата (3)\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Desktop\1. Document System_Условие на задачата (3)\bin\Debug\DocumentSystem.exe
-C:\Users\Toshiba\Desktop\1. Document System_Условие на задачата (3)\bin\Debug\DocumentSystem.pdb
-C:\Users\Toshiba\Desktop\1. Document System_Условие на задачата (3)\obj\Debug\DocumentSystem.exe
-C:\Users\Toshiba\Desktop\1. Document System_Условие на задачата (3)\obj\Debug\DocumentSystem.pdb

@@ -1,6 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\06.PointWithinACircle\bin\06.PointWithinACircle.dll.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\06.PointWithinACircle\bin\06.PointWithinACircle.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\06.PointWithinACircle\bin\06.PointWithinACircle.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\06.PointWithinACircle\obj\Debug\06.PointWithinACircle.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\06.PointWithinACircle\obj\Debug\06.PointWithinACircle.dll
-C:\Users\Toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\06.PointWithinACircle\obj\Debug\06.PointWithinACircle.pdb

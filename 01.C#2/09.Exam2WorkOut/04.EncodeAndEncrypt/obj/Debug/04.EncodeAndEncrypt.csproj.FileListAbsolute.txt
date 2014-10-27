@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\04.EncodeAndEncrypt\bin\Debug\04.EncodeAndEncrypt.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\04.EncodeAndEncrypt\bin\Debug\04.EncodeAndEncrypt.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\04.EncodeAndEncrypt\bin\Debug\04.EncodeAndEncrypt.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\04.EncodeAndEncrypt\obj\Debug\04.EncodeAndEncrypt.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\04.EncodeAndEncrypt\obj\Debug\04.EncodeAndEncrypt.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\04.EncodeAndEncrypt\obj\Debug\04.EncodeAndEncrypt.csprojResolveAssemblyReference.cache

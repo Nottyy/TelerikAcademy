@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\CommonTypeSystems\4.CheckForNullExceptionForAgeInClassPerson\bin\Debug\4.CheckForNullExceptionForAgeInClassPerson.exe.config
-E:\My Space\TelerikCourse\CommonTypeSystems\4.CheckForNullExceptionForAgeInClassPerson\bin\Debug\4.CheckForNullExceptionForAgeInClassPerson.exe
-E:\My Space\TelerikCourse\CommonTypeSystems\4.CheckForNullExceptionForAgeInClassPerson\bin\Debug\4.CheckForNullExceptionForAgeInClassPerson.pdb
-E:\My Space\TelerikCourse\CommonTypeSystems\4.CheckForNullExceptionForAgeInClassPerson\obj\Debug\4.CheckForNullExceptionForAgeInClassPerson.exe
-E:\My Space\TelerikCourse\CommonTypeSystems\4.CheckForNullExceptionForAgeInClassPerson\obj\Debug\4.CheckForNullExceptionForAgeInClassPerson.pdb
-E:\My Space\TelerikCourse\CommonTypeSystems\4.CheckForNullExceptionForAgeInClassPerson\obj\Debug\4.CheckForNullExceptionForAgeInClassPerson.csprojResolveAssemblyReference.cache

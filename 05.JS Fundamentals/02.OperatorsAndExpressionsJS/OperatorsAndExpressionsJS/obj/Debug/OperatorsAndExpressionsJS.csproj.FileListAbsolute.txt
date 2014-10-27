@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\OperatorsAndExpressionsJS\bin\OperatorsAndExpressionsJS.dll.config
-c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\OperatorsAndExpressionsJS\bin\OperatorsAndExpressionsJS.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\OperatorsAndExpressionsJS\bin\OperatorsAndExpressionsJS.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\OperatorsAndExpressionsJS\obj\Debug\OperatorsAndExpressionsJS.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\OperatorsAndExpressionsJS\obj\Debug\OperatorsAndExpressionsJS.dll
-c:\users\toshiba\documents\visual studio 2013\Projects\OperatorsAndExpressionsJS\OperatorsAndExpressionsJS\obj\Debug\OperatorsAndExpressionsJS.pdb

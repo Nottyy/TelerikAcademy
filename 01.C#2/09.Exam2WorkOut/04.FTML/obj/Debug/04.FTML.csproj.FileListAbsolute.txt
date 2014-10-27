@@ -1,6 +1,0 @@
-E:\My Space\TelerikCourse\Exam2WorkOut\04.FTML\obj\Debug\04.FTML.csprojResolveAssemblyReference.cache
-E:\My Space\TelerikCourse\Exam2WorkOut\04.FTML\bin\Debug\04.FTML.exe.config
-E:\My Space\TelerikCourse\Exam2WorkOut\04.FTML\bin\Debug\04.FTML.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\04.FTML\bin\Debug\04.FTML.pdb
-E:\My Space\TelerikCourse\Exam2WorkOut\04.FTML\obj\Debug\04.FTML.exe
-E:\My Space\TelerikCourse\Exam2WorkOut\04.FTML\obj\Debug\04.FTML.pdb
