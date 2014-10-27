@@ -1,5 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\16.GenerateXsdSchema\bin\Debug\16.GenerateXsdSchema.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\16.GenerateXsdSchema\bin\Debug\16.GenerateXsdSchema.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\16.GenerateXsdSchema\bin\Debug\16.GenerateXsdSchema.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\16.GenerateXsdSchema\obj\Debug\16.GenerateXsdSchema.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\16.GenerateXsdSchema\obj\Debug\16.GenerateXsdSchema.pdb

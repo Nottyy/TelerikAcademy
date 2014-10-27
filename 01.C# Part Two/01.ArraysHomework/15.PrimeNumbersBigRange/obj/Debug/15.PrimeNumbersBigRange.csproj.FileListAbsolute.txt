@@ -1,0 +1,9 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\15.PrimeNumbersBigRange\bin\Debug\15.PrimeNumbersBigRange.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\15.PrimeNumbersBigRange\bin\Debug\15.PrimeNumbersBigRange.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\15.PrimeNumbersBigRange\bin\Debug\15.PrimeNumbersBigRange.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\15.PrimeNumbersBigRange\obj\Debug\15.PrimeNumbersBigRange.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\15.PrimeNumbersBigRange\obj\Debug\15.PrimeNumbersBigRange.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\15.PrimeNumbersBigRange\obj\Debug\15.PrimeNumbersBigRange.pdb
+E:\My Space\TelerikCourse\Homeworks\01.C#2\01.ArraysHomework\15.PrimeNumbersBigRange\bin\Debug\15.PrimeNumbersBigRange.exe.config
+E:\My Space\TelerikCourse\Homeworks\01.C#2\01.ArraysHomework\15.PrimeNumbersBigRange\obj\Debug\15.PrimeNumbersBigRange.exe
+E:\My Space\TelerikCourse\Homeworks\01.C#2\01.ArraysHomework\15.PrimeNumbersBigRange\obj\Debug\15.PrimeNumbersBigRange.pdb

@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\19.GeneratingPermutations\bin\Debug\19.GeneratingPermutations.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\19.GeneratingPermutations\bin\Debug\19.GeneratingPermutations.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\19.GeneratingPermutations\bin\Debug\19.GeneratingPermutations.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\19.GeneratingPermutations\obj\Debug\19.GeneratingPermutations.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\19.GeneratingPermutations\obj\Debug\19.GeneratingPermutations.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\02.ArrayComparison\bin\Debug\02.ArrayComparison.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\02.ArrayComparison\bin\Debug\02.ArrayComparison.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\02.ArrayComparison\bin\Debug\02.ArrayComparison.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\02.ArrayComparison\obj\Debug\02.ArrayComparison.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\02.ArrayComparison\obj\Debug\02.ArrayComparison.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\02.ArrayComparison\obj\Debug\02.ArrayComparison.pdb

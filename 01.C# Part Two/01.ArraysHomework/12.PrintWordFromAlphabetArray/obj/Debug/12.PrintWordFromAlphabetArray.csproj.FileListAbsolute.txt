@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\12.PrintWordFromAlphabetArray\bin\Debug\12.PrintWordFromAlphabetArray.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\12.PrintWordFromAlphabetArray\bin\Debug\12.PrintWordFromAlphabetArray.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\12.PrintWordFromAlphabetArray\bin\Debug\12.PrintWordFromAlphabetArray.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\12.PrintWordFromAlphabetArray\obj\Debug\12.PrintWordFromAlphabetArray.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\12.PrintWordFromAlphabetArray\obj\Debug\12.PrintWordFromAlphabetArray.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\12.PrintWordFromAlphabetArray\obj\Debug\12.PrintWordFromAlphabetArray.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\06.ExtractAllSongsWithXDocumentAndLinq\bin\Debug\06.ExtractAllSongsWithXDocumentAndLinq.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\06.ExtractAllSongsWithXDocumentAndLinq\bin\Debug\06.ExtractAllSongsWithXDocumentAndLinq.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\06.ExtractAllSongsWithXDocumentAndLinq\bin\Debug\06.ExtractAllSongsWithXDocumentAndLinq.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\06.ExtractAllSongsWithXDocumentAndLinq\obj\Debug\06.ExtractAllSongsWithXDocumentAndLinq.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\06.ExtractAllSongsWithXDocumentAndLinq\obj\Debug\06.ExtractAllSongsWithXDocumentAndLinq.pdb

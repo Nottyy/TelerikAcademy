@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\05.MaxIncreasingSequenceProgram\bin\Debug\05.MaxIncreasingSequenceProgram.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\05.MaxIncreasingSequenceProgram\bin\Debug\05.MaxIncreasingSequenceProgram.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\05.MaxIncreasingSequenceProgram\bin\Debug\05.MaxIncreasingSequenceProgram.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\05.MaxIncreasingSequenceProgram\obj\Debug\05.MaxIncreasingSequenceProgram.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\05.MaxIncreasingSequenceProgram\obj\Debug\05.MaxIncreasingSequenceProgram.pdb

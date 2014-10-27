@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe.config
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\06.ClassMatrix\obj\Debug\06.ClassMatrix.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\06.ClassMatrix\bin\Debug\06.ClassMatrix.pdb
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\06.ClassMatrix\obj\Debug\06.ClassMatrix.exe
+E:\My Space\TelerikCourse\MultidimensionalArraysHW\06.ClassMatrix\obj\Debug\06.ClassMatrix.pdb

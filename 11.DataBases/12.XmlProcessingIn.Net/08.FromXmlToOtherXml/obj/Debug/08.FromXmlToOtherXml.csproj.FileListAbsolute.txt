@@ -1,6 +1,0 @@
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\08.FromXmlToOtherXml\bin\Debug\08.FromXmlToOtherXml.exe.config
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\08.FromXmlToOtherXml\bin\Debug\08.FromXmlToOtherXml.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\08.FromXmlToOtherXml\bin\Debug\08.FromXmlToOtherXml.pdb
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\08.FromXmlToOtherXml\obj\Debug\08.FromXmlToOtherXml.csprojResolveAssemblyReference.cache
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\08.FromXmlToOtherXml\obj\Debug\08.FromXmlToOtherXml.exe
-c:\users\toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\08.FromXmlToOtherXml\obj\Debug\08.FromXmlToOtherXml.pdb

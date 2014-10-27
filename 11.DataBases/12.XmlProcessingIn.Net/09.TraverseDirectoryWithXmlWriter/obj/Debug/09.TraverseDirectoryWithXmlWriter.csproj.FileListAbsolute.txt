@@ -1,5 +1,0 @@
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\09.TraverseDirectoryWithXmlWriter\bin\Debug\09.TraverseDirectoryWithXmlWriter.exe.config
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\09.TraverseDirectoryWithXmlWriter\bin\Debug\09.TraverseDirectoryWithXmlWriter.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\09.TraverseDirectoryWithXmlWriter\bin\Debug\09.TraverseDirectoryWithXmlWriter.pdb
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\09.TraverseDirectoryWithXmlWriter\obj\Debug\09.TraverseDirectoryWithXmlWriter.exe
-C:\Users\Toshiba\documents\visual studio 2013\Projects\XmlProcessingIn.Net\09.TraverseDirectoryWithXmlWriter\obj\Debug\09.TraverseDirectoryWithXmlWriter.pdb

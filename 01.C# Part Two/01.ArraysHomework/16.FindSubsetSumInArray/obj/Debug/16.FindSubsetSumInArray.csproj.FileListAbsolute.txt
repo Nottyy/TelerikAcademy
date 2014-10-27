@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\16.FindSubsetSumInArray\bin\Debug\16.FindSubsetSumInArray.exe.config
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\16.FindSubsetSumInArray\bin\Debug\16.FindSubsetSumInArray.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\16.FindSubsetSumInArray\bin\Debug\16.FindSubsetSumInArray.pdb
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\16.FindSubsetSumInArray\obj\Debug\16.FindSubsetSumInArray.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\16.FindSubsetSumInArray\obj\Debug\16.FindSubsetSumInArray.exe
+C:\Users\Toshiba\documents\visual studio 2012\Projects\ArraysHomework\16.FindSubsetSumInArray\obj\Debug\16.FindSubsetSumInArray.pdb
